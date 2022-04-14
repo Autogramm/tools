@@ -2,9 +2,8 @@
 
 ## connl
 
-https://pyconll.readthedocs.io/en/stable/starting.html
-
-https://www.nltk.org/py-modindex.html
+- https://pyconll.readthedocs.io/en/stable/starting.html
+- https://www.nltk.org/py-modindex.html
 
 ## Elan
 
@@ -16,18 +15,16 @@ https://www.nltk.org/py-modindex.html
 - Christian Chanard : Elan2Conll
 - Ryan
 
-## Toolbox
+## SIL Toolbox format
 
-https://github.com/goodmami/toolbox
-
-https://github.com/xigt/xigt/blob/develop/xigt/importers/toolbox.py
-
-voir aussi dans NLTK
+- https://github.com/goodmami/toolbox
+- https://github.com/xigt/xigt/blob/develop/xigt/importers/toolbox.py
+- https://github.com/nltk/nltk/blob/develop/nltk/corpus/reader/toolbox.py
 
 ## IGT
 
-https://cysouw.github.io/pandoc-ling/readme.html#interlinear-examples
-
-https://github.com/cldf/pyigt
-
+- https://cysouw.github.io/pandoc-ling/readme.html#interlinear-examples
+- https://github.com/cldf/pyigt
+- https://github.com/sylvainloiseau/igt-tools
+- https://github.com/sylvainloiseau/interlineaR
 
