@@ -14,6 +14,7 @@
 - pepper (corpus-tools.org)
 - Christian Chanard : Elan2Conll
 - Ryan
+- https://github.com/ZAS-QUEST/eldpy
 
 ## SIL Toolbox (Shoebox) format
 
