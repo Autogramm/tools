@@ -23,6 +23,7 @@
 - https://github.com/xigt/xigt/blob/develop/xigt/importers/toolbox.py
 - https://github.com/nltk/nltk/blob/develop/nltk/corpus/reader/toolbox.py
 - parser dans Elan (package mpi.eudico.server.corpora.clomimpl.shoebox)
+- https://github.com/xigt/xigt/blob/develop/xigt/importers/toolbox.py
 
 ## IGT
 
@@ -34,11 +35,11 @@
 
 - A https://github.com/cldf/pyigt
 
-### From Elan and Emeld
+### Emeld-XML
 
 - https://github.com/sylvainloiseau/igt-tools
 - https://github.com/sylvainloiseau/interlineaR
 
 ### XIGT-XML
 
-- https://github.com/xigt/xigt/blob/develop/xigt/importers/toolbox.py
+- https://github.com/xigt/xigt/
