@@ -15,6 +15,7 @@
 - Christian Chanard : Elan2Conll
 - Ryan
 - https://github.com/ZAS-QUEST/eldpy
+- https://gitlab.huma-num.fr/cchanard/elan2conll
 
 ## SIL Toolbox (Shoebox) format
 
