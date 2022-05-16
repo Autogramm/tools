@@ -4,6 +4,8 @@
 
 - https://pyconll.readthedocs.io/en/stable/starting.html
 - https://www.nltk.org/py-modindex.html
+- https://github.com/dcavar/Py-JSON-NLP
+- https://pypi.org/project/spacy-conll/
 
 ## Elan
 
