@@ -5,14 +5,14 @@ Ils s'appuient sur des fichiers csv de correspondance qui se trouvent dans les d
 
 Le script est lancé avec la commande `python3 Conll2Conllu.py` avec l'environnement suivant :
 
-![image](https://user-images.githubusercontent.com/98810400/171850682-d45f29d6-f0c9-4ed0-a626-dda093ea9bd3.png)
+![image](https://user-images.githubusercontent.com/98810400/171854381-d46e3db6-69d8-41d4-8642-9c2081c39b48.png)
 
 NB : Les noms du dossier à traiter et des tables sont attribués par défaut avec les noms spécifiques présents sur l'image. (Modifiable dans le script aux lignes 42 à 45)
 
 
 Après exécution du script, un dossier resultat_conversion_conllu sera créé contenant les conllu convertis :
 
-![image](https://user-images.githubusercontent.com/98810400/171850777-dd62966c-dea3-4d9d-8550-3d77025f15f3.png)
+![image](https://user-images.githubusercontent.com/98810400/171854322-823dbd78-251f-4681-bbf9-c5bf792604ed.png)
 
 
 Remarques importantes : 
