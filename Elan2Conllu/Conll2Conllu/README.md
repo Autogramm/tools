@@ -10,7 +10,7 @@ Le script est lancé avec la commande `python3 Conll2Conllu.py` avec l'environne
 NB : Les noms du dossier à traiter et des tables sont attribués par défaut avec les noms spécifiques présents sur l'image. (Modifiable dans le script aux lignes 42 à 45)
 
 
-Après exécution du script, un dossier resultat_conversion_conllu sera créé contenant les conllu convertis :
+Après exécution du script, un dossier "resultat_conversion_conllu" sera créé contenant les conllu convertis :
 
 ![image](https://user-images.githubusercontent.com/98810400/171854322-823dbd78-251f-4681-bbf9-c5bf792604ed.png)
 
