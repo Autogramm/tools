@@ -9,9 +9,11 @@ Le script est lancé avec la commande `python3 Conll2Conllu.py` avec l'environne
 
 NB : Les noms du dossier à traiter et des tables sont attribués par défaut avec les noms spécifiques présents sur l'image. (Modifiable dans le script aux lignes 42 à 45)
 
+
 Après exécution du script, un dossier resultat_conversion_conllu sera créé contenant les conllu convertis :
 
 ![image](https://user-images.githubusercontent.com/98810400/171850777-dd62966c-dea3-4d9d-8550-3d77025f15f3.png)
+
 
 Remarques importantes : 
 1) Un lemme manquant sera rempli dans le conllu final par sa forme.
