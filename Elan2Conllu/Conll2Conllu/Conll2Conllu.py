@@ -164,7 +164,7 @@ def conversion():
                                 else:
                                     d[trait].append(valeur)
                             # on joint tous les Feats, avec une virgule séparant les valeurs quand il y en a plusieurs
-                            # par ordre alphabétique
+                            # dans l'ordre alphabétique
                             for key, value in d.items():
                                 L.append(key+"="+",".join(sorted(value)))                      
                             # on trie la liste pour avoir les traits dans l'ordre alphabétique également
