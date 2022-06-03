@@ -4,10 +4,13 @@ Ce dossier contient les scripts de conversion des fichiers Conll issus d'ELAN (v
 Ils s'appuient sur des fichiers csv de correspondance qui se trouvent dans les dossiers langue à la racine d'Autogramm (ex : `Autogramm > Zaar > tables_conversion.csv`)
 
 Le script est lancé avec la commande `python3 Conll2Conllu.py` avec l'environnement suivant :
+
 ![image](https://user-images.githubusercontent.com/98810400/171850682-d45f29d6-f0c9-4ed0-a626-dda093ea9bd3.png)
+
 NB : Les noms du dossier à traiter et des tables sont attribués par défaut avec les noms spécifiques présents sur l'image. (Modifiable dans le script aux lignes 42 à 45)
 
 Après exécution du script, un dossier resultat_conversion_conllu sera créé contenant les conllu convertis :
+
 ![image](https://user-images.githubusercontent.com/98810400/171850777-dd62966c-dea3-4d9d-8550-3d77025f15f3.png)
 
 Remarques importantes : 
