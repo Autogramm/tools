@@ -1,6 +1,6 @@
 # Links
 
-## connl
+## Conll
 
 - https://pyconll.readthedocs.io/en/stable/starting.html
 - https://www.nltk.org/py-modindex.html
