@@ -1,5 +1,5 @@
 # Wiki2Conll
-Ce dossier contient les scripts de conversion du [wiki du breton](https://arbres.iker.cnrs.fr/index.php?title=Arbres:Le_site_de_grammaire_du_breton) vers Conll.
+Ce dossier contient le script de conversion du [wiki du breton](https://arbres.iker.cnrs.fr/index.php?title=Arbres:Le_site_de_grammaire_du_breton) vers Conll.
 
 
 
@@ -27,7 +27,7 @@ A cela peuvent s'ajouter une ligne de transcription phonétique, une ligne d'éq
 
 Pour obtenir le contenu du site wiki, deux possibilités existent: 
 - **charger toutes les pages du site**: dans ce cas, il faut exécuter la deuxième cellule. L'opération peut prendre plusieurs dizaines de minutes. 
-- **utiliser un fichier Pickle**: le fichier Pickle contient les données du site. On peut créer le fichier soi-même en exécutant les cellules 3 et 4 ou utiliser le fichier Pickle déposé dans le dossier GitHub dédié au Breton. Dans le deuxième cas, il suffit de placer le fichier dans le même dossier que le notebook et d'exécuter les cellules 5 et 6.
+- **utiliser un fichier Pickle**: le fichier Pickle contient les données du site. On peut créer le fichier soi-même en exécutant les cellules 3 et 4 ou utiliser le fichier Pickle (Dict.txt) déposé dans le dossier GitHub dédié au Breton. Dans le deuxième cas, il suffit de placer le fichier dans le même dossier que le notebook et d'exécuter les cellules 5 et 6.
 
 ---
 ### Résultats
