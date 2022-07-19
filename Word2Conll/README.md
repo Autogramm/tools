@@ -3,7 +3,7 @@ Ce dossier contient les scripts de conversion de texte issu de Word vers Conll.
 
 La conversion se structure en trois étapes: 
 1. Séparation du corpus en parties (script split.py)
-2. Conversion des fichiers du corpus au format XML EMELD(script txt2xml.py)
+2. Conversion des fichiers du corpus au format XML EMELD (script txt2xml.py)
 3. Conversion des fichiers XML au format Conll (script xml2conll.py)
 
 ### Prérequis
@@ -25,7 +25,7 @@ Le script produit en sortie un fichier txt par partie. Les fichiers sont enregis
 ---
 
 ### Conversion des fichiers txt en XML
-Le script txt2xml traite un à un les fichiers du dossier Corpus produits par le script précédent. Cette étape intermédiaire en XML permet de mieux structurer la glose inter-linéraire. Le format retenu est le format EMELD dont la structure est la suivante: 
+Le script txt2xml traite un à un les fichiers du dossier Corpus produits par le script précédent. Cette étape intermédiaire en XML permet de mieux structurer les informations de la glose interlinéraire. Le format retenu est le format EMELD dont la structure est la suivante: 
 
 ![xml](https://user-images.githubusercontent.com/95420208/179007399-c28ba5bb-03b9-497b-b3ca-9cd8fb0417ad.png)
 
@@ -34,6 +34,6 @@ Les fichiers XML en sortie sont enregistrés dans le dossier XML.
 ---
 
 ### Conversion des fichiers XML en Conll
-Le script xml2conll prend en entrée les fichiers du dossier XML et les transforme en fichier Conll. Le découpage en morphème est conservé. Toutes les informations de la glose sont contenues dans les traits Gloss. 
+Le script xml2conll prend en entrée les fichiers du dossier XML et les transforme en fichier Conll. Le découpage en morphème effectué à l'étape précédente est conservé. Toutes les informations de la glose sont contenues dans les traits Gloss. 
 
 Les fichiers de sortie sont enregistrés dans le dossier CoNLL. 
