@@ -5,7 +5,7 @@ Ce dossier contient le script de conversion du [wiki du breton](https://arbres.i
 
 ### Sources
 
-Le script récupère tous les tableaux du type prettytable. Le code source d'un tableau "standard" ressemble à ceci : 
+Le script récupère tous les tableaux du type prettytable. Le texte source d'un tableau "standard" ressemble à ceci : 
 
 ```
 {| class="prettytable"
@@ -20,17 +20,18 @@ Le script récupère tous les tableaux du type prettytable. Le code source d'un 
 ```
 
 Il comporte quatre ligne: la ligne de tokens, la ligne de glose, la traduction et la source. 
-A cela peuvent s'ajouter une ligne de transcription phonétique, une ligne d'équivalent standardisé en cas de variation dialectale ou une deuxième ligne de source, par exemple lorsqu'une phrase tirée d'un ouvrage est citée dans un autre. 
+A cela peuvent s'ajouter une ligne de transcription phonétique, une ligne d'équivalent standardisé en cas de variation dialectale ou une deuxième ligne de source. 
 
 ---
 ### Charger le contenu du wiki
 
-Pour obtenir le contenu du site wiki, deux possibilités existent: 
-- **charger toutes les pages du site**: dans ce cas, il faut exécuter la deuxième cellule. L'opération peut prendre plusieurs dizaines de minutes. 
-- **utiliser un fichier Pickle**: le fichier Pickle contient les données du site. On peut créer le fichier soi-même en exécutant les cellules 3 et 4 ou utiliser le fichier Pickle (Dict.txt) déposé dans le dossier GitHub dédié au Breton. Dans le deuxième cas, il suffit de placer le fichier dans le même dossier que le notebook et d'exécuter la cinquième cellule.
+Pour obtenir le contenu du wiki, deux possibilités existent: 
+- **charger toutes les pages du site**: dans ce cas, il faut exécuter la deuxième cellule du notebook. L'opération peut prendre plusieurs dizaines de minutes. 
+- **utiliser un fichier Pickle**: le fichier Pickle contient les données du site. On peut créer le fichier soi-même en exécutant les cellules 3 et 4 ou utiliser le fichier Pickle ([Dict.txt](https://github.com/Autogramm/Breton/blob/main/Dict.txt)) déposé dans le dossier GitHub dédié au Breton. Dans le deuxième cas, il suffit de placer le fichier dans le même dossier que le notebook et d'exécuter la cinquième cellule.
 
 ---
 ### Résultats
 
-Le script produit en sortie des fichiers Conll où les informations issues de la glose sont contenues dans le trait Gloss. Les fichiers Conll sont classés par dialectes : Breton Central, Cornouaillais, Léonard, Standard, Trégorrois et Vannetais. Les Conll des tableaux où le dialecte n'est pas spécifié sont regroupés dans un fichier "Inconnu".
+Le script produit en sortie des fichiers Conll enregistrés dans un sous-dossier bretonconlls qu'il faut avoir créé au préalable. Les fichiers Conll sont classés par dialectes : Breton Central, Cornouaillais, Léonard, Standard, Trégorrois et Vannetais. Les Conll des tableaux où le dialecte n'est pas spécifié sont regroupés dans un fichier "Inconnu".
+
 
