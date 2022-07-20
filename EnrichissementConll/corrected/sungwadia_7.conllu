@@ -1,0 +1,508 @@
+# sent_id = Sursurigi_Gatou_matan_Sigo1
+# text_en = Voilà l'histoire du crabe de cocotier et du martin-pêcheur
+1	Kia-	Kia-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+2	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+3	sursurigi	sursurigi	AUX	_	_	-1	_	_	Gloss=histoire
+4	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe.de.cocotier
+5	mata	mata	AUX	_	_	-1	_	_	Gloss=avec
+6	-n	-n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+7	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+
+# sent_id = Sursurigi_Gatou_matan_Sigo3
+# text_en = Il le regarda, le regarda, le regarda, puis dit:
+1	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+2	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	ete,	ete,	AUX	_	_	-1	_	_	Gloss=voir
+7	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+8	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+9	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+
+# sent_id = Sursurigi_Gatou_matan_Sigo4
+# text_en = Non, l'homme , toutes les créatures  marchent vers l'avant (littéralement: avec leur visage)
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	aniani	aniani	AUX	_	_	-1	_	_	Gloss=choses|MGloss=RED~choses|MSeg=ani~ani|Reduplicated=Yes
+7	ririki	ririki	AUX	_	_	-1	_	_	Gloss=petit|MGloss=RED~petit|MSeg=ri~riki|Reduplicated=Yes
+8	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=complètement
+9	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+10	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+11	min	min	AUX	_	_	-1	_	_	Gloss=avec
+12	a=	a=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+13	nago-	nago-	AUX	_	_	-1	_	_	Gloss=visage-|TokenType=Aff
+14	ra.	ra.	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+
+# sent_id = Sursurigi_Gatou_matan_Sigo5
+# text_en = Le crabe de cocotier marche vers l'arrière, et lentement, en plus.
+1	Gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+2	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	sugwagi	sugwagi	AUX	_	_	-1	_	_	Gloss=marcher.en.arrière
+5	malabusa	malabusa	AUX	_	_	-1	_	_	Gloss=tranquille
+6	maia	maia	AUX	_	_	-1	_	_	Gloss=aussi
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo7
+# text_en = Eh, tu marches comme ça, toi.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Wo	wo	AUX	_	_	-1	_	_	Gloss=Interj
+3	niko=	niko=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+4	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+5	doklakala	doklakala	AUX	_	_	-1	_	_	Gloss=ainsi
+6	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo10
+# text_en = Si nous courions, je te vaincrais à la course.
+1	Wari	wari	AUX	_	_	-1	_	_	Gloss=Hyp
+2	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plin=|TokenType=Clit|deprel=subj
+3	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+4	rowo,	rowo,	AUX	_	_	-1	_	_	Gloss=courir
+5	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+7	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+8	liwi	liwi	AUX	_	_	-1	_	_	Gloss=vaincre
+9	-ko	-ko	AUX	_	Case=Acc|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=-O2sg|TokenType=Aff|deprel=comp:obj
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo11
+# text_en = Il dit Oh, non, tu ne me vaincrais pas à la course.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Ow	ow	AUX	_	_	-1	_	_	Gloss=Interj
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	niko=	niko=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+10	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+11	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+12	ŋa	ŋa	AUX	_	_	-1	_	_	Gloss=PEN
+13	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+14	liwi	liwi	AUX	_	_	-1	_	_	Gloss=vaincre
+15	-au	-au	AUX	_	Case=Acc|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=-O1sg|TokenType=Aff|deprel=comp:obj
+16	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+17	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+18	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo12
+# text_en = Il dit Si. Très bien, nous allons choisir un jour
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+10	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+11	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+12	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+13	qoŋi	qoŋi	AUX	_	_	-1	_	_	Gloss=jour
+14	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo13
+# text_en = et nous essaierons de faire la course, et nous verrons bien (nous testerons) qui gagnera.
+1	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+2	ti=	ti=	AUX	_	Aspect=Aor|Clusivity=Incl|Number=Plur|Person=1	-1	_	_	Gloss=Aor1plincl=|TokenType=Clit
+3	da-	da-	AUX	_	_	-1	_	_	Gloss=faire-|TokenType=Aff
+4	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+5	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+8	ti=	ti=	AUX	_	Aspect=Aor|Clusivity=Incl|Number=Plur|Person=1	-1	_	_	Gloss=Aor1plincl=|TokenType=Clit
+9	da-	da-	AUX	_	_	-1	_	_	Gloss=faire-|TokenType=Aff
+10	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+11	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+12	sei	sei	AUX	_	_	-1	_	_	Gloss=qui
+13	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+14	liwi."	liwi."	AUX	_	_	-1	_	_	Gloss=vaincre
+
+# sent_id = Sursurigi_Gatou_matan_Sigo14
+# text_en = Il choisirent un jour, le fixèrent et cela en resta là.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=AorPl=|TokenType=Clit
+3	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+6	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+9	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+10	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo15
+# text_en = Le martin-pêcheur rentra chez lui, et s'occupa de sa nourriture (litt: se fit quant à sa nourriture), et ainsi de suite;
+1	Sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+4	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	toti	toti	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog
+7	da	da	AUX	_	_	-1	_	_	Gloss=faire
+8	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+9	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+10	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+11	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+12	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	si	si	AUX	_	_	-1	_	_	Gloss=ou
+15	sava	sava	AUX	_	_	-1	_	_	Gloss=quoi
+16	doklakala	doklakala	AUX	_	_	-1	_	_	Gloss=ainsi
+17	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo16
+# text_en = mais Crabe n'alla pas dormir, jil travailla, il alla voir quelques (autres) crabes
+1	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+2	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+3	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+4	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+5	ŋa	ŋa	AUX	_	_	-1	_	_	Gloss=PEN
+6	maturu	maturu	AUX	_	_	-1	_	_	Gloss=dormir
+7	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	da	da	AUX	_	_	-1	_	_	Gloss=faire
+10	masiŋa	masiŋa	AUX	_	_	-1	_	_	Gloss=travail
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+13	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+14	ete-	ete-	AUX	_	_	-1	_	_	Gloss=voir-|TokenType=Aff
+15	ra	ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+16	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+17	lebata	lebata	AUX	_	_	-1	_	_	Gloss=quelques
+18	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+19	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo17
+# text_en = Martin-pêcheur s'est moqué de nous
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+3	mana	mana	AUX	_	_	-1	_	_	Gloss=rire
+4	-gida	-gida	AUX	_	Case=Acc|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=-O1plincl|TokenType=Aff|deprel=comp:obj
+5	;-	;	AUX	_	Case=Acc|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=rire-O1plincl|TokenType=Aff|deprel=comp:obj
+
+# sent_id = Sursurigi_Gatou_matan_Sigo18
+# text_en = Aujourd'hui, comme ça, nous allons agir tous ensemble
+1	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+2	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=ainsi
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	da	da	AUX	_	_	-1	_	_	Gloss=faire
+7	tunubu	tunubu	AUX	_	_	-1	_	_	Gloss=ensemble
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo20
+# text_en = vous (y) allez et restez là-bas.
+1	kamu=	kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+3	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=AorPl=|TokenType=Clit
+4	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+5	ala	ala	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo21
+# text_en = Ainsi, le jour (venu) nous nous mesurerons avec le martin-pêcheur (littéralement, nous mesurerons le martin-pêcheur avec nous)
+1	Le=	Le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+2	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+3	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+4	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=ainsi
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+7	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+8	vaga-	vaga-	AUX	_	_	-1	_	_	Gloss=Récip-|TokenType=Aff
+9	vaga-liwliwi	liwliwi	AUX	_	_	-1	_	_	Gloss=gagner-|MGloss=RED~gagner|MSeg=liw~liwi|Reduplicated=Yes|TokenType=Aff
+10	mata	mata	AUX	_	_	-1	_	_	Gloss=avec
+11	-da	-da	AUX	_	Case=Poss|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=-P1pl|TokenType=Aff|deprel=mod:poss
+12	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo22
+# text_en = Le martin-pêcheur courra tout seul, alors que nous, nous serons ensemble dans cette course.
+1	Sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+2	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+3	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+4	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+5	gase	gase	AUX	_	_	-1	_	_	Gloss=seul
+6	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+9	gida	gida	AUX	_	Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=I1plincl|TokenType=Clit|deprel=dislocated
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+12	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+13	bul-	bul-	AUX	_	_	-1	_	_	Gloss=ensemble-|TokenType=Aff
+14	gida	gida	AUX	_	Case=Acc|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=O1plinc|TokenType=Clit|deprel=comp:obj
+15	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+16	rowana	rowana	AUX	_	_	-1	_	_	Gloss=course
+17	kia-	kia-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+18	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+19	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+20	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo23
+# text_en = Le temps passa, et un jour, cette date qu'ils avaient posé pour la course arriva
+1	Totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=RED~rester|MSeg=to~toga|Reduplicated=Yes
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+4	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	masqala	masqala	AUX	_	_	-1	_	_	Gloss=époque
+7	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+8	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+9	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+10	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+11	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+12	ira	ira	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl|TokenType=Clit|deprel=subj
+13	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+14	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+15	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+16	sumai,	sumai,	AUX	_	_	-1	_	_	Gloss=venir
+
+# sent_id = Sursurigi_Gatou_matan_Sigo24
+# text_en = quand le martin-pêcheur descendit au matin, il vit Crabe, au même endroit.
+1	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+2	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	roqoŋi,	roqoŋi,	AUX	_	_	-1	_	_	Gloss=matin
+6	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+7	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+8	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+9	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+10	ta=	ta=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+11	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+12	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+13	tania-	tania-	AUX	_	_	-1	_	_	Gloss=place-|TokenType=Aff
+14	na.	na.	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+
+# sent_id = Sursurigi_Gatou_matan_Sigo26
+# text_en = Oh, je t'ai attendu longtemps. (ça fait longtemps que je t’attends)
+1	Wou	wou	AUX	_	_	-1	_	_	Gloss=Interj
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+4	ragegi-	ragegi-	AUX	_	_	-1	_	_	Gloss=attendre-|TokenType=Aff
+5	ko	ko	AUX	_	Case=Acc|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=O2sg|TokenType=Clit|deprel=comp:obj
+6	tueta	tueta	AUX	_	_	-1	_	_	Gloss=longtemps
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo28
+# text_en = Il dit très bien. Il comptèrent jusqu'à trois et partirent
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+9	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+10	qatviro	qatviro	AUX	_	_	-1	_	_	Gloss=??
+11	valu	valu	AUX	_	_	-1	_	_	Gloss=compter
+12	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+13	tolu	tolu	AUX	_	_	-1	_	_	Gloss=trois
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+15	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+16	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+17	tekerag.	tekerag.	AUX	_	_	-1	_	_	Gloss=partir
+
+# sent_id = Sursurigi_Gatou_matan_Sigo29
+# text_en = Quand ils partirent, quand (alors que?) le martin-pêcheur partit ainsi, en volant,
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+3	tekeragi,	tekeragi,	AUX	_	_	-1	_	_	Gloss=partir
+4	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+5	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+6	tekeragi	tekeragi	AUX	_	_	-1	_	_	Gloss=partir
+7	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=ainsi
+8	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+9	gaga,	gaga,	AUX	_	_	-1	_	_	Gloss=voler
+
+# sent_id = Sursurigi_Gatou_matan_Sigo30
+# text_en = le crabe marcha en arrière, dans le mauvais sens, et retourna	dans son trou, et il resta tranquille, il resta (là).
+1	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	sugwagi	sugwagi	AUX	_	_	-1	_	_	Gloss=marcher.en.arrière
+4	tawu	tawu	AUX	_	_	-1	_	_	Gloss=vers.l'arrière
+5	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+6	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	lulu-	lulu-	AUX	_	_	-1	_	_	Gloss=trou-|TokenType=Aff
+9	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+10	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+11	malabusa	malabusa	AUX	_	_	-1	_	_	Gloss=tranquille
+12	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+13	tau	tau	AUX	_	_	-1	_	_	Gloss=Contin| Aspect=Cont
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo31
+# text_en = Martin-pêcheur vola, vola, vola, atteignit une pointe et demanda (en direction de la rive) Crabe?,
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	gaga,	gaga,	AUX	_	_	-1	_	_	Gloss=voler
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	gaga	gaga	AUX	_	_	-1	_	_	Gloss=voler
+7	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+8	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+9	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+10	ŋorai	ŋorai	AUX	_	_	-1	_	_	Gloss=pointe
+11	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+12	usi	usi	AUX	_	_	-1	_	_	Gloss=demander
+13	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+14	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo32
+# text_en = le crabe lui répondit Ohé!. Il continua à voler
+1	gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+2	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	wou	wou	AUX	_	_	-1	_	_	Gloss=Interj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+8	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+9	gaga.	gaga.	AUX	_	_	-1	_	_	Gloss=voler
+
+# sent_id = Sursurigi_Gatou_matan_Sigo33
+# text_en = Il vola, vola, arriva à une pointe, et cria vers la plage:
+1	Gaga	gaga	AUX	_	_	-1	_	_	Gloss=voler
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vavano,	vavano,	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano,|Reduplicated=Yes
+4	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	ŋorai	ŋorai	AUX	_	_	-1	_	_	Gloss=pointe
+7	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+10	wulo	wulo	AUX	_	_	-1	_	_	Gloss=crier
+11	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+
+# sent_id = Sursurigi_Gatou_matan_Sigo34
+# text_en = Crabe!  Le crabe dit Ohé!
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Gatou?	Gatou?	AUX	_	_	-1	_	_	Gloss=crabe
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Gatou	gatou	AUX	_	_	-1	_	_	Gloss=Crabe
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	Wou!	Wou!	AUX	_	_	-1	_	_	Gloss=Interj
+9	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo37
+# text_en = Et ainsi de suite (litt: avec lui)
+1	Gatou	gatou	AUX	_	_	-1	_	_	Gloss=crabe
+2	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Wou!	Wou!	AUX	_	_	-1	_	_	Gloss=Interj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+7	gini	gini	AUX	_	_	-1	_	_	Gloss=avec
+8	-ia	-ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-Obl3sg|TokenType=Aff|deprel=comp:obl
+9	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=RED~aller|MSeg=vi~vano|Reduplicated=Yes
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo38
+# text_en = Le martin-pêcheur volait, volait, ses os devinrent faibles, il monta et descendit au dessus de la plage, tomba, et mourut.
+1	Sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+2	gigaga	gigaga	AUX	_	_	-1	_	_	Gloss=voler|MGloss=RED~voler|MSeg=gi~gaga|Reduplicated=Yes
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	suri	suri	AUX	_	_	-1	_	_	Gloss=os
+5	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+6	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+7	galgalo,	galgalo,	AUX	_	_	-1	_	_	Gloss=faible
+8	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+9	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	one,	one,	AUX	_	_	-1	_	_	Gloss=plage
+12	wadaŋe	wadaŋe	AUX	_	_	-1	_	_	Gloss=tomber
+13	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+14	mate.	mate.	AUX	_	_	-1	_	_	Gloss=mort
+
+# sent_id = Sursurigi_Gatou_matan_Sigo40
+# text_en = Cette histoire finit ainsi.
+1	Sursurigi	sursurigi	AUX	_	_	-1	_	_	Gloss=histoire
+2	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	ŋwera	ŋwera	AUX	_	_	-1	_	_	Gloss=comme
+5	wesu	wesu	AUX	_	_	-1	_	_	Gloss=fini
+6	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=ainsi
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo42
+# text_en = nous ne devons pas travailler chacun tout seul comme le martin-pêcheur a essayé de faire dans cette course.
+1	gida=	gida=	AUX	_	_	-1	_	_	Gloss=1plinc=|TokenType=Clit
+2	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+3	kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+4	da	da	AUX	_	_	-1	_	_	Gloss=faire
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	masiŋa	masiŋa	AUX	_	_	-1	_	_	Gloss=travail
+7	gasgase-	gasgase-	AUX	_	_	-1	_	_	Gloss=seul-|MGloss=RED~seul-|MSeg=gas~gase-|Reduplicated=Yes|TokenType=Aff
+8	da	da	AUX	_	Case=Poss|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=P1plincl|TokenType=Clit|deprel=mod:poss
+9	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+10	mwere	mwere	AUX	_	_	-1	_	_	Gloss=comme
+11	sigo	sigo	AUX	_	_	-1	_	_	Gloss=martin.pêcheur
+12	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+13	da-	da-	AUX	_	_	-1	_	_	Gloss=faire-|TokenType=Aff
+14	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+15	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+16	da	da	AUX	_	_	-1	_	_	Gloss=faire
+17	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+18	rowana	rowana	AUX	_	_	-1	_	_	Gloss=course
+19	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+20	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo44
+# text_en = Si on pense que chaque homme doit faire son travail seul, que chaque jour, il suit sa propre idée, il va se tuer à la tâche.
+1	Gida=	Gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+2	do	do	AUX	_	_	-1	_	_	Gloss=penser
+3	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+4	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+5	tewtewa	tewtewa	AUX	_	_	-1	_	_	Gloss=un|MGloss=Distrib~un|MSeg=tew~tewa|Reduplicated=Yes
+6	da	da	AUX	_	_	-1	_	_	Gloss=faire
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	sava	sava	AUX	_	_	-1	_	_	Gloss=quoi
+9	masiŋa	masiŋa	AUX	_	_	-1	_	_	Gloss=travail
+10	tea	tea	AUX	_	_	-1	_	_	Gloss=NSpec
+11	gase	gase	AUX	_	_	-1	_	_	Gloss=seul
+12	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	val	val	AUX	_	_	-1	_	_	Gloss=chaque
+15	qoŋi	qoŋi	AUX	_	_	-1	_	_	Gloss=jour
+16	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+17	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+18	sur	sur	AUX	_	_	-1	_	_	Gloss=suivre
+19	leo	leo	AUX	_	_	-1	_	_	Gloss=voix
+20	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+21	tea	tea	AUX	_	_	-1	_	_	Gloss=NSpec
+22	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+23	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+24	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+25	mate	mate	AUX	_	_	-1	_	_	Gloss=mourir
+26	gin	gin	AUX	_	_	-1	_	_	Gloss=Instr
+27	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+28	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+29	masiŋa	masiŋa	AUX	_	_	-1	_	_	Gloss=travail
+30	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+31	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+32	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Gatou_matan_Sigo45
+# text_en = cette histoire se termine ainsi.
+1	Sursurigi	sursurigi	AUX	_	_	-1	_	_	Gloss=histoire
+2	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+3	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+4	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=ainsi

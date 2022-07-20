@@ -1,0 +1,1014 @@
+# sent_id = Waroro1
+# text_en = Il était une fois un homme et sa femme.
+1	Qoŋ	Qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+2	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+5	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+6	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+7	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+8	a	a	AUX	_	_	-1	_	_	Gloss=Art
+9	taiŋwa	taiŋwa	AUX	_	_	-1	_	_	Gloss=femme
+10	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+11	rua	rua	AUX	_	_	-1	_	_	Gloss=deux
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro2
+# text_en = Ils avaient deux enfants.
+1	Natu	natu	AUX	_	_	-1	_	_	Gloss=enfant
+2	-ra	-ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-P3pl|TokenType=Aff|deprel=mod:poss
+3	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+4	rua	rua	AUX	_	_	-1	_	_	Gloss=deux
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro3
+# text_en = Un jour, les deux enfants dirent à leur mère
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	toga,	toga,	AUX	_	_	-1	_	_	Gloss=rester
+3	totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+6	natu-	natu-	AUX	_	_	-1	_	_	Gloss=enfant-|TokenType=Aff
+7	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+8	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+9	rua	rua	AUX	_	_	-1	_	_	Gloss=deux
+10	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+11	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+12	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+13	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+14	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+15	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+
+# sent_id = Waroro4
+# text_en = qu'ils descendaient vers la mer ramasser des coquillages.
+1	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+4	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	tasi	tasi	AUX	_	_	-1	_	_	Gloss=mer
+7	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+8	sarsaroa	sarsaroa	AUX	_	_	-1	_	_	Gloss=ramasser|MGloss=Intrans~ramasser|MSeg=sar~saroa|Reduplicated=Yes
+9	qorogi	qorogi	AUX	_	_	-1	_	_	Gloss=coquillage
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro5
+# text_en = Leur mère leur dit: si vous descendez, attention à ne pas rencontrer quelqu'un.
+1	No-	No-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+2	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+3	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+4	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Kamu=	Kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+7	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+8	sugo,	sugo,	AUX	_	_	-1	_	_	Gloss=descendre
+9	ladoa	ladoa	AUX	_	_	-1	_	_	Gloss=veiller
+10	kamu=	kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+11	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+12	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+13	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+14	tatua.	tatua.	AUX	_	_	-1	_	_	Gloss=homme
+
+# sent_id = Waroro6
+# text_en = Ils dirent d'accord.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Wia	wia	AUX	_	_	-1	_	_	Gloss=bon
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro7
+# text_en = Ils descendirent ramasser des coquillages.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	saro	saro	AUX	_	_	-1	_	_	Gloss=ramasser
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	qorogi.	qorogi.	AUX	_	_	-1	_	_	Gloss=coquillage
+
+# sent_id = Waroro8
+# text_en = Elles ramassèrent des coquillages, leur panier s'emplit, puis elles le rapportèrent au village.
+1	Sarsar	sarsar	AUX	_	_	-1	_	_	Gloss=ramasser|MGloss=RED~ramasser|MSeg=sar~sar|Reduplicated=Yes
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	qorogi,	qorogi,	AUX	_	_	-1	_	_	Gloss=coquillage
+4	gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+5	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+6	ura	ura	AUX	_	_	-1	_	_	Gloss=plein
+7	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+8	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+9	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+10	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+13	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+14	varea	varea	AUX	_	_	-1	_	_	Gloss=village
+
+# sent_id = Waroro9
+# text_en = Ils mangèrent et le temps passa.
+1	Totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	gangani	gangani	AUX	_	_	-1	_	_	Gloss=manger|MGloss=Intrans~manger|MSeg=gan~gani|Reduplicated=Yes
+4	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+7	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+8	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro10
+# text_en = Le temps passa, et un autre jour, elles dirent à leur mère qu'elles descendaient à nouveau en bord de mer pour ramasser les coquillages.
+1	Totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+2	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+3	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+4	qoni	qoni	AUX	_	_	-1	_	_	Gloss=jour
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+7	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+8	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+9	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+11	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+12	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+13	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+14	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+15	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+16	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+17	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+18	tasi,	tasi,	AUX	_	_	-1	_	_	Gloss=mer
+19	sar	sar	AUX	_	_	-1	_	_	Gloss=ramasser
+20	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+21	qorogi.	qorogi.	AUX	_	_	-1	_	_	Gloss=coquillage
+
+# sent_id = Waroro12
+# text_en = Elles dirent d'accord.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Wia	wia	AUX	_	_	-1	_	_	Gloss=bon
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro13
+# text_en = Elles descendirent au bord de mer, cherchèrent des coquillages
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	tasi,	tasi,	AUX	_	_	-1	_	_	Gloss=mer
+6	sarsar	sarsar	AUX	_	_	-1	_	_	Gloss=chercher|MGloss=RED~chercher|MSeg=sar~sar|Reduplicated=Yes
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	qorogi	qorogi	AUX	_	_	-1	_	_	Gloss=coquillage
+9	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro14
+# text_en = et en descendant vers une pointe, elles trouvèrent un turbo vert.
+1	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+3	ŋorai	ŋorai	AUX	_	_	-1	_	_	Gloss=pointe
+4	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ka	ka	CCONJ	_	Aspect=Aor	-1	_	_	Amal=kae
+7	ge	ge	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+8	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+9	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+10	waroro.	waroro.	AUX	_	_	-1	_	_	Gloss=turbo.vert
+
+# sent_id = Waroro16
+# text_en = Elles descendent, descendent, et l’aînée dit à la cadette :
+1	Sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	tuagae	tuagae	AUX	_	_	-1	_	_	Gloss=aîné
+6	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+7	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+8	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+9	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+10	tasi	tasi	AUX	_	_	-1	_	_	Gloss=cadet
+11	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+12	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+
+# sent_id = Waroro17
+# text_en = Ca suffit. Le panier est plein, rentrons.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Tarisa	tarisa	AUX	_	_	-1	_	_	Gloss=suffire
+3	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+5	ura	ura	AUX	_	_	-1	_	_	Gloss=plein
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+8	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+9	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+10	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro18
+# text_en = Elles s’en retournent, s’en retournent
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+4	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+9	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+10	sumai,	sumai,	AUX	_	_	-1	_	_	Gloss=venir
+
+# sent_id = Waroro19
+# text_en = Mais quand elles arrivèrent au niveau de la pointent, elles aperçurent un homme
+1	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+2	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+3	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+4	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	ŋorai,	ŋorai,	AUX	_	_	-1	_	_	Gloss=pointe
+7	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+8	na=	na=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+9	tatua.	tatua.	AUX	_	_	-1	_	_	Gloss=homme
+
+# sent_id = Waroro20
+# text_en = Alors elle le rejoignirent
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ka	ka	CCONJ	_	Aspect=Aor	-1	_	_	Amal=kae
+4	ge	ge	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+5	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+10	tavalu	tavalu	AUX	_	_	-1	_	_	Gloss=côté
+11	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro21
+# text_en = et lui demandèrent: D'où viens-tu?
+1	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+2	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+3	usi	usi	AUX	_	_	-1	_	_	Gloss=interroger
+4	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+5	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+6	:	:	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	Niko=	Niko=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+9	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+10	bea?	bea?	AUX	_	_	-1	_	_	Gloss=où
+11	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro22
+# text_en = Il dit Hi, vous m'avez surpris! D'où venez-vous?
+1	Ia=	Ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	I	I	AUX	_	_	-1	_	_	Gloss=Interj
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+8	tagoso	tagoso	AUX	_	_	-1	_	_	Gloss=sursauter
+9	gin-	gin-	AUX	_	_	-1	_	_	Gloss=Instr-|TokenType=Aff
+10	kamurua	kamurua	AUX	_	Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=Obl2du|TokenType=Clit|deprel=comp:obl
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	Kamurua=	Kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+13	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+14	bea?	bea?	AUX	_	_	-1	_	_	Gloss=où
+15	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro23
+# text_en = Elles répondirent: Non, on suit la plage pour trouver des coquillages.
+1	Irarua=	Irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+2	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	kamirua=	kamirua=	AUX	_	_	-1	_	_	Gloss=S1exdu=|TokenType=Clit
+7	sursur	sursur	AUX	_	_	-1	_	_	Gloss=suivre|MGloss=RED~suivre|MSeg=sur~sur|Reduplicated=Yes
+8	tasi	tasi	AUX	_	_	-1	_	_	Gloss=mer
+9	sarsar	sarsar	AUX	_	_	-1	_	_	Gloss=chercher|MGloss=RED~chercher|MSeg=sar~sar|Reduplicated=Yes
+10	qorogi	qorogi	AUX	_	_	-1	_	_	Gloss=coquillage
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro25
+# text_en = Il dit: Je vis juste ici.
+1	Ia=	Ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Nau=	Nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+7	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+8	=ŋa."	=ŋa."	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+
+# sent_id = Waroro28
+# text_en = Alors elles lui demandèrent à nouveau :
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	usi-	usi-	AUX	_	_	-1	_	_	Gloss=interroger-|TokenType=Aff
+4	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+5	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+6	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+
+# sent_id = Waroro29
+# text_en = Tu n’as pas trouvé notre turbo vert ? on l’avait posé là.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Niko=	Niko=	AUX	_	_	-1	_	_	Gloss=2sg=|TokenType=Clit
+3	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+4	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+5	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+6	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+7	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+8	mi	mi	AUX	_	_	-1	_	_	Gloss=P1ex
+9	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+12	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+13	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+14	laka?	laka?	AUX	_	_	-1	_	_	Gloss=Deix
+15	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro30
+# text_en = Ensuite il leur dit Votre turbo vert, c'est moi, votre turbo.vert
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+3	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+4	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+5	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Ga-	Ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+8	mu	mu	AUX	_	Case=Poss|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=P2pl|TokenType=Clit|deprel=mod:poss
+9	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+10	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+11	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	nau	nau	AUX	_	Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=I1sg|TokenType=Clit|deprel=dislocated
+14	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+15	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+16	mu	mu	AUX	_	Case=Poss|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=P2pl|TokenType=Clit|deprel=mod:poss
+17	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+18	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+19	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro31
+# text_en = Ensuite, il leur demanda Etes-vous mariées?
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	tutura,	tutura,	AUX	_	_	-1	_	_	Gloss=se.lever
+4	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+5	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+6	usi-	usi-	AUX	_	_	-1	_	_	Gloss=interroger-|TokenType=Aff
+7	ra	ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+8	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+9	:	:	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	Kamurua=	Kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+12	bakbaka?	bakbaka?	AUX	_	_	-1	_	_	Gloss=être.marié
+13	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro32
+# text_en = Alors elles dirent que non, qu'elles n'étaient pas mariées.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+3	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+4	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+5	tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+8	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+9	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+10	bakbaka	bakbaka	AUX	_	_	-1	_	_	Gloss=être.marier
+11	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro33
+# text_en = Alors elles lui demandèrent Es-tu marié?
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+3	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+4	usi-	usi-	AUX	_	_	-1	_	_	Gloss=interroger-|TokenType=Aff
+5	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+6	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	niko=	niko=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+9	bakbaka?	bakbaka?	AUX	_	_	-1	_	_	Gloss=être.marié
+
+# sent_id = Waroro34
+# text_en = Il répondit Non, je ne suis pas marié du tout.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Nau=	Nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+8	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+9	ŋa	ŋa	AUX	_	_	-1	_	_	Gloss=PEN
+10	bakbaka	bakbaka	AUX	_	_	-1	_	_	Gloss=être.marié
+11	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro35
+# text_en = Alors elles lui dirent, puisque c'est comme ça, montons au village.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+4	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+7	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+8	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+9	varea	varea	AUX	_	_	-1	_	_	Gloss=village
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro37
+# text_en = Elles dirent Non, ils ne seront pas fâchés.
+1	Irarua	irarua	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+9	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+10	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+11	mero	mero	AUX	_	_	-1	_	_	Gloss=se.fâcher
+12	me	me	AUX	_	_	-1	_	_	Gloss=avec
+13	-ko	-ko	AUX	_	Case=Acc|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=-O2sg|TokenType=Aff|deprel=comp:obj
+14	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+15	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro38
+# text_en = Viens, allons-y.
+1	Sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+4	ti=	ti=	AUX	_	Aspect=Aor|Clusivity=Incl|Number=Plur|Person=1	-1	_	_	Gloss=Aor1plincl=|TokenType=Clit
+5	sae."	sae."	AUX	_	_	-1	_	_	Gloss=monter
+
+# sent_id = Waroro39
+# text_en = Il dit: D'accord.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro40
+# text_en = Ils montèrent, montèrent, jusqu'aux abords du village.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	sae,	sae,	AUX	_	_	-1	_	_	Gloss=monter
+4	sasae	sasae	AUX	_	_	-1	_	_	Gloss=monter|MGloss=Dur~monter|MSeg=sa~sae|Reduplicated=Yes
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	bebe	bebe	AUX	_	_	-1	_	_	Gloss=alentours
+7	varea	varea	AUX	_	_	-1	_	_	Gloss=village
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro41
+# text_en = puis elles le cachèrent, et elles se rendirent au village.
+1	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+2	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+3	taunigi	taunigi	AUX	_	_	-1	_	_	Gloss=cacher
+4	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ka	ka	CCONJ	_	Aspect=Aor	-1	_	_	Amal=kae
+7	ge	ge	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+8	sasae	sasae	AUX	_	_	-1	_	_	Gloss=monter|MGloss=Dur~monter|MSeg=sa~sae|Reduplicated=Yes
+9	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	varea,	varea,	AUX	_	_	-1	_	_	Gloss=village
+
+# sent_id = Waroro42
+# text_en = Elles posèrent le panier de coquillages.
+1	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+4	qorogi	qorogi	AUX	_	_	-1	_	_	Gloss=coquillages
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro43
+# text_en = Puis elles attendirent.
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	ka	ka	CCONJ	_	Aspect=Aor	-1	_	_	Amal=kae
+3	ge	ge	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+4	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro45
+# text_en = Maman, nous sommes descendues chercher des coquillages, et nous avons rencontré un homme.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	sarsar	sarsar	AUX	_	_	-1	_	_	Gloss=chercher|MGloss=RED~chercher|MSeg=sar~sar|Reduplicated=Yes
+7	qorogi	qorogi	AUX	_	_	-1	_	_	Gloss=coquillage
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	ka	ka	CCONJ	_	Aspect=Aor	-1	_	_	Amal=kae
+10	ge	ge	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+11	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+12	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+13	tatua.	tatua.	AUX	_	_	-1	_	_	Gloss=homme
+
+# sent_id = Waroro46
+# text_en = Alors leur maman dit: Et il est où?
+1	bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+3	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+4	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+5	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+6	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+9	ti	ti	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor
+10	bea?	bea?	AUX	_	_	-1	_	_	Gloss=où
+11	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro47
+# text_en = Elles dirent Là-bas, nous l'avons caché
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	laksugo	laksugo	AUX	_	_	-1	_	_	Gloss=Deix
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Kami=	Kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+8	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+9	taunigi-	taunigi-	AUX	_	_	-1	_	_	Gloss=cacher-|TokenType=Aff
+10	a"	a"	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = Waroro48
+# text_en = Alors leur maman leur dit ?? ne pas cacher l'homme.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+3	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+4	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+5	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+6	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+7	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+8	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+9	wari	wari	AUX	_	_	-1	_	_	Gloss=Comp
+10	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	Kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+12	taunigi	taunigi	AUX	_	_	-1	_	_	Gloss=cacher
+13	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+14	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+15	tatua.	tatua.	AUX	_	_	-1	_	_	Gloss=homme
+
+# sent_id = Waroro49
+# text_en = Allez le chercher.
+1	Kamurua=	Kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	ge=	ge=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+4	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+5	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro50
+# text_en = Elles y allèrent en courant.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+4	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro51
+# text_en = Ils descendirent, l'une tenait une main, l'autre tenait l'autre main.
+1	Sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+3	tor	tor	AUX	_	_	-1	_	_	Gloss=tenir
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	taval	taval	AUX	_	_	-1	_	_	Gloss=autre.côté
+6	lima	lima	AUX	_	_	-1	_	_	Gloss=main
+7	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+10	tor	tor	AUX	_	_	-1	_	_	Gloss=tenir
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+12	taval	taval	AUX	_	_	-1	_	_	Gloss=autre.côté
+13	lima	lima	AUX	_	_	-1	_	_	Gloss=main
+14	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro52
+# text_en = et ils s'en revinrent en courant et riant.
+1	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+2	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+3	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+4	manmana	manmana	AUX	_	_	-1	_	_	Gloss=Ger.rire|MGloss=RED~Ger.rire|MSeg=man~mana|Reduplicated=Yes
+5	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro53
+# text_en = Ils rentrent et atteignent le village
+1	Sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+2	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+3	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	varea;	varea;	AUX	_	_	-1	_	_	Gloss=village
+
+# sent_id = Waroro54
+# text_en = Leur maman leur dit:
+1	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+2	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+3	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+4	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+5	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+6	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+7	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+
+# sent_id = Waroro55
+# text_en = Votre maison est là-bas, vous habiterez là avec lui.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Vale	vale	AUX	_	_	-1	_	_	Gloss=maison
+3	-mu	-mu	AUX	_	Case=Poss|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=-P2pl|TokenType=Aff|deprel=mod:poss
+4	kivano	kivano	AUX	_	_	-1	_	_	Gloss=Deix
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	kamurua=	kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+7	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+8	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+9	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+10	ala	ala	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+11	me	me	AUX	_	_	-1	_	_	Gloss=avec
+12	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro56
+# text_en = Ils vont dans la maison.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+4	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+5	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+6	dina	dina	AUX	_	_	-1	_	_	Gloss=atteindre
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	vale,	vale,	AUX	_	_	-1	_	_	Gloss=maison
+
+# sent_id = Waroro57
+# text_en = Il leur dit: Si nous restons ensemble, si (un jour) vous vous mettez en colère,
+1	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+2	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+3	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+4	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+5	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+8	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+9	toga,	toga,	AUX	_	_	-1	_	_	Gloss=rester
+10	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+11	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+12	mero,	mero,	AUX	_	_	-1	_	_	Gloss=se.fâcher
+
+# sent_id = Waroro58
+# text_en = Vous ne devrez pas parler du turbo vert.
+1	kamu=	kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+3	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+4	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	waroro.	waroro.	AUX	_	_	-1	_	_	Gloss=turbo.vert
+
+# sent_id = Waroro59
+# text_en = Si vous parlez du turbo vert, je retourne dans la mer.
+1	Kamurua=	Kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+2	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+3	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	waroro,	waroro,	AUX	_	_	-1	_	_	Gloss=turbo.vert
+6	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+7	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+8	talwura	talwura	AUX	_	_	-1	_	_	Gloss=recommencer
+9	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	tasi.	tasi.	AUX	_	_	-1	_	_	Gloss=mer
+
+# sent_id = Waroro60
+# text_en = Elles dirent d'accord. Et ils s'en tinrent là.
+1	Irarua=	Irarua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+2	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+3	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Wia	wia	AUX	_	_	-1	_	_	Gloss=bon
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	toga.	toga.	AUX	_	_	-1	_	_	Gloss=rester
+
+# sent_id = Waroro61
+# text_en = Un jour, elles étaient en colère, il frappa l’une,
+1	Totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+4	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+7	mero,	mero,	AUX	_	_	-1	_	_	Gloss=se.fâcher
+8	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+9	vagis	vagis	AUX	_	_	-1	_	_	Gloss=frapper
+10	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro62
+# text_en = il frappa l’autre, les deux pleurèrent, et cela en resta là.
+1	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+2	vagis	vagis	AUX	_	_	-1	_	_	Gloss=frapper
+3	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+6	ŋara,	ŋara,	AUX	_	_	-1	_	_	Gloss=pleurer
+7	ka	ka	CCONJ	_	Aspect=Aor	-1	_	_	Amal=kae
+8	ge	ge	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+9	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro63
+# text_en = Un jour, elles se fachèrent à nouveau, il frappa l’une
+1	Totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+4	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+7	ge=	ge=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+8	mero	mero	AUX	_	_	-1	_	_	Gloss=se.fâcher
+9	doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+12	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+13	vagis	vagis	AUX	_	_	-1	_	_	Gloss=frapper
+14	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro67
+# text_en = Toi, là, qui nous frappent et nous fait mal, tu n’es que notre turbo vert !
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Niko	niko	AUX	_	Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=I2sg|TokenType=Clit|deprel=dislocated
+3	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	vagvagis	vagvagis	AUX	_	_	-1	_	_	Gloss=frapper|MGloss=RED~frapper|MSeg=vag~vagis|Reduplicated=Yes
+6	gadiri	gadiri	AUX	_	_	-1	_	_	Gloss=souffrir
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	na=	na=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+9	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	mi	mi	AUX	_	Case=Poss|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=P1plex|TokenType=Clit|deprel=mod:poss
+11	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro68
+# text_en = “Il dit “AH! je vous avais bien dit que même si nous disputions, vous ne deviez pas dire que j’étais un turbo vert !
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+4	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Ka!	Ka!	AUX	_	_	-1	_	_	Gloss=Interj
+7	Mo=	Mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+8	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+10	ta=	ta=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+11	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+12	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+13	ikamu	ikamu	AUX	_	Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=Obl2pl|TokenType=Clit|deprel=comp:obl
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+15	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+16	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+17	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+18	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+19	mero,	mero,	AUX	_	_	-1	_	_	Gloss=se.fâcher
+20	kamurua=	kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+21	kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+22	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+23	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+24	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+25	waroro.	waroro.	AUX	_	_	-1	_	_	Gloss=turbo.vert
+
+# sent_id = Waroro69
+# text_en = Vous l’avez dit, alors je dois m’en retourner chez moi.
+1	Kamu=	Kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	waroro,	waroro,	AUX	_	_	-1	_	_	Gloss=turbo.vert
+6	kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+7	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+8	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+9	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+10	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro70
+# text_en = Elles dirent non.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro71
+# text_en = Cela reste entre nous seuls
+1	Ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+2	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+3	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+4	da	da	AUX	_	Case=Poss|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=P1plincl|TokenType=Clit|deprel=mod:poss
+5	wuri	wuri	AUX	_	_	-1	_	_	Gloss=compléter
+6	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+7	gase	gase	AUX	_	_	-1	_	_	Gloss=seul
+8	-da	-da	AUX	_	Case=Poss|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=-P1plincl|TokenType=Aff|deprel=mod:poss
+9	=ŋa,	=ŋa,	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+
+# sent_id = Waroro72
+# text_en = Papa et Maman, ils n’ont rien entendu !
+1	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+2	mata	mata	AUX	_	_	-1	_	_	Gloss=avec
+3	-n	-n	AUX	_	_	-1	_	_	Gloss=-P3psg|TokenType=Aff
+4	tata	tata	AUX	_	_	-1	_	_	Gloss=papa
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+7	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+8	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+9	roŋo	roŋo	AUX	_	_	-1	_	_	Gloss=entendre
+10	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro73
+# text_en = “Il dit “Non, car je vous avais prévenues”
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+4	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+10	ta=	ta=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+11	veti,	veti,	AUX	_	_	-1	_	_	Gloss=dire
+
+# sent_id = Waroro74
+# text_en = Vous n’avez pas écouté. Maintenant je m’en vais.
+1	kamu=	kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+3	roŋo	roŋo	AUX	_	_	-1	_	_	Gloss=entendre
+4	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+10	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+11	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro75
+# text_en = Et elles ne purent rien y faire.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+4	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+5	ŋa	ŋa	AUX	_	_	-1	_	_	Gloss=PEN
+6	da	da	AUX	_	_	-1	_	_	Gloss=faire
+7	lai-	lai-	AUX	_	Mood=Pot	-1	_	_	Gloss=ModCap-|TokenType=Aff
+8	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+9	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro76
+# text_en = Il dit : je vais changer ma complainte en descendant.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+4	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+7	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+8	taŋtaŋi	taŋtaŋi	AUX	_	_	-1	_	_	Gloss=chanter.complainte
+9	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+10	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro77
+# text_en = Et sa complainte faisait ainsi…
+1	Ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+2	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+3	n	n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+4	taŋtaŋi	taŋtaŋi	AUX	_	_	-1	_	_	Gloss=complainte
+5	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=ainsi
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro78
+# text_en = Alors elles le suivirent, le prirent par le bras, lui dirent ne t’en vas pas !
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=AorPl=|TokenType=Clit
+5	tori-	tori-	AUX	_	_	-1	_	_	Gloss=tenir-|TokenType=Aff
+6	a,	a,	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+7	irarua=	irarua=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+9	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	Kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+11	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+12	tea!	tea!	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+13	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro79
+# text_en = “Il dit “moi je vous avais prévenues”
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+4	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+7	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+8	ta=	ta=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+9	veti	veti	AUX	_	_	-1	_	_	Gloss=dire
+10	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+11	kamurua	kamurua	AUX	_	Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=Obl2du|TokenType=Clit|deprel=comp:obl
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro80
+# text_en = Vous n’avez pas écouté.  Je m’en vais, là.
+1	kamurua=	kamurua=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+3	roŋo	roŋo	AUX	_	_	-1	_	_	Gloss=entendre
+4	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+7	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+8	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+9	=ŋa	=ŋa	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+10	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro83
+# text_en = Il descendit vers la mer, regarda dans l’eau
+1	Sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	dina	dina	AUX	_	_	-1	_	_	Gloss=atteindre
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	tasi,	tasi,	AUX	_	_	-1	_	_	Gloss=mer
+5	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	lol	lol	AUX	_	_	-1	_	_	Gloss=intérieur
+9	tasi	tasi	AUX	_	_	-1	_	_	Gloss=mer
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro84
+# text_en = Mais il ne trouva pas le rocher du turbo vert.
+1	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+2	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+3	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	vatu	vatu	AUX	_	_	-1	_	_	Gloss=pierre
+6	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro85
+# text_en = Lorsque je descendrai (dans la mer), vous deux vous restez, vous vous souviendrez de Turbo vert, vous verrez mon visage dans mon pagne
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Nau=	Nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+3	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+4	sugo,	sugo,	AUX	_	_	-1	_	_	Gloss=descendre
+5	kamurua=	kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+6	toga,	toga,	AUX	_	_	-1	_	_	Gloss=rester
+7	kamurua=	kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+8	dodomsaqe	dodomsaqe	AUX	_	_	-1	_	_	Gloss=se.souvenir
+9	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	kamu=	kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+12	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+13	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+14	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+15	nago-	nago-	AUX	_	_	-1	_	_	Gloss=visage-|TokenType=Aff
+16	ku	ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+17	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+18	mal	mal	AUX	_	_	-1	_	_	Gloss=pagne
+19	roi	roi	AUX	_	_	-1	_	_	Gloss=??
+20	-ku	-ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=-P1sg|TokenType=Aff|deprel=mod:poss
+21	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+22	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Waroro87
+# text_en = “Il y resta et Red.vint entièrement turbo vert. Et ce fut/c’est fini.”
+1	Totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+2	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+3	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+4	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+5	waroro	waroro	AUX	_	_	-1	_	_	Gloss=turbo.vert
+6	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=complètement
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	kati	kati	AUX	_	_	-1	_	_	Gloss=Coord
+9	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT

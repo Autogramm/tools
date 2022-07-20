@@ -1,0 +1,110 @@
+fréquence	Gloss	UD
+683	PUNCT	tag=PUNCT
+102	CP	tag=ADP|AdpType=PossClass
+98	-P3sg	tag=PRON|PronType=Prs|Case=Poss|Number=Sing|Person=3|deprel=mod:poss
+98	-O3sg	tag=PRON|PronType=Prs|Case=Acc|Number=Sing|Person=3|deprel=comp:obj
+96	NP	tag=PROPN
+89	Coord	tag=CCONJ
+85	Dem	PronType=Dem
+71	CP-	tag=ADP|AdpType=PossClass
+48	Deix	tag=ADV
+44	Quot	
+42	-P3pl	tag=PRON|PronType=Prs|Case=Poss|Number=Plur|Person=3|deprel=mod:poss
+39	Neg2	tag=ADV|Polarity=Neg
+38	Dem-	PronType=Dem
+34	ArtP=	tag=DET
+33	-Anaph	tag=ADV|deprel=mod:aff|TokenType=Aff
+30	Purp	tag=ADP
+27	Cadr=	
+26	Dest	tag=ADP
+26	Compl	tag=SCONJ|deprel=comp:obj
+26	-P1sg	tag=PRON|PronType=Prs|Case=Poss|Number=Sing|Person=1|deprel=mod:poss
+24	Interj	tag=INTJ
+24	PEN	tag=PART
+22	-PEN	tag=PART|TokenType=Aff
+18	Aorpl	tag=AUX|Aspect=Aor|Number=Plur
+18	Neg1	tag=ADV|Polarity=Neg
+17	Neg1-	tag=ADV|Polarity=Neg
+16	Topon	tag=PROPN|ExtPos=ADV|AdvType=Loc
+15	I3sg	tag=PRON|PronType=Prs|Number=Sing|Person=3|deprel=dislocated
+15	Art=	tag=DET
+14	Num	tag=NUM
+13	Aor	tag=AUX|Aspect=Aor
+13	Connex	
+12	Dest-	tag=ADP
+9	-Obl3pl	tag=PRON|PronType=Prs|Number=Plur|Person=3|deprel=comp:obl
+9	Num-	tag=NUM
+9	PftRes=	
+8	-deux	tag=NUM
+8	Anaph	tag=ADV|AdvType=Loc
+8	-Cataph	tag=ADV|deprel=mod:aff|TokenType=Aff
+8	Abl	tag=ADP
+8	Cataph	tag=ADV|deprel=mod:aff
+7	Instr	tag=ADP
+6	Prog	tag=AUX|Aspect=Prog
+6	ExistNeg	tag=ADV|Polarity=Neg
+5	Prohib	tag=VERB|Polarity=Neg|Mood=Imp
+5	Instr-	tag=ADP
+4	Neg	tag=ADV|Polarity=Neg
+4	Aor2sg	tag=AUX|Aspect=Aor|Number=Sing|Person=2
+4	connex	tag=CCONJ
+4	NEsp	tag=NOUN
+4	ArtAc	tag=DET|Case=Acc
+4	Caus-	tag=SCONJ
+3	-un	tag=NUM
+3	Irr	tag=AUX|Mood=Irr
+3	-Prox	tag=ADV|TokenType=Aff
+3	chez	tag=NOUN
+3	Caus	tag=SCONJ
+3	Loc	
+3	Deix-	tag=ADV
+3	Prox	tag=ADV
+3	Circ=	
+3	Evit=	
+2	ModCap	tag=VERB|Mood=Pot
+2	-Tr	tag=AUX
+2	Hyp	tag=SCONJ
+2	NSpec	tag=DET
+2	Disj	tag=CCONJ
+2	-dist	tag=ADV|TokenType=Aff
+2	Modpot	tag=VERB|Mood=Pot
+2	ArtPPl	tag=DET
+2	h	
+2	h	
+1	-Art	tag=DET
+1	Comp	
+1	Ger	
+1	LocAnaph	
+1	Récip	tag=AUX
+1	-Red	
+1	Contin	tag=AUX| Aspect=Cont
+1	ArtPl	tag=DET|Number=Plur
+1	InsTr	tag=ADP 
+1	Rel	PronType=Rel
+1	-quatre	tag=NUM
+1	-six	tag=NUM
+1	Nesp	tag=NOUN
+1	-prox	tag=ADV
+1	Pft	
+1	-O1plex	
+1	ArtPAc	tag=DET
+1	Orig	tag=ADP
+1	Foc	tag=ADV
+1	Aorsg	tag=AUX|Aspect=Aor|Number=Sing
+1	Onomat	tag=INTJ
+1	-Cataph?	
+1	ModCap-	tag=VERB|Mood=Pot
+1	Art	tag=DET
+1	Récip-	tag=AUX
+1	Neg-	tag=ADV|Polarity=Neg
+1	Abl-	tag=ADP
+1	Ac=	case=Acc
+1	Pft	
+1	Dem-Anaph	
+1	Crabe	
+1	Cadr	
+1	gagner-Tr	
+1	Occur-	
+1	Ben	
+1	Cataph?	
+1	PftRest=	

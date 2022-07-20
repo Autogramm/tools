@@ -1,0 +1,315 @@
+# sent_id = Sursurigi_Vatqalqalo1
+# text_en = Il était une fois, Vatqalqalo, qui vivait avec son époux.
+1	Qoŋ	Qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+2	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Vatqalqalo	Vatqalqalo	AUX	_	_	-1	_	_	Gloss=NP
+5	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+6	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+7	tubu	tubu	AUX	_	_	-1	_	_	Gloss=époux
+8	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	Toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+13	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+14	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+15	vano.	vano.	AUX	_	_	-1	_	_	Gloss=aller
+
+# sent_id = Sursurigi_Vatqalqalo6
+# text_en = Les deux y vont
+1	Irarua=	Irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+2	sae.	sae.	AUX	_	_	-1	_	_	Gloss=monter
+
+# sent_id = Sursurigi_Vatqalqalo7
+# text_en = Elles arrivèrent jusque vers les pandanus, et Vatqalqalo en escalada un.
+1	Sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+6	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+7	gire,	gire,	AUX	_	_	-1	_	_	Gloss=pandanus
+8	Vatqalqalo	Vatqalqalo	AUX	_	_	-1	_	_	Gloss=NP
+9	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+10	venag	venag	AUX	_	_	-1	_	_	Gloss=escalader
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+12	gire.	gire.	AUX	_	_	-1	_	_	Gloss=pandanus
+
+# sent_id = Sursurigi_Vatqalqalo8
+# text_en = Elle escalada, grimpa, grimpa et coupa, coupa, coupa, coupa.
+1	Sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+2	venaga	venaga	AUX	_	_	-1	_	_	Gloss=escalader
+3	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+4	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+5	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+6	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+7	sasae,	sasae,	AUX	_	_	-1	_	_	Gloss=monter|MGloss=Dur~monter|MSeg=sa~sae,|Reduplicated=Yes
+8	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+15	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo9
+# text_en = Maman, celle-ci, je ne vais pas pouvoir l'atteindre.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Veve!	Veve!	AUX	_	_	-1	_	_	Gloss=maman
+3	Kea-	Kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+4	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph?
+5	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+7	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+8	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+9	lai	lai	AUX	_	Mood=Pot	-1	_	_	Gloss=ModCap
+10	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+11	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+12	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo10
+# text_en = Elle est trop éloignée.
+1	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+2	raŋai	raŋai	AUX	_	_	-1	_	_	Gloss=très
+3	soai	soai	AUX	_	_	-1	_	_	Gloss=loin
+4	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo12
+# text_en = Avance sur la branche pour la couper.
+1	Go	go	AUX	_	Aspect=Aor|Number=Sing|Person=2	-1	_	_	Gloss=Aor2sg
+2	van	van	AUX	_	_	-1	_	_	Gloss=aller
+3	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+4	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+5	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+6	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo13
+# text_en = Elle s'avança, s'avança, et la branche de pandanus cassa!
+1	Vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+4	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+5	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	gire	gire	AUX	_	_	-1	_	_	Gloss=pandanus
+8	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+9	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+10	mavsara	mavsara	AUX	_	_	-1	_	_	Gloss=casser
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo14
+# text_en = La branche s'effondra, et la mère de Vatqalqalo lui marcha dessus pour la noyer dans la boue.
+1	Mavsara	mavsara	AUX	_	_	-1	_	_	Gloss=casser
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+5	rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+6	Vatqalqalo	Vatqalqalo	AUX	_	_	-1	_	_	Gloss=NP
+7	van	van	AUX	_	_	-1	_	_	Gloss=aller
+8	va-	va-	AUX	_	_	-1	_	_	Gloss=Caus-|TokenType=Aff
+9	va-ras	ras	AUX	_	_	-1	_	_	Gloss=marcher-|MGloss=CAUS-va-ras|MSeg=va-va-ras|TokenType=Aff
+10	armwagi	armwagi	AUX	_	_	-1	_	_	Gloss=noyer
+11	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+12	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+13	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+14	lol	lol	AUX	_	_	-1	_	_	Gloss=intérieur
+15	bubuaka	bubuaka	AUX	_	_	-1	_	_	Gloss=marais
+
+# sent_id = Sursurigi_Vatqalqalo15
+# text_en = Ensuite, elle rentra. Elle rentra s'installer avec son gendre.
+1	Tau	tau	AUX	_	_	-1	_	_	Gloss=Coord
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	mule.	mule.	AUX	_	_	-1	_	_	Gloss=rentrer
+4	Mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+8	me	me	AUX	_	_	-1	_	_	Gloss=avec
+9	qaliga	qaliga	AUX	_	_	-1	_	_	Gloss=gendre
+10	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo16
+# text_en = Vatqalqalo resta étendue là, et son esprit s'en vint.
+1	Vatqalqalo	Vatqalqalo	AUX	_	_	-1	_	_	Gloss=NP
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	eva,	eva,	AUX	_	_	-1	_	_	Gloss=être.étendu
+4	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+5	n	n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+6	tamate	tamate	AUX	_	_	-1	_	_	Gloss=esprit
+7	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+8	sumai.	sumai.	AUX	_	_	-1	_	_	Gloss=venir
+
+# sent_id = Sursurigi_Vatqalqalo18
+# text_en = Elle dit Qu'est-ce qui m'est arrivé?
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Nau	nau	AUX	_	Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=I1sg|TokenType=Clit|deprel=dislocated
+6	dagasnia	dagasnia	AUX	_	_	-1	_	_	Gloss=comment
+7	kea?	kea?	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+8	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo19
+# text_en = Toi, ta maman t'as marché dessus pour te noyer dans la boue.
+1	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Niko	niko	AUX	_	Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=I2sg|TokenType=Clit|deprel=dislocated
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+5	ŋ	ŋ	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+6	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	va-	va-	AUX	_	_	-1	_	_	Gloss=Caus-|TokenType=Aff
+9	va-ras	ras	AUX	_	_	-1	_	_	Gloss=marcher-|MGloss=CAUS-va-ras|MSeg=va-va-ras|TokenType=Aff
+10	armwagigi	armwagigi	AUX	_	_	-1	_	_	Gloss=noyer
+11	-ko	-ko	AUX	_	Case=Acc|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=-O2sg|TokenType=Aff|deprel=comp:obj
+12	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+13	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+14	lol	lol	AUX	_	_	-1	_	_	Gloss=intérieur
+15	leba	leba	AUX	_	_	-1	_	_	Gloss=boue
+16	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo20
+# text_en = Elle est redescendue s'installer avec ton mari.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+5	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+6	tubu	tubu	AUX	_	_	-1	_	_	Gloss=époux
+7	-ŋa	-ŋa	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=-P2sg|TokenType=Aff|deprel=mod:poss
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo21
+# text_en = Prends ton couteau, suis là.
+1	Lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+4	ŋ	ŋ	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+5	tevteve	tevteve	AUX	_	_	-1	_	_	Gloss=couteau
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	sursuri-	sursuri-	AUX	_	_	-1	_	_	Gloss=suivre-|MGloss=RED~suivre-|MSeg=sur~suri-|Reduplicated=Yes|TokenType=Aff
+8	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo22
+# text_en = Descends la tuer.
+1	Sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	vagis	vagis	AUX	_	_	-1	_	_	Gloss=frapper
+3	va-	va-	AUX	_	_	-1	_	_	Gloss=Caus-|TokenType=Aff
+4	va-mate	mate	AUX	_	_	-1	_	_	Gloss=mourir-|MGloss=CAUS-va-mate|MSeg=va-va-mate|TokenType=Aff
+5	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo23
+# text_en = Elle chanta sa chanson, sa complainte
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	asi,	asi,	AUX	_	_	-1	_	_	Gloss=chanson
+6	taŋtaŋi	taŋtaŋi	AUX	_	_	-1	_	_	Gloss=complainte
+7	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo24
+# text_en = Ils ne l'ont pas encore entendue. Elle chante à nouveau:
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+3	qa	qa	AUX	_	_	-1	_	_	Gloss=PEN
+4	roŋo	roŋo	AUX	_	_	-1	_	_	Gloss=entendre
+5	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+8	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+9	:	:	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo25
+# text_en = Elle dit Comment cela ?
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Dagasnia?	Dagasnia?	AUX	_	_	-1	_	_	Gloss=comment
+6	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo26
+# text_en = Il dit Les entends-tu tous là-haut qui disent ton nom ?
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	roŋo	roŋo	AUX	_	_	-1	_	_	Gloss=entendre
+6	-ra	-ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-O3pl|TokenType=Aff|deprel=comp:obj
+7	de	de	AUX	_	_	-1	_	_	Gloss=??
+8	kisae	kisae	AUX	_	_	-1	_	_	Gloss=Deix
+9	mwer	mwer	AUX	_	_	-1	_	_	Gloss=enfant
+10	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+12	sasa-	sasa-	AUX	_	_	-1	_	_	Gloss=nom-|TokenType=Aff
+13	ŋa?	ŋa?	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+
+# sent_id = Sursurigi_Vatqalqalo28
+# text_en = Quand elle sortit à sa rencontre, elle dit : Viens ma chérie, va retrouver ton époux.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+4	lua	lua	AUX	_	_	-1	_	_	Gloss=sortir
+5	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+8	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	Sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+10	tua	tua	AUX	_	_	-1	_	_	Gloss=chéri
+11	-ku	-ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=-P1sg|TokenType=Aff|deprel=mod:poss
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+14	go	go	AUX	_	Aspect=Aor|Number=Sing|Person=2	-1	_	_	Gloss=Aor2sg
+15	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+16	me	me	AUX	_	_	-1	_	_	Gloss=avec
+17	nia	nia	AUX	_	_	-1	_	_	Gloss=époux
+18	-ŋa	-ŋa	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=-P2sg|TokenType=Aff|deprel=mod:poss
+19	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+20	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo29
+# text_en = Vatqalqalo prit son couteau, et la tua avec.
+1	Vatqalqalo	Vatqalqalo	AUX	_	_	-1	_	_	Gloss=NP
+2	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+5	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+6	tevteve	tevteve	AUX	_	_	-1	_	_	Gloss=couteau
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+9	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+12	mate.	mate.	AUX	_	_	-1	_	_	Gloss=mourir
+
+# sent_id = Sursurigi_Vatqalqalo30
+# text_en = Elle se réinstalla avec son époux.
+1	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+2	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+3	me	me	AUX	_	_	-1	_	_	Gloss=avec
+4	tubu	tubu	AUX	_	_	-1	_	_	Gloss=époux
+5	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_Vatqalqalo31
+# text_en = L'histoire se termine là.
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	weswesu	weswesu	AUX	_	_	-1	_	_	Gloss=finir
+5	laka-	laka-	AUX	_	_	-1	_	_	Gloss=Deix-|TokenType=Aff
+6	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT

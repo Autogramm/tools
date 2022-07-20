@@ -1,0 +1,1492 @@
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso2
+# text_en =  Taso était un ogre.
+1	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+2	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+3	liwo	liwo	_	_	_	_	_	_	Gloss=ogre
+4	.	.	_	_	_	_	_	_	Gloss=PUNCT
+5	gangani	gangani	_	_	_	_	_	_	Gloss=ogre
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso3
+# text_en =  Il y a longtemps, Taso mangeait des êtres humains, ici, à Maewo.
+1	Tueta	Tueta	_	_	_	_	_	_	Gloss=longtemps
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+4	toti=	toti=	_	_	_	_	_	_	Gloss=Prog
+5	gani-	gani-	_	_	_	_	_	_	Gloss=manger-
+6	ra	ra	_	_	_	_	_	_	Gloss=O3pl
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+9	laka-	laka-	_	_	_	_	_	_	Gloss=Deix-
+10	ga	ga	_	_	_	_	_	_	Gloss=Prox
+11	N̅waewo	N̅waewo	_	_	_	_	_	_	Gloss=Topon
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso4
+# text_en =  Un jour, ils étaient là, lui et son épouse, Roŋwatari.
+1	Qoŋ	Qoŋ	_	_	_	_	_	_	Gloss=jour
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+5	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+6	totoga,	totoga,	_	_	_	_	_	_	Gloss=RedDur.rester
+7	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+8	me	me	_	_	_	_	_	_	Gloss=avec
+9	ratubu	ratubu	_	_	_	_	_	_	Gloss=épouse
+10	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+12	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+13	Roŋwatari.	Roŋwatari.	_	_	_	_	_	_	Gloss=NP
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso5
+# text_en =  Taso lui dit	 Prends ton panier, allons ramasser des oai (fruits d'une liane).
+1	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor1plincl
+3	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+4	vil	vil	_	_	_	_	_	_	Gloss=RedIntrans.ramasser
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+6	vile	vile	_	_	_	_	_	_	Gloss=RedIntrans.ramasser
+7	oai	oai	_	_	_	_	_	_	Gloss=Nesp.
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+9	»	»	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso6
+# text_en =  Roŋwatari prit son panier, et ils se mirent en marche.
+1	I=	I=	_	_	_	_	_	_	Gloss=ArtP
+2	Roŋwatari	Roŋwatari	_	_	_	_	_	_	Gloss=NP
+3	lai	lai	_	_	_	_	_	_	Gloss=procurer
+4	no-	no-	_	_	_	_	_	_	Gloss=CP-
+5	na	na	_	_	_	_	_	_	Gloss=P3sg
+6	gete	gete	_	_	_	_	_	_	Gloss=panier
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+9	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+10	rasu.	rasu.	_	_	_	_	_	_	Gloss=marcher
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso7
+# text_en =  Ils montèrent jusque sous un banyan, Roŋwatari ramassait des oai.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	sage	sage	_	_	_	_	_	_	Gloss=monter
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	vei	vei	_	_	_	_	_	_	Gloss=dessous
+6	baka	baka	_	_	_	_	_	_	Gloss=banyan
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+9	Roŋwari	Roŋwari	_	_	_	_	_	_	Gloss=NP
+10	tot=	tot=	_	_	_	_	_	_	Gloss=Prog
+11	vilvile	vilvile	_	_	_	_	_	_	Gloss=RedIntrans.ramasser
+12	oai	oai	_	_	_	_	_	_	Gloss=Nesp
+13	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso8
+# text_en =  Taso alla de l'autre côté du banyan.
+1	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+2	vano	vano	_	_	_	_	_	_	Gloss=aller
+3	taval	taval	_	_	_	_	_	_	Gloss=autre.côté
+4	baka	baka	_	_	_	_	_	_	Gloss=banyan
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso9
+# text_en =  Il leva les yeux vers sa cime, aperçut un carcophage, et décocha une flèche.
+1	Ete	Ete	_	_	_	_	_	_	Gloss=regarder
+2	sae	sae	_	_	_	_	_	_	Gloss=monter
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	woŋa-	woŋa-	_	_	_	_	_	_	Gloss=sommet-
+5	na,	na,	_	_	_	_	_	_	Gloss=P3sg
+6	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	qona	qona	_	_	_	_	_	_	Gloss=carcophage
+9	kat	kat	_	_	_	_	_	_	Gloss=Connex
+10	vene	vene	_	_	_	_	_	_	Gloss=tirer
+11	min	min	_	_	_	_	_	_	Gloss=Dest
+12	a=	a=	_	_	_	_	_	_	Gloss=Art
+13	no-	no-	_	_	_	_	_	_	Gloss=CP-
+14	n	n	_	_	_	_	_	_	Gloss=P3s
+15	tiqaŋa	tiqaŋa	_	_	_	_	_	_	Gloss=flèche
+16	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso10
+# text_en =  Il tira en l'air vers la cime, et rata le carcophage.
+1	Vene	Vene	_	_	_	_	_	_	Gloss=tirer
+2	sae	sae	_	_	_	_	_	_	Gloss=monter
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	woŋa-	woŋa-	_	_	_	_	_	_	Gloss=cime-
+5	na,	na,	_	_	_	_	_	_	Gloss=P3sg
+6	awe	awe	_	_	_	_	_	_	Gloss=rater
+7	dan	dan	_	_	_	_	_	_	Gloss=Abl
+8	a=	a=	_	_	_	_	_	_	Gloss=Art
+9	qona,	qona,	_	_	_	_	_	_	Gloss=carcophage
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso11
+# text_en =  Sa flèche tomba à côté de Roŋwatari.
+1	No-	No-	_	_	_	_	_	_	Gloss=CP-
+2	na	na	_	_	_	_	_	_	Gloss=P3sg
+3	tiqaŋa	tiqaŋa	_	_	_	_	_	_	Gloss=flèche
+4	wadaŋe	wadaŋe	_	_	_	_	_	_	Gloss=tomber
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	virtagi	virtagi	_	_	_	_	_	_	Gloss=être.à.côté.de
+7	Roŋwatari	Roŋwatari	_	_	_	_	_	_	Gloss=NP
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso12
+# text_en =  Elle était à côté d'elle, et elle s'en saisit.
+1	Virtagi	Virtagi	_	_	_	_	_	_	Gloss=être.à.côté.de
+2	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+6	lai-	lai-	_	_	_	_	_	_	Gloss=procurer-
+7	a	a	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso13
+# text_en =  Roŋwatari la saisit, la cassa, et l'enfouit profondément au fond de son panier.
+1	I=	I=	_	_	_	_	_	_	Gloss=ArtP
+2	Roŋwatari	Roŋwatari	_	_	_	_	_	_	Gloss=NP
+3	lai	lai	_	_	_	_	_	_	Gloss=procurer
+4	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+5	vele	vele	_	_	_	_	_	_	Gloss=casser
+6	tusi	tusi	_	_	_	_	_	_	Gloss=casser
+7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	sogoni	sogoni	_	_	_	_	_	_	Gloss=poser.dans
+10	susugo	susugo	_	_	_	_	_	_	Gloss=Red.descendre
+11	radu	radu	_	_	_	_	_	_	Gloss=loin
+12	le=	le=	_	_	_	_	_	_	Gloss=Loc
+13	kere	kere	_	_	_	_	_	_	Gloss=fond
+14	gete	gete	_	_	_	_	_	_	Gloss=panier
+15	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso14
+# text_en =  Elle enlèva quelques oai, et la posa au fond du panier.
+1	rau	rau	_	_	_	_	_	_	Gloss=enlever
+2	souna	souna	_	_	_	_	_	_	Gloss=sortir
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	lebata	lebata	_	_	_	_	_	_	Gloss=quelques
+5	oai	oai	_	_	_	_	_	_	Gloss=Nesp
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	tau	tau	_	_	_	_	_	_	Gloss=poser
+8	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+9	le=	le=	_	_	_	_	_	_	Gloss=Loc
+10	kere	kere	_	_	_	_	_	_	Gloss=fond
+11	gete	gete	_	_	_	_	_	_	Gloss=panier
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso16
+# text_en =  Elle dit Je ne l'ai pas trouvée.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	«	«	_	_	_	_	_	_	Gloss=PUNCT
+5	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+7	saqe-	saqe-	_	_	_	_	_	_	Gloss=trouver-
+8	a	a	_	_	_	_	_	_	Gloss=O3sg
+9	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+10	»	»	_	_	_	_	_	_	Gloss=PUNCT
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso20
+# text_en =  Il retourna de l'autre côté du banyan.
+1	Ia	Ia	_	_	_	_	_	_	Gloss=S3sg
+2	vano	vano	_	_	_	_	_	_	Gloss=aller
+3	talwura	talwura	_	_	_	_	_	_	Gloss=faire.à.nouveau
+4	taval	taval	_	_	_	_	_	_	Gloss=autre.côté
+5	baka	baka	_	_	_	_	_	_	Gloss=banyan
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso21
+# text_en =  Il tire son arc, laisse partir sa flèche en l'air, elle retombe près de Roŋwatari.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	reve	reve	_	_	_	_	_	_	Gloss=tirer
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	no-	no-	_	_	_	_	_	_	Gloss=CP-
+6	na	na	_	_	_	_	_	_	Gloss=P3sg
+7	usu	usu	_	_	_	_	_	_	Gloss=arc
+8	sekeragi	sekeragi	_	_	_	_	_	_	Gloss=laisser.partir
+9	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+10	no-	no-	_	_	_	_	_	_	Gloss=CP-
+11	na	na	_	_	_	_	_	_	Gloss=P3sg
+12	tiqana	tiqana	_	_	_	_	_	_	Gloss=flèche
+13	sae	sae	_	_	_	_	_	_	Gloss=monter
+14	wadaŋe	wadaŋe	_	_	_	_	_	_	Gloss=tomber
+15	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+16	virtagi	virtagi	_	_	_	_	_	_	Gloss=être.à.côté.de
+17	Roŋwatari	Roŋwatari	_	_	_	_	_	_	Gloss=NP
+18	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso25
+# text_en =  Elle enleva les oai de l'intérieur du panier.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	rau	rau	_	_	_	_	_	_	Gloss=enlever
+4	souna	souna	_	_	_	_	_	_	Gloss=sortir
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	oai	oai	_	_	_	_	_	_	Gloss=Nesp
+7	dan	dan	_	_	_	_	_	_	Gloss=Abl
+8	lol	lol	_	_	_	_	_	_	Gloss=intérieur
+9	no-	no-	_	_	_	_	_	_	Gloss=CP-
+10	na	na	_	_	_	_	_	_	Gloss=P3sg
+11	gete	gete	_	_	_	_	_	_	Gloss=panier
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso26
+# text_en =  Elle trouva  la flèche qui était là tout au fond du panier, la flèche qu'elle avait cassée et posée là.
+1	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+2	velvel	velvel	_	_	_	_	_	_	Gloss=RedIntrans.casser
+3	tusi	tusi	_	_	_	_	_	_	Gloss=casser
+4	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+5	tau	tau	_	_	_	_	_	_	Gloss=poser
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso29
+# text_en =  A cette époque, sa grossesse à terme, elle était près d'accoucher.
+1	Le=	Le=	_	_	_	_	_	_	Gloss=Loc
+2	masqala	masqala	_	_	_	_	_	_	Gloss=époque
+3	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+4	la	la	_	_	_	_	_	_	Gloss=Anaph
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	no-	no-	_	_	_	_	_	_	Gloss=CP-
+7	n	n	_	_	_	_	_	_	Gloss=P3sg
+8	wula	wula	_	_	_	_	_	_	Gloss=mois
+9	baso	baso	_	_	_	_	_	_	Gloss=finir
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+12	virtagi	virtagi	_	_	_	_	_	_	Gloss=être.à.côté.de
+13	bavbava	bavbava	_	_	_	_	_	_	Gloss=accoucher
+14	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso30
+# text_en =  Il la jeta et la laissa là.
+1	Wosag	Wosag	_	_	_	_	_	_	Gloss=jeter
+2	tau	tau	_	_	_	_	_	_	Gloss=poser
+3	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+4	toga	toga	_	_	_	_	_	_	Gloss=rester
+5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+6	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+7	dan-	dan-	_	_	_	_	_	_	Gloss=Abl-
+8	ia	ia	_	_	_	_	_	_	Gloss=Obl3sg
+9	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso31
+# text_en =  Les enfants qui étaient dans son ventre naquirent donc, alors même qu'elle était morte.
+1	Irana=	Irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	ŋwera	ŋwera	_	_	_	_	_	_	Gloss=enfant
+3	kea	kea	_	_	_	_	_	_	Gloss=Dem
+4	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+5	toga	toga	_	_	_	_	_	_	Gloss=rester
+6	le=	le=	_	_	_	_	_	_	Gloss=Loc
+7	taqaŋi-	taqaŋi-	_	_	_	_	_	_	Gloss=ventre-
+8	na	na	_	_	_	_	_	_	Gloss=P3sg
+9	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+10	wota	wota	_	_	_	_	_	_	Gloss=naître
+11	=va	=va	_	_	_	_	_	_	Gloss=PEN
+12	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+13	mo=	mo=	_	_	_	_	_	_	Gloss=Circ
+14	mate.	mate.	_	_	_	_	_	_	Gloss=mourir.
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso32
+# text_en =  Ils naquirent. Ils bougeaient un peu, et tétaient leur mère.
+1	toga	toga	_	_	_	_	_	_	Gloss=rester
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	susu	susu	_	_	_	_	_	_	Gloss=téter
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	rave-	rave-	_	_	_	_	_	_	Gloss=mère-
+6	ra.	ra.	_	_	_	_	_	_	Gloss=P3pl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso33
+# text_en =  Lorsqu'elle fut complètement pourrie, ils se mirent à ramper au hasard, et trouvèrent de l'eau dans une feuille d'arbre.
+1	van	van	_	_	_	_	_	_	Gloss=aller
+2	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	bei	bei	_	_	_	_	_	_	Gloss=eau
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	dau	dau	_	_	_	_	_	_	Gloss=feuille
+7	geiga	geiga	_	_	_	_	_	_	Gloss=arbre
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso34
+# text_en =  Ils burent, burent, puis allèrent vers le tronc d'un qena et tétèrent le qena.
+1	Ima	Ima	_	_	_	_	_	_	Gloss=boire
+2	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+3	van	van	_	_	_	_	_	_	Gloss=aller
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	qatagi	qatagi	_	_	_	_	_	_	Gloss=tronc
+6	qena	qena	_	_	_	_	_	_	Gloss=Nesp
+7	kae	kae	_	_	_	_	_	_	Gloss=Connex.Aorpl
+8	toga	toga	_	_	_	_	_	_	Gloss=rester
+9	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+10	susu	susu	_	_	_	_	_	_	Gloss=téter
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+12	qena.	qena.	_	_	_	_	_	_	Gloss=Nesp
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso35
+# text_en =  Ils tétèrent, tétèrent, devinrent grands, jusqu'à être capables de marcher, puis se mirent à se promener ça et là.
+1	Susu	Susu	_	_	_	_	_	_	Gloss=têter
+2	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+5	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+6	lalata	lalata	_	_	_	_	_	_	Gloss=RedIntens.grand
+7	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+8	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+9	lai	lai	_	_	_	_	_	_	Gloss=ModCap
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	ka	ka	_	_	_	_	_	_	Gloss=Connex
+12	toga	toga	_	_	_	_	_	_	Gloss=rester
+13	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+14	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+15	qonagi	qonagi	_	_	_	_	_	_	Gloss=aller.au.hasard
+16	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+17	vano.	vano.	_	_	_	_	_	_	Gloss=aller
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso36
+# text_en =  Ils marchaient, trouvaient de l'eau dans les flaques, buvaient, trouvaient des miettes (de nourriture), mangeaient, ne faisaient que manger.
+1	Rasu	Rasu	_	_	_	_	_	_	Gloss=marcher
+2	vano	vano	_	_	_	_	_	_	Gloss=aller
+3	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	bei	bei	_	_	_	_	_	_	Gloss=eau
+6	le=	le=	_	_	_	_	_	_	Gloss=Loc
+7	tumu,	tumu,	_	_	_	_	_	_	Gloss=flaque
+8	ima	ima	_	_	_	_	_	_	Gloss=boire
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+12	orore	orore	_	_	_	_	_	_	Gloss=RedMultipl.miettes
+13	ririki	ririki	_	_	_	_	_	_	Gloss=RedMultipl.petit,
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+15	gani	gani	_	_	_	_	_	_	Gloss=manger,
+16	,	,	_	_	_	_	_	_	Gloss=PUNCT
+17	gani	gani	_	_	_	_	_	_	Gloss=manger
+18	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+19	=ŋa.	=ŋa.	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso37
+# text_en =  Ils marchaient, et à présent, ils étaient forts, devenaient grands.
+1	Rasu	Rasu	_	_	_	_	_	_	Gloss=marcher
+2	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.marcher
+3	kakaka	kakaka	_	_	_	_	_	_	Gloss=maintenant
+4	ta=	ta=	_	_	_	_	_	_	Gloss=Pft
+5	toraga	toraga	_	_	_	_	_	_	Gloss=solide
+6	toga	toga	_	_	_	_	_	_	Gloss=rester
+7	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+8	lalata,	lalata,	_	_	_	_	_	_	Gloss=RedIntens.grand
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso38
+# text_en =  Ils marchaient, et atteignirent un endroit
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	rarasu	rarasu	_	_	_	_	_	_	Gloss=RedDur.marcher
+4	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	masqala	masqala	_	_	_	_	_	_	Gloss=endroit
+7	tewa	tewa	_	_	_	_	_	_	Gloss=un
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso39
+# text_en =  Qatu, leur oncle, et sa femme y vivaient chez eux.
+1	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+2	Qatu,	Qatu,	_	_	_	_	_	_	Gloss=NP
+3	marou	marou	_	_	_	_	_	_	Gloss=oncle
+4	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	toga	toga	_	_	_	_	_	_	Gloss=rester
+7	min	min	_	_	_	_	_	_	Gloss=Dest
+8	a=	a=	_	_	_	_	_	_	Gloss=Art
+9	ratubu-	ratubu-	_	_	_	_	_	_	Gloss=épouse-
+10	na	na	_	_	_	_	_	_	Gloss=P3sg
+11	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+12	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+13	toga	toga	_	_	_	_	_	_	Gloss=rester
+14	ala	ala	_	_	_	_	_	_	Gloss=Anaph
+15	le=	le=	_	_	_	_	_	_	Gloss=Loc
+16	isa-	isa-	_	_	_	_	_	_	Gloss=chez.soi-
+17	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso40
+# text_en =  Ils allèrent tout droit à l'endroit où Qatu nourrissait ses porcs.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	vano	vano	_	_	_	_	_	_	Gloss=aller
+3	totowoi	totowoi	_	_	_	_	_	_	Gloss=aller.tout.droit
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	masqala	masqala	_	_	_	_	_	_	Gloss=endroit
+6	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+7	Qatu	Qatu	_	_	_	_	_	_	Gloss=NP
+8	mo=	mo=	_	_	_	_	_	_	Gloss=Circ
+9	vagani	vagani	_	_	_	_	_	_	Gloss=nourrir
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+11	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+12	na	na	_	_	_	_	_	_	Gloss=P3sg
+13	qoe	qoe	_	_	_	_	_	_	Gloss=porc
+14	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso41
+# text_en =  Ils virent Qatu; quand Qatu coupait puis jetait la nourriture, et s'en allait, ils descendaient et chassaient les porcs, ramassaient la nourriture et mangeaient, allaient se cacher et mangeaient.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+3	Qatu	Qatu	_	_	_	_	_	_	Gloss=NP
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	I=	I=	_	_	_	_	_	_	Gloss=ArtP
+6	Qatu	Qatu	_	_	_	_	_	_	Gloss=NP
+7	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+8	tai	tai	_	_	_	_	_	_	Gloss=couper
+9	tau	tau	_	_	_	_	_	_	Gloss=Connex
+10	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+11	wosag	wosag	_	_	_	_	_	_	Gloss=jeter
+12	tau	tau	_	_	_	_	_	_	Gloss=poser
+13	sinaga	sinaga	_	_	_	_	_	_	Gloss=nourriture
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+15	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+16	rasu,	rasu,	_	_	_	_	_	_	Gloss=marcher
+17	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+18	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+19	lit	lit	_	_	_	_	_	_	Gloss=chasser
+20	souna	souna	_	_	_	_	_	_	Gloss=enlever
+21	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+22	qoe,	qoe,	_	_	_	_	_	_	Gloss=porc
+23	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+24	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+25	sinaga	sinaga	_	_	_	_	_	_	Gloss=nourriture
+26	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+27	gani	gani	_	_	_	_	_	_	Gloss=manger
+28	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+29	taunigi	taunigi	_	_	_	_	_	_	Gloss=(se.)cacher
+30	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+31	gani;	gani;	_	_	_	_	_	_	Gloss=manger
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso42
+# text_en =  Maintenant, ils ne pouvaient plus s'en aller, ils restaient là, à manger.
+1	Kakaka	Kakaka	_	_	_	_	_	_	Gloss=maintenant
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+4	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+5	ŋa	ŋa	_	_	_	_	_	_	Gloss=PEN
+6	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+7	lai	lai	_	_	_	_	_	_	Gloss=ModCap
+8	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	toga	toga	_	_	_	_	_	_	Gloss=rester
+11	ala	ala	_	_	_	_	_	_	Gloss=Anaph
+12	toga	toga	_	_	_	_	_	_	Gloss=rester
+13	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+14	gani,	gani,	_	_	_	_	_	_	Gloss=manger
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso43
+# text_en =  Leur oncle nourrissait les cochons, et ils mangeaient la nourriture des cochons.
+1	Marou	Marou	_	_	_	_	_	_	Gloss=oncle
+2	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
+3	tot=	tot=	_	_	_	_	_	_	Gloss=Prog
+4	vagan	vagan	_	_	_	_	_	_	Gloss=nourrir
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	qoe;	qoe;	_	_	_	_	_	_	Gloss=porc
+7	toga	toga	_	_	_	_	_	_	Gloss=rester
+8	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+9	gani	gani	_	_	_	_	_	_	Gloss=manger
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+11	sinaga	sinaga	_	_	_	_	_	_	Gloss=nourriture
+12	ga	ga	_	_	_	_	_	_	Gloss=CP
+13	na=	na=	_	_	_	_	_	_	Gloss=Art
+14	qoe	qoe	_	_	_	_	_	_	Gloss=porc
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso44
+# text_en =  Et ainsi, chaque matin, Qatu montait (les) nourrir, puis quand il redescendait, les cochons pleuraient après lui, ses truies pleuraient après lui.
+1	Vivano	Vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+2	valu	valu	_	_	_	_	_	_	Gloss=chaque
+3	roqoŋi	roqoŋi	_	_	_	_	_	_	Gloss=matin
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	Qatu	Qatu	_	_	_	_	_	_	Gloss=NP
+6	sae	sae	_	_	_	_	_	_	Gloss=monter
+7	vagan	vagan	_	_	_	_	_	_	Gloss=nourrir
+8	tau	tau	_	_	_	_	_	_	Gloss=Connex
+9	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+10	sugo,	sugo,	_	_	_	_	_	_	Gloss=descendre
+11	qoe	qoe	_	_	_	_	_	_	Gloss=porc
+12	ŋara	ŋara	_	_	_	_	_	_	Gloss=pleurer
+13	suri	suri	_	_	_	_	_	_	Gloss=suivre
+14	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+15	,	,	_	_	_	_	_	_	Gloss=PUNCT
+16	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+17	na	na	_	_	_	_	_	_	Gloss=P3sg
+18	dura	dura	_	_	_	_	_	_	Gloss=truie
+19	ŋara	ŋara	_	_	_	_	_	_	Gloss=pleurer
+20	suri	suri	_	_	_	_	_	_	Gloss=suivre
+21	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+22	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso46
+# text_en =  Un jour, il apporta la nourriture, la coupa, apporta des noix de coco, les racla,
+1	Qoŋ	Qoŋ	_	_	_	_	_	_	Gloss=jour
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+6	lai	lai	_	_	_	_	_	_	Gloss=procurer
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	sinaga,	sinaga,	_	_	_	_	_	_	Gloss=nourriture
+9	tai	tai	_	_	_	_	_	_	Gloss=couper
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	lai	lai	_	_	_	_	_	_	Gloss=procurer
+12	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+13	bigbig,	bigbig,	_	_	_	_	_	_	Gloss=noix.de.coco
+14	tai	tai	_	_	_	_	_	_	Gloss=couper
+15	goti	goti	_	_	_	_	_	_	Gloss=racler
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso47
+# text_en =  Il les leur jeta, puis descendit se cacher à mi-chemin.
+1	wosag	wosag	_	_	_	_	_	_	Gloss=jeter
+2	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+3	ira	ira	_	_	_	_	_	_	Gloss=Obl3pl
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	tau	tau	_	_	_	_	_	_	Gloss=Connex
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+7	taunigi	taunigi	_	_	_	_	_	_	Gloss=(se.)cacher
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc
+9	udi	udi	_	_	_	_	_	_	Gloss=moitié
+10	sala	sala	_	_	_	_	_	_	Gloss=route
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso48
+# text_en =  Il était caché, et regardai, et il les vit sortir, sortir,
+1	Taunigi	Taunigi	_	_	_	_	_	_	Gloss=(se.)cacher
+2	tau	tau	_	_	_	_	_	_	Gloss=Connex
+3	tot=	tot=	_	_	_	_	_	_	Gloss=Prog
+4	ete	ete	_	_	_	_	_	_	Gloss=voir
+5	tau	tau	_	_	_	_	_	_	Gloss=Connex
+6	ete	ete	_	_	_	_	_	_	Gloss=voir
+7	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
+8	sage	sage	_	_	_	_	_	_	Gloss=monter
+9	lua	lua	_	_	_	_	_	_	Gloss=sortir
+10	lua	lua	_	_	_	_	_	_	Gloss=sortir
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso49
+# text_en =  Ces enfants qui étaient très beaux, des adolescents, de petits hommes.
+1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	ŋwera	ŋwera	_	_	_	_	_	_	Gloss=enfants
+3	kea	kea	_	_	_	_	_	_	Gloss=Dem
+4	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+5	wiwia,	wiwia,	_	_	_	_	_	_	Gloss=RedIntens.bon
+6	lumagavi	lumagavi	_	_	_	_	_	_	Gloss=adolescent
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+9	ririki	ririki	_	_	_	_	_	_	Gloss=RedIntens.petit
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso50
+# text_en =  L'un chassait les porcs, et l'autre ramassait.
+1	Tewa	Tewa	_	_	_	_	_	_	Gloss=un
+2	tot	tot	_	_	_	_	_	_	Gloss=Prog
+3	talo	talo	_	_	_	_	_	_	Gloss=chasser
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	qoe,	qoe,	_	_	_	_	_	_	Gloss=porc
+6	tewa	tewa	_	_	_	_	_	_	Gloss=un
+7	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso52
+# text_en =  Ils sursautèrent comme cela, et lâchèrent la moitié de leur nourriture.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	tagoso	tagoso	_	_	_	_	_	_	Gloss=sursauter
+4	doklaka	doklaka	_	_	_	_	_	_	Gloss=être.ainsi
+5	sekerag	sekerag	_	_	_	_	_	_	Gloss=lâcher
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+7	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+8	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+9	ududi	ududi	_	_	_	_	_	_	Gloss=RedDistrib.moitié
+10	sinaga	sinaga	_	_	_	_	_	_	Gloss=nourriture
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso53
+# text_en =  Puis ils se mirent à se mordiller les doigts.
+1	Kae	Kae	_	_	_	_	_	_	Gloss=Connex.Aorpl
+2	toga	toga	_	_	_	_	_	_	Gloss=rester
+3	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+4	ŋworŋworota	ŋworŋworota	_	_	_	_	_	_	Gloss=ronger
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	bisu-	bisu-	_	_	_	_	_	_	Gloss=doigt-
+7	ra.	ra.	_	_	_	_	_	_	Gloss=P3pl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso58
+# text_en =  Très bien, venez.
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Wia	Wia	_	_	_	_	_	_	Gloss=bien
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+5	sumai.»	sumai.»	_	_	_	_	_	_	Gloss=venir
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso59
+# text_en =  Ils les emmena, et les mena dans une maison où il conservait des nattes.
+1	Lai	Lai	_	_	_	_	_	_	Gloss=procurer
+2	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
+3	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	tau	tau	_	_	_	_	_	_	Gloss=poser
+6	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	val	val	_	_	_	_	_	_	Gloss=maison
+9	malo	malo	_	_	_	_	_	_	Gloss=natte
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso60
+# text_en =  Il les emmena, les fit passer derrière les nattes et s'y installer.
+1	Tau	Tau	_	_	_	_	_	_	Gloss=poser
+2	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
+3	sasae	sasae	_	_	_	_	_	_	Gloss=RedDur.monter
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	tawu,	tawu,	_	_	_	_	_	_	Gloss=dos
+6	le=	le=	_	_	_	_	_	_	Gloss=Loc
+7	tawu	tawu	_	_	_	_	_	_	Gloss=dos
+8	malo	malo	_	_	_	_	_	_	Gloss=natte
+9	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+10	toga	toga	_	_	_	_	_	_	Gloss=rester
+11	ala	ala	_	_	_	_	_	_	Gloss=Anaph
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso62
+# text_en =  Il regarda quelle nourriture elle ramenait.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	ete	ete	_	_	_	_	_	_	Gloss=voir
+4	wari	wari	_	_	_	_	_	_	Gloss=Compl
+5	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+6	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+7	lai	lai	_	_	_	_	_	_	Gloss=procurer
+8	qa	qa	_	_	_	_	_	_	Gloss=PEN
+9	sava	sava	_	_	_	_	_	_	Gloss=quoi
+10	sinaga	sinaga	_	_	_	_	_	_	Gloss=nourriture
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso63
+# text_en =  Il regarda les ignames qu'elle avait déterrées,
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+3	ete	ete	_	_	_	_	_	_	Gloss=voir
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	damu	damu	_	_	_	_	_	_	Gloss=igname
+6	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+7	ga	ga	_	_	_	_	_	_	Gloss=Cataph
+8	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+10	gili,	gili,	_	_	_	_	_	_	Gloss=déterrer
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso64
+# text_en =  il ne s'agissait pas de celles qu'il aimait.
+1	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+2	gai	gai	_	_	_	_	_	_	Gloss=PEN
+3	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+4	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+5	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+6	ga	ga	_	_	_	_	_	_	Gloss=Cataph
+7	ia	ia	_	_	_	_	_	_	Gloss=S3sg
+8	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+9	tarana.	tarana.	_	_	_	_	_	_	Gloss=aimer
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso65
+# text_en =  Il lui dit:: J'aimerais que tu ailles au jardin,
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vet	vet	_	_	_	_	_	_	Gloss=dire
+4	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+5	ia	ia	_	_	_	_	_	_	Gloss=Obl3sg
+6	wa	wa	_	_	_	_	_	_	Gloss=dire
+7	:	:	_	_	_	_	_	_	Gloss=PUNCT
+8	«	«	_	_	_	_	_	_	Gloss=PUNCT
+9	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg
+10	tarana	tarana	_	_	_	_	_	_	Gloss=aimer
+11	wari	wari	_	_	_	_	_	_	Gloss=Compl
+12	niko=	niko=	_	_	_	_	_	_	Gloss=S2sg
+13	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+14	vano	vano	_	_	_	_	_	_	Gloss=aller
+15	le=	le=	_	_	_	_	_	_	Gloss=Loc
+16	uma	uma	_	_	_	_	_	_	Gloss=jardin
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso68
+# text_en =  Il descendit au bord de la mer, ramassa une pierre, celle qu'on appelle ici Aulau
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	tasi,	tasi,	_	_	_	_	_	_	Gloss=mer
+6	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	vatu,	vatu,	_	_	_	_	_	_	Gloss=pierre
+9	kea	kea	_	_	_	_	_	_	Gloss=Dem
+10	na=	na=	_	_	_	_	_	_	Gloss=PEN
+11	lakaga	lakaga	_	_	_	_	_	_	Gloss=Deix
+12	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+13	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+14	vet	vet	_	_	_	_	_	_	Gloss=dire
+15	wara	wara	_	_	_	_	_	_	Gloss=Compl
+16	Aulau	Aulau	_	_	_	_	_	_	Gloss=Nesp
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso71
+# text_en =  Il lui donna la pierre, puis attendit.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	tau	tau	_	_	_	_	_	_	Gloss=poser
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
+6	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+7	ia	ia	_	_	_	_	_	_	Gloss=Obl3sg
+8	ka	ka	_	_	_	_	_	_	Gloss=Connex
+9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+10	toga	toga	_	_	_	_	_	_	Gloss=rester
+11	tau	tau	_	_	_	_	_	_	Gloss=poser
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso72
+# text_en =  “Elle rôtit les ignames, puis les éplucha, les éplucha,”
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	tuala	tuala	_	_	_	_	_	_	Gloss=rôtir
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	damu	damu	_	_	_	_	_	_	Gloss=igname
+6	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+7	la	la	_	_	_	_	_	_	Gloss=Anaph
+8	kat	kat	_	_	_	_	_	_	Gloss=Connex
+9	siri	siri	_	_	_	_	_	_	Gloss=éplucher
+10	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+12	siri	siri	_	_	_	_	_	_	Gloss=éplucher
+13	siri	siri	_	_	_	_	_	_	Gloss=éplucher
+14	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso75
+# text_en =  Il dit Apporte-le ici!
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	«	«	_	_	_	_	_	_	Gloss=PUNCT
+5	Go=	Go=	_	_	_	_	_	_	Gloss=Aor2sg
+6	lai	lai	_	_	_	_	_	_	Gloss=procurer
+7	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+8	laka	laka	_	_	_	_	_	_	Gloss=Deix
+9	.	.	_	_	_	_	_	_	Gloss=PUNCT
+10	»	»	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso77
+# text_en =  Elle alla écarter de nombreuses nattes, et sursauta en les voyant.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	sasae	sasae	_	_	_	_	_	_	Gloss=RedDur.monter
+4	laŋe	laŋe	_	_	_	_	_	_	Gloss=ouvrir
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	laŋe	laŋe	_	_	_	_	_	_	Gloss=ouvrir
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	malo	malo	_	_	_	_	_	_	Gloss=natte
+9	ŋwaraga	ŋwaraga	_	_	_	_	_	_	Gloss=nombreux
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	tagoso	tagoso	_	_	_	_	_	_	Gloss=sursauter
+12	gin-	gin-	_	_	_	_	_	_	Gloss=Instr-
+13	ira	ira	_	_	_	_	_	_	Gloss=Obl3pl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso79
+# text_en =  Il dit non.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	«	«	_	_	_	_	_	_	Gloss=PUNCT
+5	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+6	»	»	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso80
+# text_en =  Alors, mes neveux?
+
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso82
+# text_en =  Ils les emmenèrent vers leur maison.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	lai-	lai-	_	_	_	_	_	_	Gloss=procurer-
+4	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	le=	le=	_	_	_	_	_	_	Gloss=Loc
+7	vale.	vale.	_	_	_	_	_	_	Gloss=maison
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso83
+# text_en =  Ils descendirent, et restèrent là, ils jouaient avec eux, les nourrissaient.
+1	Sugo	Sugo	_	_	_	_	_	_	Gloss=descendre
+2	toga	toga	_	_	_	_	_	_	Gloss=rester
+3	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+4	toga	toga	_	_	_	_	_	_	Gloss=rester
+5	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+6	vevsale	vevsale	_	_	_	_	_	_	Gloss=jouer
+7	me	me	_	_	_	_	_	_	Gloss=avec
+8	-ra	-ra	_	_	_	_	_	_	Gloss=-O3pl
+9	vavano	vavano	_	_	_	_	_	_	Gloss=RedDur.aller
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	toga	toga	_	_	_	_	_	_	Gloss=rester
+12	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+13	vagani-	vagani-	_	_	_	_	_	_	Gloss=nourrir-
+14	ra	ra	_	_	_	_	_	_	Gloss=O3pl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso84
+# text_en =  Ils leur fabriquèrent des arcs minuscules pour chasser le lézard noir et le lézard vert
+1	Sasava	Sasava	_	_	_	_	_	_	Gloss=couper
+2	no-	no-	_	_	_	_	_	_	Gloss=CP-
+3	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+4	usu	usu	_	_	_	_	_	_	Gloss=arc
+5	vavavai	vavavai	_	_	_	_	_	_	Gloss=minuscule
+6	be	be	_	_	_	_	_	_	Gloss=Purp
+7	venvene	venvene	_	_	_	_	_	_	Gloss=RedIntrans.tirer.sur
+8	taŋsuli	taŋsuli	_	_	_	_	_	_	Gloss=lézard.noir
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	mumu	mumu	_	_	_	_	_	_	Gloss=lézard.vert
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso85
+# text_en =  Ils chassaient, chassaient, et (un jour) ils regardèrent les arcs.
+1	Venvene	Venvene	_	_	_	_	_	_	Gloss=RedIntrans.tirer.sur
+2	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ete	ete	_	_	_	_	_	_	Gloss=regarder
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	usu	usu	_	_	_	_	_	_	Gloss=arc
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso87
+# text_en =   ils n'étaient pas de la bonne taille pour eux.
+1	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+2	gai	gai	_	_	_	_	_	_	Gloss=PEN
+3	tarisa	tarisa	_	_	_	_	_	_	Gloss=suffire
+4	me-	me-	_	_	_	_	_	_	Gloss=CP-
+5	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+6	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso88
+# text_en =  Ils les cassèrent et en fabriquèrent d'autres.
+1	Vel	Vel	_	_	_	_	_	_	Gloss=casser
+2	tusi	tusi	_	_	_	_	_	_	Gloss=casser
+3	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+5	sasav	sasav	_	_	_	_	_	_	Gloss=couper
+6	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso89
+# text_en =  Ils chassèrent toutes sortes de petits oiseaux, encore et encore
+1	Venvene	Venvene	_	_	_	_	_	_	Gloss=RedIntrans.tirer.sur
+2	manmanu	manmanu	_	_	_	_	_	_	Gloss=RedMultipl.oiseau
+3	ririki	ririki	_	_	_	_	_	_	Gloss=RedMultipl.petit
+4	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso90
+# text_en =  Puis ils virent que leurs arcs n'étaient pas assez grands, les cassèrent,
+1	Ete	Ete	_	_	_	_	_	_	Gloss=regarder
+2	war	war	_	_	_	_	_	_	Gloss=Compl
+3	usu	usu	_	_	_	_	_	_	Gloss=arc
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+5	lalata	lalata	_	_	_	_	_	_	Gloss=RedIntens.grand
+6	tarisa	tarisa	_	_	_	_	_	_	Gloss=suffire
+7	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	vel	vel	_	_	_	_	_	_	Gloss=casser
+10	tusi	tusi	_	_	_	_	_	_	Gloss=casser
+11	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso91
+# text_en =   et en fabriquèrent d'autres pour tirer sur les poissons dans la mer.
+1	sasav	sasav	_	_	_	_	_	_	Gloss=couper
+2	gesegese	gesegese	_	_	_	_	_	_	Gloss=différent
+3	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+4	be	be	_	_	_	_	_	_	Gloss=Purp
+5	ven	ven	_	_	_	_	_	_	Gloss=tirer.sur
+6	masi	masi	_	_	_	_	_	_	Gloss=poisson
+7	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc
+9	tasi.	tasi.	_	_	_	_	_	_	Gloss=mer
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso92
+# text_en =  Ils prenaient leurs arcs pour descendre au bord de mer, et (un jour), ils virent qu'ils étaient assez grands
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	tor	tor	_	_	_	_	_	_	Gloss=tenir
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	usu,	usu,	_	_	_	_	_	_	Gloss=arc
+5	be	be	_	_	_	_	_	_	Gloss=Purp
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+9	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+10	ete	ete	_	_	_	_	_	_	Gloss=regarder
+11	war	war	_	_	_	_	_	_	Gloss=Compl
+12	tarisa	tarisa	_	_	_	_	_	_	Gloss=suffire
+13	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso93
+# text_en =  Ils étaient devenus assez grands, ils les cassèrent, et fabriquèrent des arcs pour chasser l'homme.
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ta	ta	_	_	_	_	_	_	Gloss=Pft
+3	lalata	lalata	_	_	_	_	_	_	Gloss=RedIntens.grand
+4	tarisa	tarisa	_	_	_	_	_	_	Gloss=suffire
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	vel	vel	_	_	_	_	_	_	Gloss=casser
+7	tusi	tusi	_	_	_	_	_	_	Gloss=casser
+8	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+9	sasavi	sasavi	_	_	_	_	_	_	Gloss=fabriquer
+10	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+11	kea	kea	_	_	_	_	_	_	Gloss=Dem
+12	be	be	_	_	_	_	_	_	Gloss=Purp
+13	ven	ven	_	_	_	_	_	_	Gloss=tirer.sur
+14	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+15	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso94
+# text_en =  Ils mirent des pointes à leur flèches pour chasser l'homme.
+1	Vatur	Vatur	_	_	_	_	_	_	Gloss=mettre.des.pointes.de.flèche.sur.
+2	no-	no-	_	_	_	_	_	_	Gloss=CP-
+3	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+4	raŋe	raŋe	_	_	_	_	_	_	Gloss=flèche
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	be	be	_	_	_	_	_	_	Gloss=Purp
+7	ven	ven	_	_	_	_	_	_	Gloss=tirer.sur
+8	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso95
+# text_en =  C'était vraiment un arc pour chasser l'homme.
+1	A=	A=	_	_	_	_	_	_	Gloss=Art
+2	usu	usu	_	_	_	_	_	_	Gloss=arc
+3	be	be	_	_	_	_	_	_	Gloss=Purp
+4	ven	ven	_	_	_	_	_	_	Gloss=tirer.sur
+5	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+6	kea	kea	_	_	_	_	_	_	Gloss=Dem
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso96
+# text_en =  Ils restèrent là, et un jour, ils montèrent au jardin.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	totoga	totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+3	qoŋ	qoŋ	_	_	_	_	_	_	Gloss=jour
+4	tewa	tewa	_	_	_	_	_	_	Gloss=un
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+7	sae	sae	_	_	_	_	_	_	Gloss=monter
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc
+9	uma,	uma,	_	_	_	_	_	_	Gloss=jardin
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso98
+# text_en =  Vous voyez la colline là-bas? Quand vous jouez, jouez ici près de nous.
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S2pl
+3	ete	ete	_	_	_	_	_	_	Gloss=regarder
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	rewo	rewo	_	_	_	_	_	_	Gloss=colline
+6	kivano	kivano	_	_	_	_	_	_	Gloss=Deix
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	kamurua=	kamurua=	_	_	_	_	_	_	Gloss=S2du
+9	vevsale,	vevsale,	_	_	_	_	_	_	Gloss=jouer
+10	vevsale	vevsale	_	_	_	_	_	_	Gloss=jouer
+11	lakaga	lakaga	_	_	_	_	_	_	Gloss=Deix
+12	taval	taval	_	_	_	_	_	_	Gloss=côté
+13	-gida	-gida	_	_	_	_	_	_	Gloss=-P1plincl
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso99
+# text_en =  Ne vous éloignez pas au hasard.
+1	kare	kare	_	_	_	_	_	_	Gloss=Prohib
+2	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+3	taleagi	taleagi	_	_	_	_	_	_	Gloss=aller.au.hasard
+4	vano	vano	_	_	_	_	_	_	Gloss=aller
+5	soai	soai	_	_	_	_	_	_	Gloss=loin
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso100
+# text_en =  Cette colline là, n'allez pas de l'autre côté.
+1	A=	A=	_	_	_	_	_	_	Gloss=Art
+2	rewo	rewo	_	_	_	_	_	_	Gloss=colline
+3	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+4	la	la	_	_	_	_	_	_	Gloss=dist
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl
+7	kare	kare	_	_	_	_	_	_	Gloss=Prohib
+8	vano	vano	_	_	_	_	_	_	Gloss=aller
+9	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+10	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+11	ala	ala	_	_	_	_	_	_	Gloss=Anaph
+12	kivano	kivano	_	_	_	_	_	_	Gloss=Deix
+13	le=	le=	_	_	_	_	_	_	Gloss=Loc
+14	tawu-	tawu-	_	_	_	_	_	_	Gloss=dos-
+15	na,	na,	_	_	_	_	_	_	Gloss=P3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso103
+# text_en =  Non, il y a un ogre, là-bas; son nom est Taso.
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	liwo	liwo	_	_	_	_	_	_	Gloss=ogre
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+6	gangani	gangani	_	_	_	_	_	_	Gloss=ogre
+7	laka	laka	_	_	_	_	_	_	Gloss=Deix
+8	sasa	sasa	_	_	_	_	_	_	Gloss=nom
+9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+10	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso104
+# text_en =  Cet homme…Nous ici, nous étions nombreux, et Taso mange les gens.
+1	Tatua	Tatua	_	_	_	_	_	_	Gloss=homme
+2	kea…	kea…	_	_	_	_	_	_	Gloss=Dem
+3	gida	gida	_	_	_	_	_	_	Gloss=I1plincl
+4	laka	laka	_	_	_	_	_	_	Gloss=Deix
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+7	ŋweraga,	ŋweraga,	_	_	_	_	_	_	Gloss=être.nombreux
+8	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+9	tot=	tot=	_	_	_	_	_	_	Gloss=Prog
+10	gani-	gani-	_	_	_	_	_	_	Gloss=manger-
+11	ra.	ra.	_	_	_	_	_	_	Gloss=O3pl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso106
+# text_en =  Ils s'en tinrent là. A présent, ils avaient planté leurs bananiers, et attendaient.
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+2	totoga,	totoga,	_	_	_	_	_	_	Gloss=RedDur.rester
+3	kakaka	kakaka	_	_	_	_	_	_	Gloss=maintenant
+4	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+5	ta=	ta=	_	_	_	_	_	_	Gloss=Pft
+6	riwu	riwu	_	_	_	_	_	_	Gloss=planter
+7	tau	tau	_	_	_	_	_	_	Gloss=poser
+8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+9	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+10	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+11	udi	udi	_	_	_	_	_	_	Gloss=banane
+12	toga	toga	_	_	_	_	_	_	Gloss=rester
+13	tau	tau	_	_	_	_	_	_	Gloss=poser
+14	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+15	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso107
+# text_en =  Et l'un d'entre eux n'était pas encore arrivé à maturité.
+1	Ka	Ka	_	_	_	_	_	_	Gloss=Connex
+2	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+3	kea	kea	_	_	_	_	_	_	Gloss=Dem
+4	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+5	qa	qa	_	_	_	_	_	_	Gloss=PEN
+6	matua	matua	_	_	_	_	_	_	Gloss=mûr
+7	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso108
+# text_en =  Ils étaient là, et un jour, ils (les enfants) leur dirent (aux parents) de monter au jardin.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	totoga,	totoga,	_	_	_	_	_	_	Gloss=RedDur.rester
+3	qoŋ	qoŋ	_	_	_	_	_	_	Gloss=jour
+4	tewa	tewa	_	_	_	_	_	_	Gloss=un
+5	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+6	vet	vet	_	_	_	_	_	_	Gloss=dire
+7	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+8	ira	ira	_	_	_	_	_	_	Gloss=Obl3pl
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+11	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+12	sae	sae	_	_	_	_	_	_	Gloss=monter
+13	le=	le=	_	_	_	_	_	_	Gloss=Loc
+14	uma,	uma,	_	_	_	_	_	_	Gloss=jardin
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso110
+# text_en =  Si les bananes commencent à murir depuis le haut, tout va bien.
+1	Ia=	Ia=	_	_	_	_	_	_	Gloss=S3sg
+2	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+3	totqatugi	totqatugi	_	_	_	_	_	_	Gloss=commencer
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	qatu	qatu	_	_	_	_	_	_	Gloss=tête
+6	kisae	kisae	_	_	_	_	_	_	Gloss=Deix
+7	mena	mena	_	_	_	_	_	_	Gloss=être.mur
+8	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	wia	wia	_	_	_	_	_	_	Gloss=bien
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso112
+# text_en =  Ils s'en allèrent.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	sekerag	sekerag	_	_	_	_	_	_	Gloss=partir
+3	vano	vano	_	_	_	_	_	_	Gloss=aller
+4	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso113
+# text_en =  Ils marchèrent, marchèrent, marchèrent, atteignirent la maison de Taso.
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+2	vano	vano	_	_	_	_	_	_	Gloss=aller
+3	vano	vano	_	_	_	_	_	_	Gloss=aller
+4	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+5	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	ise	ise	_	_	_	_	_	_	Gloss=chez.soi
+9	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso114
+# text_en =  Taso n'y était pas, car il était descendu au bord de la mer pour nettoyer ses dents.
+1	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+2	tigala	tigala	_	_	_	_	_	_	Gloss=ExistNeg
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+5	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+9	kir	kir	_	_	_	_	_	_	Gloss=nettoyer
+10	liwo	liwo	_	_	_	_	_	_	Gloss=dent
+11	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso115
+# text_en =  Ils descendirent vers la maison, et trouvèrent sa mère.
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	vale,	vale,	_	_	_	_	_	_	Gloss=maison
+5	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+6	rave	rave	_	_	_	_	_	_	Gloss=mère
+7	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso117
+# text_en =  Oh, Taso est descendu au bord de la mer pour nettoyer ses dents.
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	O	O	_	_	_	_	_	_	Gloss=Interj
+3	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+7	kir	kir	_	_	_	_	_	_	Gloss=nettoyer
+8	liwo	liwo	_	_	_	_	_	_	Gloss=dent
+9	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso119
+# text_en =  Ils dirent Nous venons de là-bas.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	wa=	wa=	_	_	_	_	_	_	Gloss=Quot
+3	«kami=	«kami=	_	_	_	_	_	_	Gloss=S1plex
+4	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+5	lakvano	lakvano	_	_	_	_	_	_	Gloss=Deix
+6	»	»	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso120
+# text_en =  Allez l'attendre dans le nakamal.
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Sae	Sae	_	_	_	_	_	_	Gloss=monter
+3	toga	toga	_	_	_	_	_	_	Gloss=rester
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	gamal	gamal	_	_	_	_	_	_	Gloss=nakamal
+6	ligogi	ligogi	_	_	_	_	_	_	Gloss=attendre
+7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+8	»	»	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso123
+# text_en =  Elle chanta une fois, mais Taso n'avait pas encore entendu.
+1	Ia=	Ia=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	taŋtaŋi	taŋtaŋi	_	_	_	_	_	_	Gloss=chanter.une.complainte
+4	va-	va-	_	_	_	_	_	_	Gloss=Occur-
+5	tewa	tewa	_	_	_	_	_	_	Gloss=un
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+8	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+9	qa	qa	_	_	_	_	_	_	Gloss=PEN
+10	roroŋo	roroŋo	_	_	_	_	_	_	Gloss=entendre
+11	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso124
+# text_en =  Taso, cherche, cherche des hommes à manger, l'un pour toi, l'autre pour moi, Taso!
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+3	saro	saro	_	_	_	_	_	_	Gloss=chercher
+4	saro	saro	_	_	_	_	_	_	Gloss=chercher
+5	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+6	ŋa	ŋa	_	_	_	_	_	_	Gloss=P2sg
+7	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	a=	a=	_	_	_	_	_	_	Gloss=Art
+10	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+11	ŋa	ŋa	_	_	_	_	_	_	Gloss=P2sg
+12	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+13	,	,	_	_	_	_	_	_	Gloss=PUNCT
+14	a=	a=	_	_	_	_	_	_	Gloss=Art
+15	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+16	ku	ku	_	_	_	_	_	_	Gloss=P1sg
+17	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+18	,	,	_	_	_	_	_	_	Gloss=PUNCT
+19	Taso!	Taso!	_	_	_	_	_	_	Gloss=NP
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso127
+# text_en =  Il s'en vint sur la route, et testa ses dents, (pour savoir) si elles étaient bien aiguisées, ou non.
+1	susumai	susumai	_	_	_	_	_	_	Gloss=RedDur.venir
+2	le=	le=	_	_	_	_	_	_	Gloss=Loc
+3	sala	sala	_	_	_	_	_	_	Gloss=route
+4	dadaete	dadaete	_	_	_	_	_	_	Gloss=RedIntrans.essayer
+5	wara	wara	_	_	_	_	_	_	Gloss=Compl
+6	liwo	liwo	_	_	_	_	_	_	Gloss=dent
+7	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+8	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+9	ga	ga	_	_	_	_	_	_	Gloss=Prox
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+12	gagani	gagani	_	_	_	_	_	_	Gloss=être.aiguisé
+13	si	si	_	_	_	_	_	_	Gloss=ou
+14	dagasnia?	dagasnia?	_	_	_	_	_	_	Gloss=comment
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso130
+# text_en =  Il s'en vint, s'en vint, s'en vint, et atteignit la maison.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	sumai,	sumai,	_	_	_	_	_	_	Gloss=venir
+4	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+5	susumai	susumai	_	_	_	_	_	_	Gloss=RedDur.venir
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc
+9	vale.	vale.	_	_	_	_	_	_	Gloss=maison
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso131
+# text_en =   Il atteignit la maison, et descendit, il ne monta pas au nakamal
+1	Diŋa	Diŋa	_	_	_	_	_	_	Gloss=atteindre
+2	le=	le=	_	_	_	_	_	_	Gloss=Loc
+3	vale	vale	_	_	_	_	_	_	Gloss=maison
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+5	sugo,	sugo,	_	_	_	_	_	_	Gloss=descendre
+6	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+7	gai	gai	_	_	_	_	_	_	Gloss=PEN
+8	sage	sage	_	_	_	_	_	_	Gloss=monter
+9	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+10	le=	le=	_	_	_	_	_	_	Gloss=Loc
+11	gamal,	gamal,	_	_	_	_	_	_	Gloss=nakamal
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso132
+# text_en =  mais descendit rejoindre sa mère.
+1	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+2	rasu	rasu	_	_	_	_	_	_	Gloss=marcher
+3	taval	taval	_	_	_	_	_	_	Gloss=côté
+4	rave	rave	_	_	_	_	_	_	Gloss=mère
+5	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso134
+# text_en =  Sa mère dit Quoi, quoi?
+1	Rave	Rave	_	_	_	_	_	_	Gloss=mère
+2	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	«	«	_	_	_	_	_	_	Gloss=PUNCT
+5	Sava	Sava	_	_	_	_	_	_	Gloss=quoi
+6	-na	-na	_	_	_	_	_	_	Gloss=-P2sg
+7	sava?	sava?	_	_	_	_	_	_	Gloss=quoi
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso136
+# text_en =  Il partit, et monta au nakamal, et jeta un œil à l'intérieur.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	tekeragi	tekeragi	_	_	_	_	_	_	Gloss=partir
+4	sae	sae	_	_	_	_	_	_	Gloss=monter
+5	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+6	sasae	sasae	_	_	_	_	_	_	Gloss=monter
+7	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc
+9	gamal	gamal	_	_	_	_	_	_	Gloss=nakamal
+10	lalaŋau	lalaŋau	_	_	_	_	_	_	Gloss=jeter.un.oeil
+11	vano	vano	_	_	_	_	_	_	Gloss=aller
+12	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso138
+# text_en =  Oui, lui dirent-ils, et puis ensuite? Viens donc nous manger un par un.
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Oo	Oo	_	_	_	_	_	_	Gloss=oui
+3	»	»	_	_	_	_	_	_	Gloss=PUNCT
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+6	wa	wa	_	_	_	_	_	_	Gloss=Quot
+7	«	«	_	_	_	_	_	_	Gloss=PUNCT
+8	Kati	Kati	_	_	_	_	_	_	Gloss=Coord
+9	disava?	disava?	_	_	_	_	_	_	Gloss=quoi?
+10	Tewtewa	Tewtewa	_	_	_	_	_	_	Gloss=RedDistrib.un
+11	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+12	ŋa	ŋa	_	_	_	_	_	_	Gloss=P2sg
+13	=va»	=va»	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso140
+# text_en =  Il tourna la tête, se diriga vers l'autre porte, jeta un oeil,
+1	Sobulagi	Sobulagi	_	_	_	_	_	_	Gloss=tourner.la.tête
+2	sae	sae	_	_	_	_	_	_	Gloss=monter
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+5	gatama	gatama	_	_	_	_	_	_	Gloss=porte
+6	lalaŋau	lalaŋau	_	_	_	_	_	_	Gloss=jeter.un.oeil
+7	vano	vano	_	_	_	_	_	_	Gloss=aller
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso141
+# text_en =  mais l'autre ramassa des bananes et le bombarda.
+1	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	udi	udi	_	_	_	_	_	_	Gloss=banane
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+7	wose-	wose-	_	_	_	_	_	_	Gloss=lapider-
+8	a.	a.	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso142
+# text_en =  Et ainsi de suite, cela dura. Lorsque les bananes furent épuisées, ils passèrent aux noix de coco.
+1	Doqala	Doqala	_	_	_	_	_	_	Gloss=être.ainsi
+2	gin-	gin-	_	_	_	_	_	_	Gloss=Instr-
+3	ia	ia	_	_	_	_	_	_	Gloss=Obl3sg
+4	vavano	vavano	_	_	_	_	_	_	Gloss=RedDur.aller
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	no-	no-	_	_	_	_	_	_	Gloss=CP-
+7	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+8	udi	udi	_	_	_	_	_	_	Gloss=banane
+9	baso	baso	_	_	_	_	_	_	Gloss=finir
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	wutuagi	wutuagi	_	_	_	_	_	_	Gloss=sauter
+12	le=	le=	_	_	_	_	_	_	Gloss=Loc
+13	gusa,	gusa,	_	_	_	_	_	_	Gloss=noix.de.coco
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso143
+# text_en =  Puis quand ils en eurent fini avec les noix de coco, ils passèrent aux pierres, qu'ils avaient mises dans le feu et qui y étaient encore.
+1	vivano	vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+2	baso	baso	_	_	_	_	_	_	Gloss=finir
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	gusa,	gusa,	_	_	_	_	_	_	Gloss=noix.de.coco
+5	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+8	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+9	raŋai	raŋai	_	_	_	_	_	_	Gloss=cuire
+10	tau	tau	_	_	_	_	_	_	Gloss=contin
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso144
+# text_en =  Ils ramassèrent les pierres et le bombardèrent.
+1	Vile	Vile	_	_	_	_	_	_	Gloss=ramasser
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
+4	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+5	wose-	wose-	_	_	_	_	_	_	Gloss=lapider-
+6	a.	a.	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso145
+# text_en =  Taso dit, Ca ne fait rien. Je vous mangerai aujourd'hui même.
+1	Tasu	Tasu	_	_	_	_	_	_	Gloss=NP
+2	wa	wa	_	_	_	_	_	_	Gloss=Quot
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	«	«	_	_	_	_	_	_	Gloss=PUNCT
+5	No-	No-	_	_	_	_	_	_	Gloss=CP-
+6	mu	mu	_	_	_	_	_	_	Gloss=P2pl
+7	dada	dada	_	_	_	_	_	_	Gloss=RedNomin.faire
+8	wora	wora	_	_	_	_	_	_	Gloss=seulement
+9	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+10	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+11	gani=kamu	gani=kamu	_	_	_	_	_	_	Gloss=manger-O2pl
+12	qariki	qariki	_	_	_	_	_	_	Gloss=aujourd'hui
+13	»	»	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso148
+# text_en =  Il descendit vers l'autre porte, l'autre ramassa une pierre et le bombarda.
+1	Van	Van	_	_	_	_	_	_	Gloss=aller
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+5	gatama	gatama	_	_	_	_	_	_	Gloss=porter
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+9	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
+10	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+11	wose-	wose-	_	_	_	_	_	_	Gloss=lapider-
+12	a,	a,	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso149
+# text_en =  Et ainsi de suite, leurs pierres s'épuisèrent, Taso faiblissait.
+1	Vivano	Vivano	_	_	_	_	_	_	Gloss=RedDur.aller
+2	no-	no-	_	_	_	_	_	_	Gloss=CP-
+3	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+4	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
+5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+6	baso,	baso,	_	_	_	_	_	_	Gloss=finir
+7	suri	suri	_	_	_	_	_	_	Gloss=os
+8	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+9	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+10	galgalo,	galgalo,	_	_	_	_	_	_	Gloss=être.faible
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso150
+# text_en =  Il faiblissait, comme cela, il alla à l'une des portes,
+1	Suri	Suri	_	_	_	_	_	_	Gloss=os
+2	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+3	galgalo	galgalo	_	_	_	_	_	_	Gloss=être.faible
+4	doklaka	doklaka	_	_	_	_	_	_	Gloss=être.ainsi
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	van	van	_	_	_	_	_	_	Gloss=aller
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+9	gatama	gatama	_	_	_	_	_	_	Gloss=porte
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso154
+# text_en =  Taso mourut, il le tirèrent à l'intérieur du nakamal,
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	mate	mate	_	_	_	_	_	_	Gloss=mourir
+4	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+5	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+6	reve-	reve-	_	_	_	_	_	_	Gloss=tirer-
+7	a	a	_	_	_	_	_	_	Gloss=O3sg
+8	vano	vano	_	_	_	_	_	_	Gloss=aller
+9	le=	le=	_	_	_	_	_	_	Gloss=Loc
+10	lol	lol	_	_	_	_	_	_	Gloss=intérieur
+11	gamali	gamali	_	_	_	_	_	_	Gloss=nakamal
+12	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso155
+# text_en =  puis descendirent voir sa mère.
+1	kae	kae	_	_	_	_	_	_	Gloss=Connex.Aorpl
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	suri	suri	_	_	_	_	_	_	Gloss=suivre
+4	rave	rave	_	_	_	_	_	_	Gloss=mère
+5	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso156
+# text_en =  Ils descendirent voir sa mère,
+1	Sugo	Sugo	_	_	_	_	_	_	Gloss=descendre
+2	vet	vet	_	_	_	_	_	_	Gloss=dire
+3	min	min	_	_	_	_	_	_	Gloss=Dest
+4	rave	rave	_	_	_	_	_	_	Gloss=mère
+5	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+6	wa	wa	_	_	_	_	_	_	Gloss=Quot
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso158
+# text_en =  Elle boucha le trou correctement, rendant la porte bien solide.
+1	Sosoŋ	Sosoŋ	_	_	_	_	_	_	Gloss=boucher
+2	daŋwagu	daŋwagu	_	_	_	_	_	_	Gloss=faire.bien
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	lulu,	lulu,	_	_	_	_	_	_	Gloss=trou
+5	da	da	_	_	_	_	_	_	Gloss=faire
+6	toraga	toraga	_	_	_	_	_	_	Gloss=solide
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	gatama	gatama	_	_	_	_	_	_	Gloss=porte
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso159
+# text_en =  Ils brûlèrent la maison en l'enfermant dedans, puis montèrent et brûlèrent Taso en l'enfermant là-haut (dans le nakamal).
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	sulu	sulu	_	_	_	_	_	_	Gloss=brûler
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	vale	vale	_	_	_	_	_	_	Gloss=maison
+6	gorogoro	gorogoro	_	_	_	_	_	_	Gloss=enfermer
+7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+8	kusugo	kusugo	_	_	_	_	_	_	Gloss=Deix
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	sage	sage	_	_	_	_	_	_	Gloss=monter
+11	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+12	sulu	sulu	_	_	_	_	_	_	Gloss=brûler
+13	gorgoro	gorgoro	_	_	_	_	_	_	Gloss=enfermer
+14	Taso	Taso	_	_	_	_	_	_	Gloss=NP
+15	kisae	kisae	_	_	_	_	_	_	Gloss=Deix
+16	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso160
+# text_en =  Cette histoire se finit ici.
+1	Sursurigi	Sursurigi	_	_	_	_	_	_	Gloss=histoire
+2	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+3	la	la	_	_	_	_	_	_	Gloss=Anaph
+4	baso	baso	_	_	_	_	_	_	Gloss=finir
+5	laka	laka	_	_	_	_	_	_	Gloss=Deix
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+

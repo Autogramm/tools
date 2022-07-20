@@ -1,0 +1,1495 @@
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso2
+# text_en = Taso était un ogre.
+1	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+2	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+3	liwo	liwo	AUX	_	_	-1	_	_	Gloss=ogre
+4	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	gangani	gangani	AUX	_	_	-1	_	_	Gloss=ogre
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso3
+# text_en = Il y a longtemps, Taso mangeait des êtres humains, ici, à Maewo.
+1	Tueta	tueta	AUX	_	_	-1	_	_	Gloss=longtemps
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+4	toti=	toti=	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog=|TokenType=Clit
+5	gani-	gani-	AUX	_	_	-1	_	_	Gloss=manger-|TokenType=Aff
+6	ra	ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+9	laka-	laka-	AUX	_	_	-1	_	_	Gloss=Deix-|TokenType=Aff
+10	ga	ga	AUX	_	_	-1	_	_	Gloss=Prox
+11	N̅waewo	N̅waewo	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso4
+# text_en = Un jour, ils étaient là, lui et son épouse, Roŋwatari.
+1	Qoŋ	Qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+2	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+6	totoga,	totoga,	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga,|Reduplicated=Yes
+7	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+8	me	me	AUX	_	_	-1	_	_	Gloss=avec
+9	ratubu	ratubu	AUX	_	_	-1	_	_	Gloss=épouse
+10	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+13	Roŋwatari.	Roŋwatari.	AUX	_	_	-1	_	_	Gloss=NP
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso5
+# text_en = Taso lui dit	 Prends ton panier, allons ramasser des oai (fruits d'une liane).
+1	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Clusivity=Incl|Number=Plur|Person=1	-1	_	_	Gloss=Aor1plincl=|TokenType=Clit
+3	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+4	vil	vil	AUX	_	_	-1	_	_	Gloss=ramasser|MGloss=Intrans~ramasser|MSeg=vi~l|Reduplicated=Yes
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser|MGloss=Intrans~ramasser|MSeg=vi~le|Reduplicated=Yes
+7	oai	oai	AUX	_	_	-1	_	_	Gloss=Nesp.
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso6
+# text_en = Roŋwatari prit son panier, et ils se mirent en marche.
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	Roŋwatari	Roŋwatari	AUX	_	_	-1	_	_	Gloss=NP
+3	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+4	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+5	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+6	gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+9	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+10	rasu.	rasu.	AUX	_	_	-1	_	_	Gloss=marcher
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso7
+# text_en = Ils montèrent jusque sous un banyan, Roŋwatari ramassait des oai.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	vei	vei	AUX	_	_	-1	_	_	Gloss=dessous
+6	baka	baka	AUX	_	_	-1	_	_	Gloss=banyan
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+9	Roŋwari	Roŋwari	AUX	_	_	-1	_	_	Gloss=NP
+10	tot=	tot=	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog=|TokenType=Clit
+11	vilvile	vilvile	AUX	_	_	-1	_	_	Gloss=ramasser|MGloss=Intrans~ramasser|MSeg=vil~vile|Reduplicated=Yes
+12	oai	oai	AUX	_	_	-1	_	_	Gloss=Nesp
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso8
+# text_en = Taso alla de l'autre côté du banyan.
+1	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+2	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+3	taval	taval	AUX	_	_	-1	_	_	Gloss=autre.côté
+4	baka	baka	AUX	_	_	-1	_	_	Gloss=banyan
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso9
+# text_en = Il leva les yeux vers sa cime, aperçut un carcophage, et décocha une flèche.
+1	Ete	ete	AUX	_	_	-1	_	_	Gloss=regarder
+2	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	woŋa-	woŋa-	AUX	_	_	-1	_	_	Gloss=sommet-|TokenType=Aff
+5	na,	na,	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+6	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	qona	qona	AUX	_	_	-1	_	_	Gloss=carcophage
+9	ka	ka	CCONJ	_	_	-1	_	_	Amal=kat
+10	ti	ti	AUX	_	_	-1	_	_	Gloss=Connex
+11	vene	vene	AUX	_	_	-1	_	_	Gloss=tirer
+12	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+13	a=	a=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+14	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+15	n	n	AUX	_	_	-1	_	_	Gloss=P3s
+16	tiqaŋa	tiqaŋa	AUX	_	_	-1	_	_	Gloss=flèche
+17	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso10
+# text_en = Il tira en l'air vers la cime, et rata le carcophage.
+1	Vene	vene	AUX	_	_	-1	_	_	Gloss=tirer
+2	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	woŋa-	woŋa-	AUX	_	_	-1	_	_	Gloss=cime-|TokenType=Aff
+5	na,	na,	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+6	awe	awe	AUX	_	_	-1	_	_	Gloss=rater
+7	dan	dan	AUX	_	_	-1	_	_	Gloss=Abl
+8	a=	a=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+9	qona,	qona,	AUX	_	_	-1	_	_	Gloss=carcophage
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso11
+# text_en = Sa flèche tomba à côté de Roŋwatari.
+1	No-	No-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+2	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+3	tiqaŋa	tiqaŋa	AUX	_	_	-1	_	_	Gloss=flèche
+4	wadaŋe	wadaŋe	AUX	_	_	-1	_	_	Gloss=tomber
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	virtagi	virtagi	AUX	_	_	-1	_	_	Gloss=être.à.côté.de
+7	Roŋwatari	Roŋwatari	AUX	_	_	-1	_	_	Gloss=NP
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso12
+# text_en = Elle était à côté d'elle, et elle s'en saisit.
+1	Virtagi	virtagi	AUX	_	_	-1	_	_	Gloss=être.à.côté.de
+2	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	lai-	lai-	AUX	_	_	-1	_	_	Gloss=procurer-|TokenType=Aff
+7	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso13
+# text_en = Roŋwatari la saisit, la cassa, et l'enfouit profondément au fond de son panier.
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	Roŋwatari	Roŋwatari	AUX	_	_	-1	_	_	Gloss=NP
+3	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+4	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+5	vele	vele	AUX	_	_	-1	_	_	Gloss=casser
+6	tusi	tusi	AUX	_	_	-1	_	_	Gloss=casser
+7	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	sogoni	sogoni	AUX	_	_	-1	_	_	Gloss=poser.dans
+10	susugo	susugo	AUX	_	_	-1	_	_	Gloss=descendre|MGloss=RED~descendre|MSeg=su~sugo|Reduplicated=Yes
+11	radu	radu	AUX	_	_	-1	_	_	Gloss=loin
+12	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+13	kere	kere	AUX	_	_	-1	_	_	Gloss=fond
+14	gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso14
+# text_en = Elle enlèva quelques oai, et la posa au fond du panier.
+1	rau	rau	AUX	_	_	-1	_	_	Gloss=enlever
+2	souna	souna	AUX	_	_	-1	_	_	Gloss=sortir
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	lebata	lebata	AUX	_	_	-1	_	_	Gloss=quelques
+5	oai	oai	AUX	_	_	-1	_	_	Gloss=Nesp
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+8	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+9	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+10	kere	kere	AUX	_	_	-1	_	_	Gloss=fond
+11	gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso16
+# text_en = Elle dit Je ne l'ai pas trouvée.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+7	saqe-	saqe-	AUX	_	_	-1	_	_	Gloss=trouver-|TokenType=Aff
+8	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+9	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+10	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso20
+# text_en = Il retourna de l'autre côté du banyan.
+1	Ia	ia	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg|TokenType=Clit|deprel=subj
+2	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+3	talwura	talwura	AUX	_	_	-1	_	_	Gloss=faire.à.nouveau
+4	taval	taval	AUX	_	_	-1	_	_	Gloss=autre.côté
+5	baka	baka	AUX	_	_	-1	_	_	Gloss=banyan
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso21
+# text_en = Il tire son arc, laisse partir sa flèche en l'air, elle retombe près de Roŋwatari.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	reve	reve	AUX	_	_	-1	_	_	Gloss=tirer
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+7	usu	usu	AUX	_	_	-1	_	_	Gloss=arc
+8	sekeragi	sekeragi	AUX	_	_	-1	_	_	Gloss=laisser.partir
+9	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+10	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+11	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+12	tiqana	tiqana	AUX	_	_	-1	_	_	Gloss=flèche
+13	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+14	wadaŋe	wadaŋe	AUX	_	_	-1	_	_	Gloss=tomber
+15	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+16	virtagi	virtagi	AUX	_	_	-1	_	_	Gloss=être.à.côté.de
+17	Roŋwatari	Roŋwatari	AUX	_	_	-1	_	_	Gloss=NP
+18	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso25
+# text_en = Elle enleva les oai de l'intérieur du panier.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	rau	rau	AUX	_	_	-1	_	_	Gloss=enlever
+4	souna	souna	AUX	_	_	-1	_	_	Gloss=sortir
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	oai	oai	AUX	_	_	-1	_	_	Gloss=Nesp
+7	dan	dan	AUX	_	_	-1	_	_	Gloss=Abl
+8	lol	lol	AUX	_	_	-1	_	_	Gloss=intérieur
+9	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+11	gete	gete	AUX	_	_	-1	_	_	Gloss=panier
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso26
+# text_en = Elle trouva  la flèche qui était là tout au fond du panier, la flèche qu'elle avait cassée et posée là.
+1	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+2	velvel	velvel	AUX	_	_	-1	_	_	Gloss=casser|MGloss=Intrans~casser|MSeg=vel~vel|Reduplicated=Yes
+3	tusi	tusi	AUX	_	_	-1	_	_	Gloss=casser
+4	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+5	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso29
+# text_en = A cette époque, sa grossesse à terme, elle était près d'accoucher.
+1	Le=	Le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+2	masqala	masqala	AUX	_	_	-1	_	_	Gloss=époque
+3	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+4	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+7	n	n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+8	wula	wula	AUX	_	_	-1	_	_	Gloss=mois
+9	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+12	virtagi	virtagi	AUX	_	_	-1	_	_	Gloss=être.à.côté.de
+13	bavbava	bavbava	AUX	_	_	-1	_	_	Gloss=accoucher
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso30
+# text_en = Il la jeta et la laissa là.
+1	Wosag	wosag	AUX	_	_	-1	_	_	Gloss=jeter
+2	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+3	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+4	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+7	dan-	dan-	AUX	_	_	-1	_	_	Gloss=Abl-|TokenType=Aff
+8	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3sg|TokenType=Clit|deprel=comp:obl
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso31
+# text_en = Les enfants qui étaient dans son ventre naquirent donc, alors même qu'elle était morte.
+1	Irana=	Irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	ŋwera	ŋwera	AUX	_	_	-1	_	_	Gloss=enfant
+3	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+4	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+5	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+6	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+7	taqaŋi-	taqaŋi-	AUX	_	_	-1	_	_	Gloss=ventre-|TokenType=Aff
+8	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+9	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+10	wota	wota	AUX	_	_	-1	_	_	Gloss=naître
+11	=va	=va	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+12	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+13	mo=	mo=	AUX	_	_	-1	_	_	Gloss=Circ=|TokenType=Clit
+14	mate.	mate.	AUX	_	_	-1	_	_	Gloss=mourir.
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso32
+# text_en = Ils naquirent. Ils bougeaient un peu, et tétaient leur mère.
+1	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	susu	susu	AUX	_	_	-1	_	_	Gloss=téter
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	rave-	rave-	AUX	_	_	-1	_	_	Gloss=mère-|TokenType=Aff
+6	ra.	ra.	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso33
+# text_en = Lorsqu'elle fut complètement pourrie, ils se mirent à ramper au hasard, et trouvèrent de l'eau dans une feuille d'arbre.
+1	van	van	AUX	_	_	-1	_	_	Gloss=aller
+2	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	bei	bei	AUX	_	_	-1	_	_	Gloss=eau
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	dau	dau	AUX	_	_	-1	_	_	Gloss=feuille
+7	geiga	geiga	AUX	_	_	-1	_	_	Gloss=arbre
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso34
+# text_en = Ils burent, burent, puis allèrent vers le tronc d'un qena et tétèrent le qena.
+1	Ima	ima	AUX	_	_	-1	_	_	Gloss=boire
+2	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+3	van	van	AUX	_	_	-1	_	_	Gloss=aller
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	qatagi	qatagi	AUX	_	_	-1	_	_	Gloss=tronc
+6	qena	qena	AUX	_	_	-1	_	_	Gloss=Nesp
+7	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+8	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Connex.Aorpl
+9	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+10	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+11	susu	susu	AUX	_	_	-1	_	_	Gloss=téter
+12	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+13	qena.	qena.	AUX	_	_	-1	_	_	Gloss=Nesp
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso35
+# text_en = Ils tétèrent, tétèrent, devinrent grands, jusqu'à être capables de marcher, puis se mirent à se promener ça et là.
+1	Susu	susu	AUX	_	_	-1	_	_	Gloss=têter
+2	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+6	lalata	lalata	AUX	_	_	-1	_	_	Gloss=grand|MGloss=Intens~grand|MSeg=la~lata|Reduplicated=Yes
+7	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+8	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+9	lai	lai	AUX	_	Mood=Pot	-1	_	_	Gloss=ModCap
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	ka	ka	AUX	_	_	-1	_	_	Gloss=Connex
+12	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+13	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+14	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+15	qonagi	qonagi	AUX	_	_	-1	_	_	Gloss=aller.au.hasard
+16	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+17	vano.	vano.	AUX	_	_	-1	_	_	Gloss=aller
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso36
+# text_en = Ils marchaient, trouvaient de l'eau dans les flaques, buvaient, trouvaient des miettes (de nourriture), mangeaient, ne faisaient que manger.
+1	Rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+2	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+3	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	bei	bei	AUX	_	_	-1	_	_	Gloss=eau
+6	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+7	tumu,	tumu,	AUX	_	_	-1	_	_	Gloss=flaque
+8	ima	ima	AUX	_	_	-1	_	_	Gloss=boire
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+12	orore	orore	AUX	_	_	-1	_	_	Gloss=miettes|MGloss=Multipl~miettes|MSeg=or~ore|Reduplicated=Yes
+13	ririki	ririki	AUX	_	_	-1	_	_	Gloss=petit,|MGloss=Multipl~petit,|MSeg=ri~riki|Reduplicated=Yes
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+15	gani	gani	AUX	_	_	-1	_	_	Gloss=manger,
+16	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+17	gani	gani	AUX	_	_	-1	_	_	Gloss=manger
+18	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+19	=ŋa.	=ŋa.	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso37
+# text_en = Ils marchaient, et à présent, ils étaient forts, devenaient grands.
+1	Rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+2	vivano	vivano	AUX	_	_	-1	_	_	Gloss=marcher|MGloss=Dur~marcher|MSeg=vi~vano|Reduplicated=Yes
+3	kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+4	ta=	ta=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+5	toraga	toraga	AUX	_	_	-1	_	_	Gloss=solide
+6	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+7	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+8	lalata,	lalata,	AUX	_	_	-1	_	_	Gloss=grand|MGloss=Intens~grand|MSeg=la~lata,|Reduplicated=Yes
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso38
+# text_en = Ils marchaient, et atteignirent un endroit
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	rarasu	rarasu	AUX	_	_	-1	_	_	Gloss=marcher|MGloss=Dur~marcher|MSeg=ra~rasu|Reduplicated=Yes
+4	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	masqala	masqala	AUX	_	_	-1	_	_	Gloss=endroit
+7	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso39
+# text_en = Qatu, leur oncle, et sa femme y vivaient chez eux.
+1	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	Qatu,	Qatu,	AUX	_	_	-1	_	_	Gloss=NP
+3	marou	marou	AUX	_	_	-1	_	_	Gloss=oncle
+4	-ra	-ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-P3pl|TokenType=Aff|deprel=mod:poss
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+7	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+8	a=	a=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+9	ratubu-	ratubu-	AUX	_	_	-1	_	_	Gloss=épouse-|TokenType=Aff
+10	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+11	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+12	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+13	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+14	ala	ala	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+15	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+16	isa-	isa-	AUX	_	_	-1	_	_	Gloss=chez.soi-|TokenType=Aff
+17	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso40
+# text_en = Ils allèrent tout droit à l'endroit où Qatu nourrissait ses porcs.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+3	totowoi	totowoi	AUX	_	_	-1	_	_	Gloss=aller.tout.droit
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	masqala	masqala	AUX	_	_	-1	_	_	Gloss=endroit
+6	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+7	Qatu	Qatu	AUX	_	_	-1	_	_	Gloss=NP
+8	mo=	mo=	AUX	_	_	-1	_	_	Gloss=Circ=|TokenType=Clit
+9	vagani	vagani	AUX	_	_	-1	_	_	Gloss=nourrir
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+12	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+13	qoe	qoe	AUX	_	_	-1	_	_	Gloss=porc
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso41
+# text_en = Ils virent Qatu; quand Qatu coupait puis jetait la nourriture, et s'en allait, ils descendaient et chassaient les porcs, ramassaient la nourriture et mangeaient, allaient se cacher et mangeaient.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+3	Qatu	Qatu	AUX	_	_	-1	_	_	Gloss=NP
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+6	Qatu	Qatu	AUX	_	_	-1	_	_	Gloss=NP
+7	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+8	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+9	tau	tau	AUX	_	_	-1	_	_	Gloss=Connex
+10	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+11	wosag	wosag	AUX	_	_	-1	_	_	Gloss=jeter
+12	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+13	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+15	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+16	rasu,	rasu,	AUX	_	_	-1	_	_	Gloss=marcher
+17	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+18	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+19	lit	lit	AUX	_	_	-1	_	_	Gloss=chasser
+20	souna	souna	AUX	_	_	-1	_	_	Gloss=enlever
+21	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+22	qoe,	qoe,	AUX	_	_	-1	_	_	Gloss=porc
+23	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+24	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+25	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+26	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+27	gani	gani	AUX	_	_	-1	_	_	Gloss=manger
+28	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+29	taunigi	taunigi	AUX	_	_	-1	_	_	Gloss=(se.)cacher
+30	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+31	gani;	gani;	AUX	_	_	-1	_	_	Gloss=manger
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso42
+# text_en = Maintenant, ils ne pouvaient plus s'en aller, ils restaient là, à manger.
+1	Kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+4	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+5	ŋa	ŋa	AUX	_	_	-1	_	_	Gloss=PEN
+6	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+7	lai	lai	AUX	_	Mood=Pot	-1	_	_	Gloss=ModCap
+8	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+11	ala	ala	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+12	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+13	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+14	gani,	gani,	AUX	_	_	-1	_	_	Gloss=manger
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso43
+# text_en = Leur oncle nourrissait les cochons, et ils mangeaient la nourriture des cochons.
+1	Marou	marou	AUX	_	_	-1	_	_	Gloss=oncle
+2	-ra	-ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-P3pl|TokenType=Aff|deprel=mod:poss
+3	tot=	tot=	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog=|TokenType=Clit
+4	vagan	vagan	AUX	_	_	-1	_	_	Gloss=nourrir
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	qoe;	qoe;	AUX	_	_	-1	_	_	Gloss=porc
+7	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+8	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+9	gani	gani	AUX	_	_	-1	_	_	Gloss=manger
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+12	ga	ga	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP
+13	na=	na=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+14	qoe	qoe	AUX	_	_	-1	_	_	Gloss=porc
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso44
+# text_en = Et ainsi, chaque matin, Qatu montait (les) nourrir, puis quand il redescendait, les cochons pleuraient après lui, ses truies pleuraient après lui.
+1	Vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+2	valu	valu	AUX	_	_	-1	_	_	Gloss=chaque
+3	roqoŋi	roqoŋi	AUX	_	_	-1	_	_	Gloss=matin
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Qatu	Qatu	AUX	_	_	-1	_	_	Gloss=NP
+6	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+7	vagan	vagan	AUX	_	_	-1	_	_	Gloss=nourrir
+8	tau	tau	AUX	_	_	-1	_	_	Gloss=Connex
+9	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+10	sugo,	sugo,	AUX	_	_	-1	_	_	Gloss=descendre
+11	qoe	qoe	AUX	_	_	-1	_	_	Gloss=porc
+12	ŋara	ŋara	AUX	_	_	-1	_	_	Gloss=pleurer
+13	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+14	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+16	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+17	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+18	dura	dura	AUX	_	_	-1	_	_	Gloss=truie
+19	ŋara	ŋara	AUX	_	_	-1	_	_	Gloss=pleurer
+20	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+21	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+22	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso46
+# text_en = Un jour, il apporta la nourriture, la coupa, apporta des noix de coco, les racla,
+1	Qoŋ	Qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+2	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	sinaga,	sinaga,	AUX	_	_	-1	_	_	Gloss=nourriture
+9	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+12	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+13	bigbig,	bigbig,	AUX	_	_	-1	_	_	Gloss=noix.de.coco
+14	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+15	goti	goti	AUX	_	_	-1	_	_	Gloss=racler
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso47
+# text_en = Il les leur jeta, puis descendit se cacher à mi-chemin.
+1	wosag	wosag	AUX	_	_	-1	_	_	Gloss=jeter
+2	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+3	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	tau	tau	AUX	_	_	-1	_	_	Gloss=Connex
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+7	taunigi	taunigi	AUX	_	_	-1	_	_	Gloss=(se.)cacher
+8	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+9	udi	udi	AUX	_	_	-1	_	_	Gloss=moitié
+10	sala	sala	AUX	_	_	-1	_	_	Gloss=route
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso48
+# text_en = Il était caché, et regardai, et il les vit sortir, sortir,
+1	Taunigi	taunigi	AUX	_	_	-1	_	_	Gloss=(se.)cacher
+2	tau	tau	AUX	_	_	-1	_	_	Gloss=Connex
+3	tot=	tot=	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog=|TokenType=Clit
+4	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+5	tau	tau	AUX	_	_	-1	_	_	Gloss=Connex
+6	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+7	-ra	-ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-O3pl|TokenType=Aff|deprel=comp:obj
+8	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+9	lua	lua	AUX	_	_	-1	_	_	Gloss=sortir
+10	lua	lua	AUX	_	_	-1	_	_	Gloss=sortir
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso49
+# text_en = Ces enfants qui étaient très beaux, des adolescents, de petits hommes.
+1	irana=	irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	ŋwera	ŋwera	AUX	_	_	-1	_	_	Gloss=enfants
+3	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+4	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+5	wiwia,	wiwia,	AUX	_	_	-1	_	_	Gloss=bon|MGloss=Intens~bon|MSeg=wi~wia,|Reduplicated=Yes
+6	lumagavi	lumagavi	AUX	_	_	-1	_	_	Gloss=adolescent
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+9	ririki	ririki	AUX	_	_	-1	_	_	Gloss=petit|MGloss=Intens~petit|MSeg=ri~riki|Reduplicated=Yes
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso50
+# text_en = L'un chassait les porcs, et l'autre ramassait.
+1	Tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+2	toga	toga	CCONJ	_	Aspect=Prog	-1	_	_	Amal=tot
+3	ge	ge	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog
+4	talo	talo	AUX	_	_	-1	_	_	Gloss=chasser
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	qoe,	qoe,	AUX	_	_	-1	_	_	Gloss=porc
+7	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+8	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso52
+# text_en = Ils sursautèrent comme cela, et lâchèrent la moitié de leur nourriture.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	tagoso	tagoso	AUX	_	_	-1	_	_	Gloss=sursauter
+4	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=être.ainsi
+5	sekerag	sekerag	AUX	_	_	-1	_	_	Gloss=lâcher
+6	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+7	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+8	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+9	ududi	ududi	AUX	_	_	-1	_	_	Gloss=moitié|MGloss=Distrib~moitié|MSeg=ud~udi|Reduplicated=Yes
+10	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso53
+# text_en = Puis ils se mirent à se mordiller les doigts.
+1	Kae	kae	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Connex.Aorpl
+2	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+3	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+4	ŋworŋworota	ŋworŋworota	AUX	_	_	-1	_	_	Gloss=ronger
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	bisu-	bisu-	AUX	_	_	-1	_	_	Gloss=doigt-|TokenType=Aff
+7	ra.	ra.	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso58
+# text_en = Très bien, venez.
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+5	sumai.»	sumai.»	AUX	_	_	-1	_	_	Gloss=venir
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso59
+# text_en = Ils les emmena, et les mena dans une maison où il conservait des nattes.
+1	Lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+2	-ra	-ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-P3pl|TokenType=Aff|deprel=mod:poss
+3	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+6	-ra	-ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-O3pl|TokenType=Aff|deprel=comp:obj
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	val	val	AUX	_	_	-1	_	_	Gloss=maison
+9	malo	malo	AUX	_	_	-1	_	_	Gloss=natte
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso60
+# text_en = Il les emmena, les fit passer derrière les nattes et s'y installer.
+1	Tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+2	-ra	-ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-O3pl|TokenType=Aff|deprel=comp:obj
+3	sasae	sasae	AUX	_	_	-1	_	_	Gloss=monter|MGloss=Dur~monter|MSeg=sa~sae|Reduplicated=Yes
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	tawu,	tawu,	AUX	_	_	-1	_	_	Gloss=dos
+6	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+7	tawu	tawu	AUX	_	_	-1	_	_	Gloss=dos
+8	malo	malo	AUX	_	_	-1	_	_	Gloss=natte
+9	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+10	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+11	ala	ala	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso62
+# text_en = Il regarda quelle nourriture elle ramenait.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+4	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+5	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+6	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+7	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+8	qa	qa	AUX	_	_	-1	_	_	Gloss=PEN
+9	sava	sava	AUX	_	_	-1	_	_	Gloss=quoi
+10	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso63
+# text_en = Il regarda les ignames qu'elle avait déterrées,
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+3	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+6	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+7	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+8	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+9	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+10	gili,	gili,	AUX	_	_	-1	_	_	Gloss=déterrer
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso64
+# text_en = il ne s'agissait pas de celles qu'il aimait.
+1	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+2	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+3	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+4	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+5	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+6	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+7	ia	ia	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg|TokenType=Clit|deprel=subj
+8	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+9	tarana.	tarana.	AUX	_	_	-1	_	_	Gloss=aimer
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso65
+# text_en = Il lui dit:: J'aimerais que tu ailles au jardin,
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+4	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+5	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3sg|TokenType=Clit|deprel=comp:obl
+6	wa	wa	AUX	_	_	-1	_	_	Gloss=dire
+7	:	:	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	Nau=	Nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+10	tarana	tarana	AUX	_	_	-1	_	_	Gloss=aimer
+11	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+12	niko=	niko=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+13	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+14	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+15	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+16	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso68
+# text_en = Il descendit au bord de la mer, ramassa une pierre, celle qu'on appelle ici Aulau
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	tasi,	tasi,	AUX	_	_	-1	_	_	Gloss=mer
+6	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	vatu,	vatu,	AUX	_	_	-1	_	_	Gloss=pierre
+9	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+10	na=	na=	AUX	_	_	-1	_	_	Gloss=PEN=|TokenType=Clit
+11	lakaga	lakaga	AUX	_	_	-1	_	_	Gloss=Deix
+12	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+13	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+14	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+15	wara	wara	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+16	Aulau	aulau	AUX	_	_	-1	_	_	Gloss=Nesp
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso71
+# text_en = Il lui donna la pierre, puis attendit.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	vatu	vatu	AUX	_	_	-1	_	_	Gloss=pierre
+6	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+7	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3sg|TokenType=Clit|deprel=comp:obl
+8	ka	ka	AUX	_	_	-1	_	_	Gloss=Connex
+9	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+10	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+11	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso72
+# text_en = “Elle rôtit les ignames, puis les éplucha, les éplucha,”
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	tuala	tuala	AUX	_	_	-1	_	_	Gloss=rôtir
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+6	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+7	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+8	ka	ka	CCONJ	_	_	-1	_	_	Amal=kat
+9	ti	ti	AUX	_	_	-1	_	_	Gloss=Connex
+10	siri	siri	AUX	_	_	-1	_	_	Gloss=éplucher
+11	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	siri	siri	AUX	_	_	-1	_	_	Gloss=éplucher
+14	siri	siri	AUX	_	_	-1	_	_	Gloss=éplucher
+15	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso75
+# text_en = Il dit Apporte-le ici!
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Go=	Go=	AUX	_	Aspect=Aor|Number=Sing|Person=2	-1	_	_	Gloss=Aor2sg=|TokenType=Clit
+6	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+7	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+8	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso77
+# text_en = Elle alla écarter de nombreuses nattes, et sursauta en les voyant.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	sasae	sasae	AUX	_	_	-1	_	_	Gloss=monter|MGloss=Dur~monter|MSeg=sa~sae|Reduplicated=Yes
+4	laŋe	laŋe	AUX	_	_	-1	_	_	Gloss=ouvrir
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	laŋe	laŋe	AUX	_	_	-1	_	_	Gloss=ouvrir
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	malo	malo	AUX	_	_	-1	_	_	Gloss=natte
+9	ŋwaraga	ŋwaraga	AUX	_	_	-1	_	_	Gloss=nombreux
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	tagoso	tagoso	AUX	_	_	-1	_	_	Gloss=sursauter
+12	gin-	gin-	AUX	_	_	-1	_	_	Gloss=Instr-|TokenType=Aff
+13	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso79
+# text_en = Il dit non.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+6	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso80
+# text_en = Alors, mes neveux?
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso82
+# text_en = Ils les emmenèrent vers leur maison.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	lai-	lai-	AUX	_	_	-1	_	_	Gloss=procurer-|TokenType=Aff
+4	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+7	vale.	vale.	AUX	_	_	-1	_	_	Gloss=maison
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso83
+# text_en = Ils descendirent, et restèrent là, ils jouaient avec eux, les nourrissaient.
+1	Sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+3	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+4	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+6	vevsale	vevsale	AUX	_	_	-1	_	_	Gloss=jouer
+7	me	me	AUX	_	_	-1	_	_	Gloss=avec
+8	-ra	-ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-O3pl|TokenType=Aff|deprel=comp:obj
+9	vavano	vavano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano|Reduplicated=Yes
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+12	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+13	vagani-	vagani-	AUX	_	_	-1	_	_	Gloss=nourrir-|TokenType=Aff
+14	ra	ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso84
+# text_en = Ils leur fabriquèrent des arcs minuscules pour chasser le lézard noir et le lézard vert
+1	Sasava	sasava	AUX	_	_	-1	_	_	Gloss=couper
+2	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+3	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+4	usu	usu	AUX	_	_	-1	_	_	Gloss=arc
+5	vavavai	vavavai	AUX	_	_	-1	_	_	Gloss=minuscule
+6	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+7	venvene	venvene	AUX	_	_	-1	_	_	Gloss=tirer.sur|MGloss=Intrans~tirer.sur|MSeg=ven~vene|Reduplicated=Yes
+8	taŋsuli	taŋsuli	AUX	_	_	-1	_	_	Gloss=lézard.noir
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	mumu	mumu	AUX	_	_	-1	_	_	Gloss=lézard.vert
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso85
+# text_en = Ils chassaient, chassaient, et (un jour) ils regardèrent les arcs.
+1	Venvene	venvene	AUX	_	_	-1	_	_	Gloss=tirer.sur|MGloss=Intrans~tirer.sur|MSeg=ven~vene|Reduplicated=Yes
+2	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ete	ete	AUX	_	_	-1	_	_	Gloss=regarder
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	usu	usu	AUX	_	_	-1	_	_	Gloss=arc
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso87
+# text_en = ils n'étaient pas de la bonne taille pour eux.
+1	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+2	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+3	tarisa	tarisa	AUX	_	_	-1	_	_	Gloss=suffire
+4	me-	me-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+5	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+6	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso88
+# text_en = Ils les cassèrent et en fabriquèrent d'autres.
+1	Vel	vel	AUX	_	_	-1	_	_	Gloss=casser
+2	tusi	tusi	AUX	_	_	-1	_	_	Gloss=casser
+3	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+4	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+5	sasav	sasav	AUX	_	_	-1	_	_	Gloss=couper
+6	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso89
+# text_en = Ils chassèrent toutes sortes de petits oiseaux, encore et encore
+1	Venvene	venvene	AUX	_	_	-1	_	_	Gloss=tirer.sur|MGloss=Intrans~tirer.sur|MSeg=ven~vene|Reduplicated=Yes
+2	manmanu	manmanu	AUX	_	_	-1	_	_	Gloss=oiseau|MGloss=Multipl~oiseau|MSeg=man~manu|Reduplicated=Yes
+3	ririki	ririki	AUX	_	_	-1	_	_	Gloss=petit|MGloss=Multipl~petit|MSeg=ri~riki|Reduplicated=Yes
+4	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso90
+# text_en = Puis ils virent que leurs arcs n'étaient pas assez grands, les cassèrent,
+1	Ete	ete	AUX	_	_	-1	_	_	Gloss=regarder
+2	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+3	usu	usu	AUX	_	_	-1	_	_	Gloss=arc
+4	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+5	lalata	lalata	AUX	_	_	-1	_	_	Gloss=grand|MGloss=Intens~grand|MSeg=la~lata|Reduplicated=Yes
+6	tarisa	tarisa	AUX	_	_	-1	_	_	Gloss=suffire
+7	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	vel	vel	AUX	_	_	-1	_	_	Gloss=casser
+10	tusi	tusi	AUX	_	_	-1	_	_	Gloss=casser
+11	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso91
+# text_en = et en fabriquèrent d'autres pour tirer sur les poissons dans la mer.
+1	sasav	sasav	AUX	_	_	-1	_	_	Gloss=couper
+2	gesegese	gesegese	AUX	_	_	-1	_	_	Gloss=différent
+3	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+4	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+5	ven	ven	AUX	_	_	-1	_	_	Gloss=tirer.sur
+6	masi	masi	AUX	_	_	-1	_	_	Gloss=poisson
+7	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+8	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+9	tasi.	tasi.	AUX	_	_	-1	_	_	Gloss=mer
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso92
+# text_en = Ils prenaient leurs arcs pour descendre au bord de mer, et (un jour), ils virent qu'ils étaient assez grands
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	tor	tor	AUX	_	_	-1	_	_	Gloss=tenir
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	usu,	usu,	AUX	_	_	-1	_	_	Gloss=arc
+5	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	tasi	tasi	AUX	_	_	-1	_	_	Gloss=mer
+9	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+10	ete	ete	AUX	_	_	-1	_	_	Gloss=regarder
+11	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+12	tarisa	tarisa	AUX	_	_	-1	_	_	Gloss=suffire
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso93
+# text_en = Ils étaient devenus assez grands, ils les cassèrent, et fabriquèrent des arcs pour chasser l'homme.
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ta	ta	AUX	_	_	-1	_	_	Gloss=Pft
+3	lalata	lalata	AUX	_	_	-1	_	_	Gloss=grand|MGloss=Intens~grand|MSeg=la~lata|Reduplicated=Yes
+4	tarisa	tarisa	AUX	_	_	-1	_	_	Gloss=suffire
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	vel	vel	AUX	_	_	-1	_	_	Gloss=casser
+7	tusi	tusi	AUX	_	_	-1	_	_	Gloss=casser
+8	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+9	sasavi	sasavi	AUX	_	_	-1	_	_	Gloss=fabriquer
+10	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+11	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+12	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+13	ven	ven	AUX	_	_	-1	_	_	Gloss=tirer.sur
+14	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso94
+# text_en = Ils mirent des pointes à leur flèches pour chasser l'homme.
+1	Vatur	vatur	AUX	_	_	-1	_	_	Gloss=mettre.des.pointes.de.flèche.sur.
+2	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+3	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+4	raŋe	raŋe	AUX	_	_	-1	_	_	Gloss=flèche
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+7	ven	ven	AUX	_	_	-1	_	_	Gloss=tirer.sur
+8	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso95
+# text_en = C'était vraiment un arc pour chasser l'homme.
+1	A=	A=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+2	usu	usu	AUX	_	_	-1	_	_	Gloss=arc
+3	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+4	ven	ven	AUX	_	_	-1	_	_	Gloss=tirer.sur
+5	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+6	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso96
+# text_en = Ils restèrent là, et un jour, ils montèrent au jardin.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga|Reduplicated=Yes
+3	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+4	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+7	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+8	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+9	uma,	uma,	AUX	_	_	-1	_	_	Gloss=jardin
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso98
+# text_en = Vous voyez la colline là-bas? Quand vous jouez, jouez ici près de nous.
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Kamu=	Kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+3	ete	ete	AUX	_	_	-1	_	_	Gloss=regarder
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	rewo	rewo	AUX	_	_	-1	_	_	Gloss=colline
+6	kivano	kivano	AUX	_	_	-1	_	_	Gloss=Deix
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	kamurua=	kamurua=	AUX	_	Case=Nom|Number=Dual|Person=2|PronType=Pers	-1	_	_	Gloss=S2du=|TokenType=Clit|deprel=subj
+9	vevsale,	vevsale,	AUX	_	_	-1	_	_	Gloss=jouer
+10	vevsale	vevsale	AUX	_	_	-1	_	_	Gloss=jouer
+11	lakaga	lakaga	AUX	_	_	-1	_	_	Gloss=Deix
+12	taval	taval	AUX	_	_	-1	_	_	Gloss=côté
+13	-gida	-gida	AUX	_	Case=Poss|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=-P1plincl|TokenType=Aff|deprel=mod:poss
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso99
+# text_en = Ne vous éloignez pas au hasard.
+1	kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+2	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+3	taleagi	taleagi	AUX	_	_	-1	_	_	Gloss=aller.au.hasard
+4	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+5	soai	soai	AUX	_	_	-1	_	_	Gloss=loin
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso100
+# text_en = Cette colline là, n'allez pas de l'autre côté.
+1	A=	A=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+2	rewo	rewo	AUX	_	_	-1	_	_	Gloss=colline
+3	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+4	la	la	AUX	_	_	-1	_	_	Gloss=dist
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	kamu=	kamu=	AUX	_	Case=Nom|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=S2pl=|TokenType=Clit|deprel=subj
+7	kare	kare	AUX	_	Mood=Imp|Polarity=Neg	-1	_	_	Gloss=Prohib
+8	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+9	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+10	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+11	ala	ala	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+12	kivano	kivano	AUX	_	_	-1	_	_	Gloss=Deix
+13	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+14	tawu-	tawu-	AUX	_	_	-1	_	_	Gloss=dos-|TokenType=Aff
+15	na,	na,	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso103
+# text_en = Non, il y a un ogre, là-bas; son nom est Taso.
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	liwo	liwo	AUX	_	_	-1	_	_	Gloss=ogre
+5	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	gangani	gangani	AUX	_	_	-1	_	_	Gloss=ogre
+7	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+8	sasa	sasa	AUX	_	_	-1	_	_	Gloss=nom
+9	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+10	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso104
+# text_en = Cet homme…Nous ici, nous étions nombreux, et Taso mange les gens.
+1	Tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+2	kea…	kea…	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+3	gida	gida	AUX	_	Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=I1plincl|TokenType=Clit|deprel=dislocated
+4	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+7	ŋweraga,	ŋweraga,	AUX	_	_	-1	_	_	Gloss=être.nombreux
+8	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+9	tot=	tot=	AUX	_	Aspect=Prog	-1	_	_	Gloss=Prog=|TokenType=Clit
+10	gani-	gani-	AUX	_	_	-1	_	_	Gloss=manger-|TokenType=Aff
+11	ra.	ra.	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso106
+# text_en = Ils s'en tinrent là. A présent, ils avaient planté leurs bananiers, et attendaient.
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	totoga,	totoga,	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga,|Reduplicated=Yes
+3	kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+4	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+5	ta=	ta=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+6	riwu	riwu	AUX	_	_	-1	_	_	Gloss=planter
+7	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+11	udi	udi	AUX	_	_	-1	_	_	Gloss=banane
+12	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+13	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+14	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+15	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso107
+# text_en = Et l'un d'entre eux n'était pas encore arrivé à maturité.
+1	Ka	ka	AUX	_	_	-1	_	_	Gloss=Connex
+2	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+3	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+4	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+5	qa	qa	AUX	_	_	-1	_	_	Gloss=PEN
+6	matua	matua	AUX	_	_	-1	_	_	Gloss=mûr
+7	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso108
+# text_en = Ils étaient là, et un jour, ils (les enfants) leur dirent (aux parents) de monter au jardin.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	totoga,	totoga,	AUX	_	_	-1	_	_	Gloss=rester|MGloss=Dur~rester|MSeg=to~toga,|Reduplicated=Yes
+3	qoŋ	qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+4	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+5	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+6	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+7	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+8	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+11	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+12	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+13	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+14	uma,	uma,	AUX	_	_	-1	_	_	Gloss=jardin
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso110
+# text_en = Si les bananes commencent à murir depuis le haut, tout va bien.
+1	Ia=	Ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+3	totqatugi	totqatugi	AUX	_	_	-1	_	_	Gloss=commencer
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	qatu	qatu	AUX	_	_	-1	_	_	Gloss=tête
+6	kisae	kisae	AUX	_	_	-1	_	_	Gloss=Deix
+7	mena	mena	AUX	_	_	-1	_	_	Gloss=être.mur
+8	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso112
+# text_en = Ils s'en allèrent.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	sekerag	sekerag	AUX	_	_	-1	_	_	Gloss=partir
+3	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+4	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso113
+# text_en = Ils marchèrent, marchèrent, marchèrent, atteignirent la maison de Taso.
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+3	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+4	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+5	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	ise	ise	AUX	_	_	-1	_	_	Gloss=chez.soi
+9	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso114
+# text_en = Taso n'y était pas, car il était descendu au bord de la mer pour nettoyer ses dents.
+1	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+2	tigala	tigala	AUX	_	Polarity=Neg	-1	_	_	Gloss=ExistNeg
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+5	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	tasi	tasi	AUX	_	_	-1	_	_	Gloss=mer
+9	kir	kir	AUX	_	_	-1	_	_	Gloss=nettoyer
+10	liwo	liwo	AUX	_	_	-1	_	_	Gloss=dent
+11	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso115
+# text_en = Ils descendirent vers la maison, et trouvèrent sa mère.
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	vale,	vale,	AUX	_	_	-1	_	_	Gloss=maison
+5	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+6	rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+7	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso117
+# text_en = Oh, Taso est descendu au bord de la mer pour nettoyer ses dents.
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	O	O	AUX	_	_	-1	_	_	Gloss=Interj
+3	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+4	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	tasi	tasi	AUX	_	_	-1	_	_	Gloss=mer
+7	kir	kir	AUX	_	_	-1	_	_	Gloss=nettoyer
+8	liwo	liwo	AUX	_	_	-1	_	_	Gloss=dent
+9	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso119
+# text_en = Ils dirent Nous venons de là-bas.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Quot=|TokenType=Clit
+3	«kami=	«kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+4	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+5	lakvano	lakvano	AUX	_	_	-1	_	_	Gloss=Deix
+6	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso120
+# text_en = Allez l'attendre dans le nakamal.
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+3	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	gamal	gamal	AUX	_	_	-1	_	_	Gloss=nakamal
+6	ligogi	ligogi	AUX	_	_	-1	_	_	Gloss=attendre
+7	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+8	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso123
+# text_en = Elle chanta une fois, mais Taso n'avait pas encore entendu.
+1	Ia=	Ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	taŋtaŋi	taŋtaŋi	AUX	_	_	-1	_	_	Gloss=chanter.une.complainte
+4	va-	va-	AUX	_	_	-1	_	_	Gloss=Occur-|TokenType=Aff
+5	va-tewa	tewa	AUX	_	_	-1	_	_	Gloss=un-|MGloss=CAUS-va-tewa|MSeg=va-va-tewa|TokenType=Aff
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+8	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+9	qa	qa	AUX	_	_	-1	_	_	Gloss=PEN
+10	roroŋo	roroŋo	AUX	_	_	-1	_	_	Gloss=entendre
+11	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso124
+# text_en = Taso, cherche, cherche des hommes à manger, l'un pour toi, l'autre pour moi, Taso!
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+3	saro	saro	AUX	_	_	-1	_	_	Gloss=chercher
+4	saro	saro	AUX	_	_	-1	_	_	Gloss=chercher
+5	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	ŋa	ŋa	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+7	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	a=	a=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+10	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+11	ŋa	ŋa	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+12	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	a=	a=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+15	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+16	ku	ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+17	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+18	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+19	Taso!	Taso!	AUX	_	_	-1	_	_	Gloss=NP
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso127
+# text_en = Il s'en vint sur la route, et testa ses dents, (pour savoir) si elles étaient bien aiguisées, ou non.
+1	susumai	susumai	AUX	_	_	-1	_	_	Gloss=venir|MGloss=Dur~venir|MSeg=su~sumai|Reduplicated=Yes
+2	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+3	sala	sala	AUX	_	_	-1	_	_	Gloss=route
+4	dadaete	dadaete	AUX	_	_	-1	_	_	Gloss=essayer|MGloss=Intrans~essayer|MSeg=da~daete|Reduplicated=Yes
+5	wara	wara	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+6	liwo	liwo	AUX	_	_	-1	_	_	Gloss=dent
+7	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+8	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+9	ga	ga	AUX	_	_	-1	_	_	Gloss=Prox
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+12	gagani	gagani	AUX	_	_	-1	_	_	Gloss=être.aiguisé
+13	si	si	AUX	_	_	-1	_	_	Gloss=ou
+14	dagasnia?	dagasnia?	AUX	_	_	-1	_	_	Gloss=comment
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso130
+# text_en = Il s'en vint, s'en vint, s'en vint, et atteignit la maison.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	sumai,	sumai,	AUX	_	_	-1	_	_	Gloss=venir
+4	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+5	susumai	susumai	AUX	_	_	-1	_	_	Gloss=venir|MGloss=Dur~venir|MSeg=su~sumai|Reduplicated=Yes
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+8	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+9	vale.	vale.	AUX	_	_	-1	_	_	Gloss=maison
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso131
+# text_en = Il atteignit la maison, et descendit, il ne monta pas au nakamal
+1	Diŋa	Diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+2	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+3	vale	vale	AUX	_	_	-1	_	_	Gloss=maison
+4	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+5	sugo,	sugo,	AUX	_	_	-1	_	_	Gloss=descendre
+6	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+7	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+8	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+9	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	gamal,	gamal,	AUX	_	_	-1	_	_	Gloss=nakamal
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso132
+# text_en = mais descendit rejoindre sa mère.
+1	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	rasu	rasu	AUX	_	_	-1	_	_	Gloss=marcher
+3	taval	taval	AUX	_	_	-1	_	_	Gloss=côté
+4	rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+5	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso134
+# text_en = Sa mère dit Quoi, quoi?
+1	Rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+2	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+3	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+4	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Sava	sava	AUX	_	_	-1	_	_	Gloss=quoi
+6	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=-P2sg|TokenType=Aff|deprel=mod:poss
+7	sava?	sava?	AUX	_	_	-1	_	_	Gloss=quoi
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso136
+# text_en = Il partit, et monta au nakamal, et jeta un œil à l'intérieur.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	tekeragi	tekeragi	AUX	_	_	-1	_	_	Gloss=partir
+4	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+5	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+6	sasae	sasae	AUX	_	_	-1	_	_	Gloss=monter
+7	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+8	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+9	gamal	gamal	AUX	_	_	-1	_	_	Gloss=nakamal
+10	lalaŋau	lalaŋau	AUX	_	_	-1	_	_	Gloss=jeter.un.oeil
+11	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso138
+# text_en = Oui, lui dirent-ils, et puis ensuite? Viens donc nous manger un par un.
+1	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+2	Oo	oo	AUX	_	_	-1	_	_	Gloss=oui
+3	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+6	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+7	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	Kati	kati	AUX	_	_	-1	_	_	Gloss=Coord
+9	disava?	disava?	AUX	_	_	-1	_	_	Gloss=quoi?
+10	Tewtewa	tewtewa	AUX	_	_	-1	_	_	Gloss=un|MGloss=Distrib~un|MSeg=tew~tewa|Reduplicated=Yes
+11	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+12	ŋa	ŋa	AUX	_	Case=Poss|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=P2sg|TokenType=Clit|deprel=mod:poss
+13	=va»	=va»	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso140
+# text_en = Il tourna la tête, se diriga vers l'autre porte, jeta un oeil,
+1	Sobulagi	sobulagi	AUX	_	_	-1	_	_	Gloss=tourner.la.tête
+2	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+5	gatama	gatama	AUX	_	_	-1	_	_	Gloss=porte
+6	lalaŋau	lalaŋau	AUX	_	_	-1	_	_	Gloss=jeter.un.oeil
+7	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso141
+# text_en = mais l'autre ramassa des bananes et le bombarda.
+1	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	udi	udi	AUX	_	_	-1	_	_	Gloss=banane
+6	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+7	wose-	wose-	AUX	_	_	-1	_	_	Gloss=lapider-|TokenType=Aff
+8	a.	a.	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso142
+# text_en = Et ainsi de suite, cela dura. Lorsque les bananes furent épuisées, ils passèrent aux noix de coco.
+1	Doqala	doqala	AUX	_	_	-1	_	_	Gloss=être.ainsi
+2	gin-	gin-	AUX	_	_	-1	_	_	Gloss=Instr-|TokenType=Aff
+3	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3sg|TokenType=Clit|deprel=comp:obl
+4	vavano	vavano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano|Reduplicated=Yes
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+7	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+8	udi	udi	AUX	_	_	-1	_	_	Gloss=banane
+9	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	wutuagi	wutuagi	AUX	_	_	-1	_	_	Gloss=sauter
+12	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+13	gusa,	gusa,	AUX	_	_	-1	_	_	Gloss=noix.de.coco
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso143
+# text_en = Puis quand ils en eurent fini avec les noix de coco, ils passèrent aux pierres, qu'ils avaient mises dans le feu et qui y étaient encore.
+1	vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+2	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	gusa,	gusa,	AUX	_	_	-1	_	_	Gloss=noix.de.coco
+5	vatu	vatu	AUX	_	_	-1	_	_	Gloss=pierre
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+9	raŋai	raŋai	AUX	_	_	-1	_	_	Gloss=cuire
+10	tau	tau	AUX	_	_	-1	_	_	Gloss=contin
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso144
+# text_en = Ils ramassèrent les pierres et le bombardèrent.
+1	Vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	vatu	vatu	AUX	_	_	-1	_	_	Gloss=pierre
+4	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+5	wose-	wose-	AUX	_	_	-1	_	_	Gloss=lapider-|TokenType=Aff
+6	a.	a.	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso145
+# text_en = Taso dit, Ca ne fait rien. Je vous mangerai aujourd'hui même.
+1	Tasu	Tasu	AUX	_	_	-1	_	_	Gloss=NP
+2	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	No-	No-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	mu	mu	AUX	_	Case=Poss|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=P2pl|TokenType=Clit|deprel=mod:poss
+7	dada	dada	AUX	_	_	-1	_	_	Gloss=faire|MGloss=Nomin~faire|MSeg=da~da|Reduplicated=Yes
+8	wora	wora	AUX	_	_	-1	_	_	Gloss=seulement
+9	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+10	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+11	gani=kamu	gani=kamu	AUX	_	Case=Acc|Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=manger-O2pl|TokenType=Clit|deprel=comp:obj
+12	qariki	qariki	AUX	_	_	-1	_	_	Gloss=aujourd'hui
+13	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso148
+# text_en = Il descendit vers l'autre porte, l'autre ramassa une pierre et le bombarda.
+1	Van	van	AUX	_	_	-1	_	_	Gloss=aller
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+5	gatama	gatama	AUX	_	_	-1	_	_	Gloss=porter
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	vatu	vatu	AUX	_	_	-1	_	_	Gloss=pierre
+10	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+11	wose-	wose-	AUX	_	_	-1	_	_	Gloss=lapider-|TokenType=Aff
+12	a,	a,	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso149
+# text_en = Et ainsi de suite, leurs pierres s'épuisèrent, Taso faiblissait.
+1	Vivano	vivano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=vi~vano|Reduplicated=Yes
+2	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+3	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+4	vatu	vatu	AUX	_	_	-1	_	_	Gloss=pierre
+5	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+6	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+7	suri	suri	AUX	_	_	-1	_	_	Gloss=os
+8	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+9	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+10	galgalo,	galgalo,	AUX	_	_	-1	_	_	Gloss=être.faible
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso150
+# text_en = Il faiblissait, comme cela, il alla à l'une des portes,
+1	Suri	suri	AUX	_	_	-1	_	_	Gloss=os
+2	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+3	galgalo	galgalo	AUX	_	_	-1	_	_	Gloss=être.faible
+4	doklaka	doklaka	AUX	_	_	-1	_	_	Gloss=être.ainsi
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	van	van	AUX	_	_	-1	_	_	Gloss=aller
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	tuara	tuara	AUX	_	_	-1	_	_	Gloss=autre
+9	gatama	gatama	AUX	_	_	-1	_	_	Gloss=porte
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso154
+# text_en = Taso mourut, il le tirèrent à l'intérieur du nakamal,
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	mate	mate	AUX	_	_	-1	_	_	Gloss=mourir
+4	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+6	reve-	reve-	AUX	_	_	-1	_	_	Gloss=tirer-|TokenType=Aff
+7	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+8	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+9	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+10	lol	lol	AUX	_	_	-1	_	_	Gloss=intérieur
+11	gamali	gamali	AUX	_	_	-1	_	_	Gloss=nakamal
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso155
+# text_en = puis descendirent voir sa mère.
+1	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+2	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Connex.Aorpl
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+5	rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+6	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso156
+# text_en = Ils descendirent voir sa mère,
+1	Sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+2	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+3	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+4	rave	rave	AUX	_	_	-1	_	_	Gloss=mère
+5	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+6	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso158
+# text_en = Elle boucha le trou correctement, rendant la porte bien solide.
+1	Sosoŋ	Sosoŋ	AUX	_	_	-1	_	_	Gloss=boucher
+2	daŋwagu	daŋwagu	AUX	_	_	-1	_	_	Gloss=faire.bien
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	lulu,	lulu,	AUX	_	_	-1	_	_	Gloss=trou
+5	da	da	AUX	_	_	-1	_	_	Gloss=faire
+6	toraga	toraga	AUX	_	_	-1	_	_	Gloss=solide
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	gatama	gatama	AUX	_	_	-1	_	_	Gloss=porte
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso159
+# text_en = Ils brûlèrent la maison en l'enfermant dedans, puis montèrent et brûlèrent Taso en l'enfermant là-haut (dans le nakamal).
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	sulu	sulu	AUX	_	_	-1	_	_	Gloss=brûler
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	vale	vale	AUX	_	_	-1	_	_	Gloss=maison
+6	gorogoro	gorogoro	AUX	_	_	-1	_	_	Gloss=enfermer
+7	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+8	kusugo	kusugo	AUX	_	_	-1	_	_	Gloss=Deix
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+11	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+12	sulu	sulu	AUX	_	_	-1	_	_	Gloss=brûler
+13	gorgoro	gorgoro	AUX	_	_	-1	_	_	Gloss=enfermer
+14	Taso	Taso	AUX	_	_	-1	_	_	Gloss=NP
+15	kisae	kisae	AUX	_	_	-1	_	_	Gloss=Deix
+16	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = 438_Dagasnia_ira_mo_asi_Taso160
+# text_en = Cette histoire se finit ici.
+1	Sursurigi	sursurigi	AUX	_	_	-1	_	_	Gloss=histoire
+2	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+3	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+4	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+5	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT

@@ -1,0 +1,516 @@
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma2
+# text_en =  Aujourd'hui, nous faisons nos jardin comme ça, mais pas comme ce qu'ils faisaient avant.
+1	Qariki	Qariki	_	_	_	_	_	_	Gloss=aujourd'hui
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex
+4	tai	tai	_	_	_	_	_	_	Gloss=couper
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	uma	uma	_	_	_	_	_	_	Gloss=jardin
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+8	doqala,	doqala,	_	_	_	_	_	_	Gloss=ainsi
+9	kati	kati	_	_	_	_	_	_	Gloss=Coord
+10	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+11	gai	gai	_	_	_	_	_	_	Gloss=PEN
+12	ŋwere	ŋwere	_	_	_	_	_	_	Gloss=être.comme
+13	-a	-a	_	_	_	_	_	_	Gloss=-O3pl
+14	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+15	tueta	tueta	_	_	_	_	_	_	Gloss=avant
+16	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+17	te=	te=	_	_	_	_	_	_	Gloss=Pft
+18	tai-	tai-	_	_	_	_	_	_	Gloss=couper-
+19	a.	a.	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma3
+# text_en =  Autrefois, ils se promenaient, et repéraient un emplacement.
+1	Tueta	Tueta	_	_	_	_	_	_	Gloss=avant
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+3	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+4	rasu,	rasu,	_	_	_	_	_	_	Gloss=marcher
+5	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+6	ete	ete	_	_	_	_	_	_	Gloss=voir
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	uma.	uma.	_	_	_	_	_	_	Gloss=jardin
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma4
+# text_en =  Ensuite avant de le couper,
+1	Turmua	Turmua	_	_	_	_	_	_	Gloss=être.premier
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite,
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	ge=	ge=	_	_	_	_	_	_	Gloss=AorPl
+6	vei=	vei=	_	_	_	_	_	_	Gloss=Evit
+7	tai-	tai-	_	_	_	_	_	_	Gloss=couper-
+8	a.	a.	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma6
+# text_en =  Ensuite, ils venaient juste et commençaient à le couper.
+1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+4	vei=	vei=	_	_	_	_	_	_	Gloss=Evit
+5	sumai,	sumai,	_	_	_	_	_	_	Gloss=venir
+6	ka	ka	_	_	_	_	_	_	Gloss=Coord
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+8	toqatug	toqatug	_	_	_	_	_	_	Gloss=commencer
+9	be	be	_	_	_	_	_	_	Gloss=Purp
+10	tai	tai	_	_	_	_	_	_	Gloss=commencer
+11	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma7
+# text_en =  Ils s'occupaient d'abord de la bordure, coupaient tout autour.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	u=	u=	_	_	_	_	_	_	Gloss=PftRest
+3	tai-	tai-	_	_	_	_	_	_	Gloss=couper-
+4	a	a	_	_	_	_	_	_	Gloss=O3sg
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	beara	beara	_	_	_	_	_	_	Gloss=bordure
+7	turmua	turmua	_	_	_	_	_	_	Gloss=être.premier
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	vavano	vavano	_	_	_	_	_	_	Gloss=RedDur.aller
+10	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+11	dalvita.	dalvita.	_	_	_	_	_	_	Gloss=faire.le.tour
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma8
+# text_en =  Ensuite, ils rentraient au village; le lendemain, ils montaient et commençaient à le couper.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	varea;	varea;	_	_	_	_	_	_	Gloss=village
+7	taval	taval	_	_	_	_	_	_	Gloss=autre
+8	marani	marani	_	_	_	_	_	_	Gloss=matin
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	sage	sage	_	_	_	_	_	_	Gloss=monter
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+12	toqatug	toqatug	_	_	_	_	_	_	Gloss=commencer
+13	tai	tai	_	_	_	_	_	_	Gloss=couper
+14	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+15	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma9
+# text_en =  Ils défrichaient ce jardin. Ils le défrichaient, ils finissaient l'intérieur.
+1	tai	tai	_	_	_	_	_	_	Gloss=couper
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	uma	uma	_	_	_	_	_	_	Gloss=jardin
+4	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+5	la	la	_	_	_	_	_	_	Gloss=Anaph
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+7	Tai	Tai	_	_	_	_	_	_	Gloss=couper
+8	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	le=	le=	_	_	_	_	_	_	Gloss=Loc
+11	lolo-	lolo-	_	_	_	_	_	_	Gloss=intérieur-
+12	na	na	_	_	_	_	_	_	Gloss=P3sg
+13	vavano	vavano	_	_	_	_	_	_	Gloss=RedDur.aller
+14	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+15	baso.	baso.	_	_	_	_	_	_	Gloss=finir
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma10
+# text_en =  Après, ils rentraient au village se reposer.
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+4	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+5	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	varea,	varea,	_	_	_	_	_	_	Gloss=village
+9	toga	toga	_	_	_	_	_	_	Gloss=rester
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma11
+# text_en =  Le lendemain matin, ils remontaient, et coupaient les arbres.
+1	Taval	Taval	_	_	_	_	_	_	Gloss=autre
+2	marani	marani	_	_	_	_	_	_	Gloss=matin
+3	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+4	sage,	sage,	_	_	_	_	_	_	Gloss=monter
+5	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+6	tai	tai	_	_	_	_	_	_	Gloss=couper
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	geiga.	geiga.	_	_	_	_	_	_	Gloss=arbre
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma12
+# text_en =  Ils abattaient les arbres, ils les débitaient complètement, puis rentraient se reposer.
+1	Tai	Tai	_	_	_	_	_	_	Gloss=couper
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	geiga	geiga	_	_	_	_	_	_	Gloss=arbre
+4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+7	baso,	baso,	_	_	_	_	_	_	Gloss=finir
+8	lidu	lidu	_	_	_	_	_	_	Gloss=débiter
+9	wurwuria	wurwuria	_	_	_	_	_	_	Gloss=compléter
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+11	geiga	geiga	_	_	_	_	_	_	Gloss=arbre
+12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+13	baso,	baso,	_	_	_	_	_	_	Gloss=finir
+14	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+15	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+16	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+17	toga	toga	_	_	_	_	_	_	Gloss=rester
+18	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma13
+# text_en =  Ils attendaient que ce soit sec, avant de monter brûler tout ça.
+1	Toga	Toga	_	_	_	_	_	_	Gloss=rester
+2	be	be	_	_	_	_	_	_	Gloss=Purp
+3	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+4	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+5	koru,	koru,	_	_	_	_	_	_	Gloss=sec
+6	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+7	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+8	nevi=	nevi=	_	_	_	_	_	_	Gloss=Evit
+9	sage	sage	_	_	_	_	_	_	Gloss=monter
+10	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+11	sulua.	sulua.	_	_	_	_	_	_	Gloss=brûler
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma14
+# text_en =  Ils attendaient quelques jours, ils attendaient deux semaines
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	toga	toga	_	_	_	_	_	_	Gloss=rester
+3	be	be	_	_	_	_	_	_	Gloss=Purp
+4	lebata	lebata	_	_	_	_	_	_	Gloss=quelque
+5	qoŋi	qoŋi	_	_	_	_	_	_	Gloss=jour
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+8	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+9	toga	toga	_	_	_	_	_	_	Gloss=rester
+10	be	be	_	_	_	_	_	_	Gloss=Purp
+11	wik	wik	_	_	_	_	_	_	Gloss=semaine
+12	i-	i-	_	_	_	_	_	_	Gloss=Num-
+13	rua	rua	_	_	_	_	_	_	Gloss=deux
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma15
+# text_en =  ??, pour qu'ils montent brûler leur jardin.
+1	rua	rua	_	_	_	_	_	_	Gloss=deux
+2	lai	lai	_	_	_	_	_	_	Gloss=??
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	be	be	_	_	_	_	_	_	Gloss=Purp
+5	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+6	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+7	sage	sage	_	_	_	_	_	_	Gloss=monter
+8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+9	sulu	sulu	_	_	_	_	_	_	Gloss=bruler
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+11	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+12	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+13	uma	uma	_	_	_	_	_	_	Gloss=jardin
+14	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+15	la	la	_	_	_	_	_	_	Gloss=Anaph
+16	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma18
+# text_en =  Ensuite ils montaient à nouveau
+1	Baso	Baso	_	_	_	_	_	_	Gloss=ensuite
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+4	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+5	sage	sage	_	_	_	_	_	_	Gloss=monter
+6	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma21
+# text_en =  Ils ramassaient bien tous les débris, ?? le balayaient àl'intérieur.
+1	Daŋdaŋwaua	Daŋdaŋwaua	_	_	_	_	_	_	Gloss=RedDur.faire.correctement
+2	vile	vile	_	_	_	_	_	_	Gloss=ramasser
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	oro,	oro,	_	_	_	_	_	_	Gloss=débris
+5	gana	gana	_	_	_	_	_	_	Gloss=???
+6	siri	siri	_	_	_	_	_	_	Gloss=balayer
+7	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	le=	le=	_	_	_	_	_	_	Gloss=Loc
+10	lolo-	lolo-	_	_	_	_	_	_	Gloss=intérieur-
+11	na,	na,	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma24
+# text_en =  Voilà que je vais chanter la sa chanson. La chanson du jardin est comme ça:
+1	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+2	ga	ga	_	_	_	_	_	_	Gloss=Cataph
+3	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+4	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+5	lai	lai	_	_	_	_	_	_	Gloss=procurer
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+7	asi-	asi-	_	_	_	_	_	_	Gloss=chanson-
+8	na.	na.	_	_	_	_	_	_	Gloss=P3sg
+9	Asi	Asi	_	_	_	_	_	_	Gloss=chanson
+10	uma	uma	_	_	_	_	_	_	Gloss=jardin
+11	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+12	la	la	_	_	_	_	_	_	Gloss=Prox
+13	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma25
+# text_en =  Les hommes vont monter couper des bouts de bois pour labourer.
+1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	tatua,	tatua,	_	_	_	_	_	_	Gloss=homme
+3	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+4	sage	sage	_	_	_	_	_	_	Gloss=monter
+5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+6	tai	tai	_	_	_	_	_	_	Gloss=couper
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	aso,	aso,	_	_	_	_	_	_	Gloss=bois
+9	be	be	_	_	_	_	_	_	Gloss=Purp
+10	lawo	lawo	_	_	_	_	_	_	Gloss=labourer
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma26
+# text_en =  Les femmes suivent pour couper les ignames,
+1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	taiŋwa	taiŋwa	_	_	_	_	_	_	Gloss=femme
+3	sura	sura	_	_	_	_	_	_	Gloss=suivre
+4	sae	sae	_	_	_	_	_	_	Gloss=monter
+5	be	be	_	_	_	_	_	_	Gloss=Purp
+6	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+7	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+8	teve-	teve-	_	_	_	_	_	_	Gloss=couper-
+9	ra	ra	_	_	_	_	_	_	Gloss=O3pl
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+11	damu	damu	_	_	_	_	_	_	Gloss=igname
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma27
+# text_en =  pour planter leur jardin.
+1	be	be	_	_	_	_	_	_	Gloss=Purp
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+3	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+4	da	da	_	_	_	_	_	_	Gloss=faire
+5	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+6	vaso	vaso	_	_	_	_	_	_	Gloss=planter
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+9	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+10	uma	uma	_	_	_	_	_	_	Gloss=jardin
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma28
+# text_en =  Les hommes coupent des morceaux de boix, et commencent à casser la terre du jardin.
+1	Irana=	Irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+3	tai	tai	_	_	_	_	_	_	Gloss=couper
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	geiga,	geiga,	_	_	_	_	_	_	Gloss=arbre
+6	[wutu	[wutu	_	_	_	_	_	_	Gloss=casser.la.terre
+7	na]	na]	_	_	_	_	_	_	Gloss=ArtAc
+8	toqatug	toqatug	_	_	_	_	_	_	Gloss=commencer
+9	be	be	_	_	_	_	_	_	Gloss=Purp
+10	wutu	wutu	_	_	_	_	_	_	Gloss=casser.la.terre
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+12	uma.	uma.	_	_	_	_	_	_	Gloss=jardin
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma29
+# text_en =  Ils commencent par le bout/la fin du jardin, et cassent la terre en remontant vers le début du jardin.
+1	Toqatug	Toqatug	_	_	_	_	_	_	Gloss=commencer
+2	le=	le=	_	_	_	_	_	_	Gloss=Loc
+3	kere	kere	_	_	_	_	_	_	Gloss=fin
+4	uma	uma	_	_	_	_	_	_	Gloss=jardin
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	wutwutu	wutwutu	_	_	_	_	_	_	Gloss=Red.casser.la.terre
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+8	sage,	sage,	_	_	_	_	_	_	Gloss=monter
+9	sage	sage	_	_	_	_	_	_	Gloss=monter
+10	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+11	le=	le=	_	_	_	_	_	_	Gloss=Loc
+12	qati	qati	_	_	_	_	_	_	Gloss=tête?
+13	uma	uma	_	_	_	_	_	_	Gloss=jardin
+14	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma32
+# text_en =  Ensuite elles posent les feuilles par terre, coupent au couteau leurs ignames, et en posent les têtes tout autour.
+1	Kae	Kae	_	_	_	_	_	_	Gloss=Coord.Aor
+2	tau	tau	_	_	_	_	_	_	Gloss=poser
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	dau	dau	_	_	_	_	_	_	Gloss=feuille
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	teve	teve	_	_	_	_	_	_	Gloss=couper
+8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+9	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+10	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+11	damu	damu	_	_	_	_	_	_	Gloss=igname
+12	,	,	_	_	_	_	_	_	Gloss=PUNCT
+13	tau	tau	_	_	_	_	_	_	Gloss=poser
+14	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+15	qatu-	qatu-	_	_	_	_	_	_	Gloss=tête-
+16	na	na	_	_	_	_	_	_	Gloss=P3sg
+17	dalvita	dalvita	_	_	_	_	_	_	Gloss=faire.le.tour
+18	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma33
+# text_en =  Ensuite, elles fendent leur ignames.
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+3	teve	teve	_	_	_	_	_	_	Gloss=couper
+4	wokala	wokala	_	_	_	_	_	_	Gloss=fendre
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	damu.	damu.	_	_	_	_	_	_	Gloss=igname
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma34
+# text_en =  Ensuite, elles pèlent les ignames.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+3	siri	siri	_	_	_	_	_	_	Gloss=peler
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	siri	siri	_	_	_	_	_	_	Gloss=peler
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+7	damu.	damu.	_	_	_	_	_	_	Gloss=igname
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma35
+# text_en =  Elles étalent leur feuilles, pour peler leur laplap d'ignames.
+1	Teteragi	Teteragi	_	_	_	_	_	_	Gloss=étaler
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	no-	no-	_	_	_	_	_	_	Gloss=CP-
+4	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+5	dau	dau	_	_	_	_	_	_	Gloss=feuille
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	be	be	_	_	_	_	_	_	Gloss=Purp
+8	siri	siri	_	_	_	_	_	_	Gloss=peler
+9	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+10	loko,	loko,	_	_	_	_	_	_	Gloss=laplap
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+12	loko	loko	_	_	_	_	_	_	Gloss=laplap
+13	damu	damu	_	_	_	_	_	_	Gloss=igname
+14	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma36
+# text_en =  Elles le déposent sur les feuilles.
+1	Tau	Tau	_	_	_	_	_	_	Gloss=poser
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	dau	dau	_	_	_	_	_	_	Gloss=feuille
+5	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+6	la	la	_	_	_	_	_	_	Gloss=Anaph
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma37
+# text_en =  Elles le déposent sur les feuilles, elles râpent, râpent, râpent complètement leurs ignames.
+1	Tau	Tau	_	_	_	_	_	_	Gloss=poser
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	dau,	dau,	_	_	_	_	_	_	Gloss=feuille
+5	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+8	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+9	sisiri,	sisiri,	_	_	_	_	_	_	Gloss=RedDur.peler
+10	siri	siri	_	_	_	_	_	_	Gloss=peler
+11	wurwur	wurwur	_	_	_	_	_	_	Gloss=compléter
+12	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+13	damu	damu	_	_	_	_	_	_	Gloss=igname
+14	baso	baso	_	_	_	_	_	_	Gloss=finir
+15	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma40
+# text_en =  Ensuite, elles coupent leur…??, puis enfoncent ces ignames dans la terre en un mouvement tournant.
+1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+2	tai	tai	_	_	_	_	_	_	Gloss=couper
+3	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+4	no-	no-	_	_	_	_	_	_	Gloss=CP-
+5	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+6	wariri	wariri	_	_	_	_	_	_	Gloss=??
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	wariri	wariri	_	_	_	_	_	_	Gloss=enfoncer.en.tournant
+9	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+10	damu	damu	_	_	_	_	_	_	Gloss=ignames
+11	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+12	la	la	_	_	_	_	_	_	Gloss=Anaph
+13	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma41
+# text_en =  Elles les enfoncent en tournant, posent le laplap sur les feuilles, et ensuite…
+1	Wariri	Wariri	_	_	_	_	_	_	Gloss=enfoncer.en.tournant
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	tau	tau	_	_	_	_	_	_	Gloss=poser
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	loko	loko	_	_	_	_	_	_	Gloss=laplap
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	dau,	dau,	_	_	_	_	_	_	Gloss=feuille
+9	van	van	_	_	_	_	_	_	Gloss=aller
+10	baso	baso	_	_	_	_	_	_	Gloss=finir
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma42
+# text_en =  Elles apportent les ignames qu’elles ont rapées.
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	lai	lai	_	_	_	_	_	_	Gloss=procurer
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	damu	damu	_	_	_	_	_	_	Gloss=igname
+6	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+7	la	la	_	_	_	_	_	_	Gloss=Anaph
+8	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+9	te=	te=	_	_	_	_	_	_	Gloss=Pft
+10	siri-	siri-	_	_	_	_	_	_	Gloss=peler-
+11	ra,	ra,	_	_	_	_	_	_	Gloss=O3pl
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma43
+# text_en =  Ensuite elles coupent en tous petits morceaux l'intérieur des ignames dont elles avaient disposés la tête tout autour, elles les coupent en tous petits morceaux.
+1	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+2	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+3	tau	tau	_	_	_	_	_	_	Gloss=poser
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	qatu-	qatu-	_	_	_	_	_	_	Gloss=tête-
+6	na	na	_	_	_	_	_	_	Gloss=P3pl
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+8	dalvita,	dalvita,	_	_	_	_	_	_	Gloss=faire.le.tour
+9	taitai	taitai	_	_	_	_	_	_	Gloss=RedMultipl.couper
+10	ririki	ririki	_	_	_	_	_	_	Gloss=RedMultipl.petit
+11	gini-	gini-	_	_	_	_	_	_	Gloss=Instr-
+12	a	a	_	_	_	_	_	_	Gloss=Obl3sg
+13	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+14	baso,	baso,	_	_	_	_	_	_	Gloss=finir
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma44
+# text_en =  Les hommes labourent complètement le jardin, jusqu'à la fin.
+1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+3	ge=	ge=	_	_	_	_	_	_	Gloss=Aor
+4	lawo	lawo	_	_	_	_	_	_	Gloss=labourer
+5	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=compléter
+6	na=	na=	_	_	_	_	_	_	Gloss=Art.Ac
+7	uma	uma	_	_	_	_	_	_	Gloss=jardin
+8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+9	baso,	baso,	_	_	_	_	_	_	Gloss=finir
+10	baso	baso	_	_	_	_	_	_	Gloss=finir
+11	=va,	=va,	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma47
+# text_en =  Les femmes se coupent un morceau de bois, pour descendre et planter les ignames avec.
+1	irana=	irana=	_	_	_	_	_	_	Gloss=ArtPl
+2	taiŋwa	taiŋwa	_	_	_	_	_	_	Gloss=femme
+3	tai	tai	_	_	_	_	_	_	Gloss=couper
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	no-	no-	_	_	_	_	_	_	Gloss=CP-
+6	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+7	geiga	geiga	_	_	_	_	_	_	Gloss=arbre
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	be	be	_	_	_	_	_	_	Gloss=Purp
+10	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+11	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+12	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+13	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+14	vaso	vaso	_	_	_	_	_	_	Gloss=enterrer
+15	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+16	damu	damu	_	_	_	_	_	_	Gloss=igname
+17	gini-	gini-	_	_	_	_	_	_	Gloss=Instr-
+18	a	a	_	_	_	_	_	_	Gloss=Obl3pl
+19	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma48
+# text_en =  Elles enterrent les ignames dans le sol.
+1	Tavigi	Tavigi	_	_	_	_	_	_	Gloss=enterrer
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	damu	damu	_	_	_	_	_	_	Gloss=igname
+4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	lolo	lolo	_	_	_	_	_	_	Gloss=intérieur
+7	tano	tano	_	_	_	_	_	_	Gloss=sol
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma50
+# text_en =  C’est fini !
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	=va!.	=va!.	_	_	_	_	_	_	Gloss=PEN
+

@@ -1,0 +1,335 @@
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison1
+# text_en = En 1974, les jeunes ont joué un tour à un vieil homme qui habitait là-bas dans le sud, nommé Ben.
+1	Le=	Le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+2	tau	tau	AUX	_	_	-1	_	_	Gloss=année
+3	74	74	AUX	_	_	-1	_	_	Gloss=74
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+6	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+7	lumagavi	lumagavi	AUX	_	_	-1	_	_	Gloss=jeune
+8	lai	lai	AUX	_	_	-1	_	_	Gloss=prendre
+9	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+10	riŋoana	riŋoana	AUX	_	_	-1	_	_	Gloss=mouvement
+11	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+12	suri	suri	AUX	_	_	-1	_	_	Gloss=Dest
+13	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+14	tamaragai	tamaragai	AUX	_	_	-1	_	_	Gloss=vieux
+15	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+16	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+17	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+18	laksae	laksae	AUX	_	_	-1	_	_	Gloss=Deix
+19	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+20	sasa	sasa	AUX	_	_	-1	_	_	Gloss=nom
+21	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+22	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+23	Ben.	Ben.	AUX	_	_	-1	_	_	Gloss=NP
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison2
+# text_en = Ils montèrent nettoyer un jardin, à Lasqin
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+4	ume	ume	AUX	_	_	-1	_	_	Gloss=nettoyer
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	mata,	mata,	AUX	_	_	-1	_	_	Gloss=jardin
+7	Lasqin	lasqin	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison4
+# text_en = Ils … , et ils y allèrent une autre fois, et virent:
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=RED~rester|MSeg=to~toga|Reduplicated=Yes
+3	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	te	te	AUX	_	_	-1	_	_	Gloss=NSpec
+6	qoŋi	qoŋi	AUX	_	_	-1	_	_	Gloss=jour
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+9	ete:	ete:	AUX	_	_	-1	_	_	Gloss=voir
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison6
+# text_en = A présent, ils ont dans l'idée de jouer un tour à Ben
+1	Kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+2	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+3	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+4	dodomana	dodomana	AUX	_	_	-1	_	_	Gloss=pensée
+5	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+6	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+7	da	da	AUX	_	_	-1	_	_	Gloss=faire
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	ani	ani	AUX	_	_	-1	_	_	Gloss=chose
+10	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+11	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+12	Ben	Ben	AUX	_	_	-1	_	_	Gloss=NP
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison7
+# text_en = Ils allèrent, Lenard et Elton, ils allèrent couper (un bout de ) son kava.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	vano,	vano,	AUX	_	_	-1	_	_	Gloss=aller
+4	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+5	Lenard	Lenard	AUX	_	_	-1	_	_	Gloss=NP
+6	mata	mata	AUX	_	_	-1	_	_	Gloss=avec
+7	-n	-n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+8	Elton	Elton	AUX	_	_	-1	_	_	Gloss=NP
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+11	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+12	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+13	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+14	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+15	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+16	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+17	malogu	malogu	AUX	_	_	-1	_	_	Gloss=kava
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison8
+# text_en = Ce plant de kava qu'il avait, il était énorme, énorme.
+1	Bula-	Bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+2	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+3	malogu	malogu	AUX	_	_	-1	_	_	Gloss=kava
+4	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	mas	mas	AUX	_	_	-1	_	_	Gloss=énorme
+7	malogu	malogu	AUX	_	_	-1	_	_	Gloss=kava
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	mas	mas	AUX	_	_	-1	_	_	Gloss=énorme
+10	malogu	malogu	AUX	_	_	-1	_	_	Gloss=kava
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison9
+# text_en = Si tu tenais debout à côté, il te masquait la vue d'Ambae (litt: tu ne pouvais pas trouver Ambae)
+1	Niko=	Niko=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+2	tura	tura	AUX	_	_	-1	_	_	Gloss=se.tenir.debout
+3	tavalu	tavalu	AUX	_	_	-1	_	_	Gloss=à.côté.de
+4	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	nik=	nik=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+7	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+8	saqe	saqe	AUX	_	_	-1	_	_	Gloss=trouver
+9	lai	lai	AUX	_	Mood=Pot	-1	_	_	Gloss=ModCap
+10	Abae	abae	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+11	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison10
+# text_en = Ils sont allés le couper, ils l'ont apporté, et on l'a bu.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+4	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+5	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+8	lai	lai	AUX	_	_	-1	_	_	Gloss=prendre
+9	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+10	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+11	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+12	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+13	ima.	ima.	AUX	_	_	-1	_	_	Gloss=boire
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison11
+# text_en = Tous les vieux avaient un peu peur
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	tamtaragai	tamtaragai	AUX	_	_	-1	_	_	Gloss=vieux|MGloss=RED~vieux|MSeg=tamtaragai~mtaragai|Reduplicated=Yes
+4	malmal	malmal	AUX	_	_	-1	_	_	Gloss=un.peu
+5	ruaga	ruaga	AUX	_	_	-1	_	_	Gloss=craindre
+6	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison15
+# text_en = Ils sont venus, et ils ont tenu un procès à Tanmaeto
+1	Sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+2	tor	tor	AUX	_	_	-1	_	_	Gloss=tenir
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	kot	kot	AUX	_	_	-1	_	_	Gloss=cour
+5	Tanmaeto	tanmaeto	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison16
+# text_en = Ils ont parlé, parlé, encore et encore. Lénard a dit que nous avions pris le plant dans le jardin de Gerei.
+1	Laqa	laqa	AUX	_	_	-1	_	_	Gloss=parler
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	laqa	laqa	AUX	_	_	-1	_	_	Gloss=parler
+4	suri	suri	AUX	_	_	-1	_	_	Gloss=suivre
+5	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	laqa	laqa	AUX	_	_	-1	_	_	Gloss=parler
+8	vavano	vavano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano|Reduplicated=Yes
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	iri	iri	AUX	_	_	-1	_	_	Gloss=ArtPPl
+11	Lenard	Lenard	AUX	_	_	-1	_	_	Gloss=NP
+12	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+13	wari	wari	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+14	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+15	da	da	AUX	_	_	-1	_	_	Gloss=faire
+16	qatagi	qatagi	AUX	_	_	-1	_	_	Gloss=plant
+17	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+18	tani	tani	AUX	_	_	-1	_	_	Gloss=??
+19	mata	mata	AUX	_	_	-1	_	_	Gloss=jardin
+20	dat	dat	AUX	_	_	-1	_	_	Gloss=Orig
+21	Gerei	gerei	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+22	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison17
+# text_en = Ils ont dit :  oui, ce jardin de Gerei, c’est Ben qui (y) plante la nourriture, elle nous appartient, elle nous nourrit tous.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+3	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	O	O	AUX	_	_	-1	_	_	Gloss=Interj
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	tani	tani	AUX	_	_	-1	_	_	Gloss=sol
+7	mata	mata	AUX	_	_	-1	_	_	Gloss=jardin
+8	dat	dat	AUX	_	_	-1	_	_	Gloss=Orig
+9	Gerei	gerei	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+10	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+11	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+12	Ben	Ben	AUX	_	_	-1	_	_	Gloss=NP
+13	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+14	riwu	riwu	AUX	_	_	-1	_	_	Gloss=planter
+15	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+16	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+17	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+18	da	da	AUX	_	Case=Poss|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=P1plincl|TokenType=Clit|deprel=mod:poss
+19	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=complètement
+20	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+21	va-	va-	AUX	_	_	-1	_	_	Gloss=Caus-|TokenType=Aff
+22	va-gani	gani	AUX	_	_	-1	_	_	Gloss=manger-|MGloss=CAUS-va-gani|MSeg=va-va-gani|TokenType=Aff
+23	-gida	-gida	AUX	_	Case=Acc|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=-O1plincl|TokenType=Aff|deprel=comp:obj
+24	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=complètement
+25	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+26	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison18
+# text_en = Quand ils ont fini de délibérer, ils ont dit : Bon, … est que vous allez tous aller en prison.
+1	Lalaqa	lalaqa	AUX	_	_	-1	_	_	Gloss=parler|MGloss=Dur~parler|MSeg=la~laqa|Reduplicated=Yes
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+4	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+5	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+6	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	udu	udu	AUX	_	_	-1	_	_	Gloss=???
+10	tura	tura	AUX	_	_	-1	_	_	Gloss=se.tenir.debout
+11	war	war	AUX	_	_	-1	_	_	Gloss=Compl|deprel=comp:obj
+12	kamu	kamu	AUX	_	Number=Plur|Person=2|PronType=Pers	-1	_	_	Gloss=I2pl|TokenType=Clit|deprel=dislocated
+13	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=compléter
+14	van	van	AUX	_	_	-1	_	_	Gloss=aller
+15	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+16	prisin»	prisin»	AUX	_	_	-1	_	_	Gloss=prison
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison20
+# text_en = Quand le Salatoga viendra, il vous y emmènera.
+1	Salatoga	Salatoga	AUX	_	_	-1	_	_	Gloss=NP
+2	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	lai-	lai-	AUX	_	_	-1	_	_	Gloss=prendre-|TokenType=Aff
+7	kamu	kamu	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+8	laksugo	laksugo	AUX	_	_	-1	_	_	Gloss=Deix
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison21
+# text_en = Nous avons dit Bien.
+1	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+2	wa	wa	AUX	_	_	-1	_	_	Gloss=Quot
+3	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	Wia	wia	AUX	_	_	-1	_	_	Gloss=bien
+5	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison23
+# text_en = Nous sommes venus, nous avons attendu là, le bateau est arrivé le soir.
+1	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+2	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+3	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+4	laka	laka	AUX	_	_	-1	_	_	Gloss=Deix
+5	totoga	totoga	AUX	_	_	-1	_	_	Gloss=rester|MGloss=RED~rester|MSeg=to~toga|Reduplicated=Yes
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	aka	aka	AUX	_	_	-1	_	_	Gloss=bateau
+8	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+9	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+10	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+11	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+12	qoŋi.	qoŋi.	AUX	_	_	-1	_	_	Gloss=nuit
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison24
+# text_en = Ensuite nous sommes montés dans le bateau, et nous sommes allées à Santo.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+3	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+4	van	van	AUX	_	_	-1	_	_	Gloss=aller
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	aka,	aka,	AUX	_	_	-1	_	_	Gloss=bateau
+7	vavano	vavano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano|Reduplicated=Yes
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+10	Santo	santo	AUX	_	AdvType=Loc	-1	_	_	ExtPos=ADV|Gloss=Topon
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison25
+# text_en = Nous sommes allés en prisons, on était quelques uns… nous étions sept au total.
+1	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+2	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	prisin,	prisin,	AUX	_	_	-1	_	_	Gloss=prison
+5	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+6	lebata…	lebata…	AUX	_	_	-1	_	_	Gloss=quelques
+7	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+8	bulu	bulu	AUX	_	_	-1	_	_	Gloss=au.total
+9	lavarua	lavarua	AUX	_	_	-1	_	_	Gloss=sept
+10	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=complètement
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison26
+# text_en = Alors nous sept, nous sommes restés trois mois.
+1	Tau	tau	AUX	_	_	-1	_	_	Gloss=Coord
+2	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+3	bulu	bulu	AUX	_	_	-1	_	_	Gloss=au.total
+4	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=sept
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+7	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+8	wula	wula	AUX	_	_	-1	_	_	Gloss=mois
+9	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+10	tolu	tolu	AUX	_	_	-1	_	_	Gloss=trois
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison27
+# text_en = Seul Lénard resta (jusqu'à) sept mois.
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	Lenard	Lenard	AUX	_	_	-1	_	_	Gloss=NP
+3	gase	gase	AUX	_	_	-1	_	_	Gloss=seul
+4	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+5	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+6	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+7	wula	wula	AUX	_	_	-1	_	_	Gloss=mois
+8	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+9	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=sept
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison28
+# text_en = Ensuite nous sommes rentrés
+1	Tau	tau	AUX	_	_	-1	_	_	Gloss=Coord
+2	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+3	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+4	mumlmule	mumlmule	AUX	_	_	-1	_	_	Gloss=rentrer|MGloss=RED~rentrer|Reduplicated=Yes
+5	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vetveti_dagasnia_ira_mo_van_le_prison29
+# text_en = “Voilà, c’est la fin de notre histoire, à nous qui sommes allés en prison”
+1	kia-	kia-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+2	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	ulosi	ulosi	AUX	_	_	-1	_	_	Gloss=fin
+5	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	mi	mi	AUX	_	Case=Poss|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=P1plex|TokenType=Clit|deprel=mod:poss
+7	vetveti	vetveti	AUX	_	_	-1	_	_	Gloss=récit
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+10	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+11	vano	vano	AUX	_	_	-1	_	_	Gloss=aller
+12	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+13	prisin.	prisin.	AUX	_	_	-1	_	_	Gloss=prison

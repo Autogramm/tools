@@ -1,0 +1,1004 @@
+# sent_id = Waroro1
+# text_en =  Il était une fois un homme et sa femme.
+1	Qoŋ	Qoŋ	_	_	_	_	_	_	Gloss=jour
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+5	i-	i-	_	_	_	_	_	_	Gloss=Num-
+6	tewa	tewa	_	_	_	_	_	_	Gloss=un
+7	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+8	a	a	_	_	_	_	_	_	Gloss=Art
+9	taiŋwa	taiŋwa	_	_	_	_	_	_	Gloss=femme
+10	i-	i-	_	_	_	_	_	_	Gloss=Num-
+11	rua	rua	_	_	_	_	_	_	Gloss=deux
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro2
+# text_en =  Ils avaient deux enfants.
+1	Natu	Natu	_	_	_	_	_	_	Gloss=enfant
+2	-ra	-ra	_	_	_	_	_	_	Gloss=-P3pl
+3	i-	i-	_	_	_	_	_	_	Gloss=Num-
+4	rua	rua	_	_	_	_	_	_	Gloss=deux
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro3
+# text_en =   Un jour, les deux enfants dirent à leur mère
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	toga,	toga,	_	_	_	_	_	_	Gloss=rester
+3	totoga	totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+6	natu-	natu-	_	_	_	_	_	_	Gloss=enfant-
+7	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+8	i-	i-	_	_	_	_	_	_	Gloss=Num-
+9	rua	rua	_	_	_	_	_	_	Gloss=deux
+10	vet	vet	_	_	_	_	_	_	Gloss=dire
+11	min	min	_	_	_	_	_	_	Gloss=Dest
+12	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+13	no-	no-	_	_	_	_	_	_	Gloss=CP-
+14	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+15	veve	veve	_	_	_	_	_	_	Gloss=maman
+
+# sent_id = Waroro4
+# text_en =  qu'ils descendaient vers la mer ramasser des coquillages.
+1	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+3	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+7	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+8	sarsaroa	sarsaroa	_	_	_	_	_	_	Gloss=RedIntrans.ramasser
+9	qorogi	qorogi	_	_	_	_	_	_	Gloss=coquillage
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro5
+# text_en =  Leur mère leur dit: si vous descendez, attention à ne pas rencontrer quelqu'un.
+1	No-	No-	_	_	_	_	_	_	Gloss=CP-
+2	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+3	veve	veve	_	_	_	_	_	_	Gloss=maman
+4	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S2pl
+7	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+8	sugo,	sugo,	_	_	_	_	_	_	Gloss=descendre
+9	ladoa	ladoa	_	_	_	_	_	_	Gloss=veiller
+10	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl
+11	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+12	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+13	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+14	tatua.	tatua.	_	_	_	_	_	_	Gloss=homme
+
+# sent_id = Waroro6
+# text_en =  Ils dirent d'accord.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+3	"	"	_	_	_	_	_	_	Gloss=PUNCT
+4	Wia	Wia	_	_	_	_	_	_	Gloss=bon
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro7
+# text_en =  Ils descendirent ramasser des coquillages.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	saro	saro	_	_	_	_	_	_	Gloss=ramasser
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	qorogi.	qorogi.	_	_	_	_	_	_	Gloss=coquillage
+
+# sent_id = Waroro8
+# text_en =  Elles ramassèrent des coquillages, leur panier s'emplit, puis elles le rapportèrent au village.
+1	Sarsar	Sarsar	_	_	_	_	_	_	Gloss=Red.ramasser
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	qorogi,	qorogi,	_	_	_	_	_	_	Gloss=coquillage
+4	gete	gete	_	_	_	_	_	_	Gloss=panier
+5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+6	ura	ura	_	_	_	_	_	_	Gloss=plein
+7	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+8	lai	lai	_	_	_	_	_	_	Gloss=procurer
+9	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+12	le=	le=	_	_	_	_	_	_	Gloss=Loc
+13	varea	varea	_	_	_	_	_	_	Gloss=village
+
+# sent_id = Waroro9
+# text_en =  Ils mangèrent et le temps passa.
+1	Totoga	Totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	gangani	gangani	_	_	_	_	_	_	Gloss=RedIntrans.manger
+4	baso	baso	_	_	_	_	_	_	Gloss=finir
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+7	toga	toga	_	_	_	_	_	_	Gloss=rester
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro10
+# text_en =  Le temps passa, et un autre jour, elles dirent à leur mère qu'elles descendaient à nouveau en bord de mer pour ramasser les coquillages.
+1	Totoga	Totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+2	le=	le=	_	_	_	_	_	_	Gloss=Loc
+3	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+4	qoni	qoni	_	_	_	_	_	_	Gloss=jour
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+7	vet	vet	_	_	_	_	_	_	Gloss=dire
+8	min	min	_	_	_	_	_	_	Gloss=Dest
+9	no-	no-	_	_	_	_	_	_	Gloss=CP-
+10	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+11	veve	veve	_	_	_	_	_	_	Gloss=maman
+12	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+13	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+14	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+15	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+16	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+17	le=	le=	_	_	_	_	_	_	Gloss=Loc
+18	tasi,	tasi,	_	_	_	_	_	_	Gloss=mer
+19	sar	sar	_	_	_	_	_	_	Gloss=ramasser
+20	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+21	qorogi.	qorogi.	_	_	_	_	_	_	Gloss=coquillage
+
+# sent_id = Waroro12
+# text_en =  Elles dirent d'accord.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+3	"	"	_	_	_	_	_	_	Gloss=PUNCT
+4	Wia	Wia	_	_	_	_	_	_	Gloss=bon
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro13
+# text_en =  Elles descendirent au bord de mer, cherchèrent des coquillages
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	tasi,	tasi,	_	_	_	_	_	_	Gloss=mer
+6	sarsar	sarsar	_	_	_	_	_	_	Gloss=Red.chercher
+7	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+8	qorogi	qorogi	_	_	_	_	_	_	Gloss=coquillage
+9	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro14
+# text_en =  et en descendant vers une pointe, elles trouvèrent un turbo vert.
+1	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+2	le=	le=	_	_	_	_	_	_	Gloss=Loc
+3	ŋorai	ŋorai	_	_	_	_	_	_	Gloss=pointe
+4	tewa	tewa	_	_	_	_	_	_	Gloss=un
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
+7	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+9	waroro.	waroro.	_	_	_	_	_	_	Gloss=turbo.vert
+
+# sent_id = Waroro16
+# text_en =   Elles descendent, descendent, et l’aînée dit à la cadette :
+1	Sugo	Sugo	_	_	_	_	_	_	Gloss=descendre
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	tuagae	tuagae	_	_	_	_	_	_	Gloss=aîné
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+7	vet	vet	_	_	_	_	_	_	Gloss=dire
+8	min	min	_	_	_	_	_	_	Gloss=Dest
+9	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+10	tasi	tasi	_	_	_	_	_	_	Gloss=cadet
+11	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+12	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+
+# sent_id = Waroro17
+# text_en =  Ca suffit. Le panier est plein, rentrons.
+1	"	"	_	_	_	_	_	_	Gloss=PUNCT
+2	Tarisa	Tarisa	_	_	_	_	_	_	Gloss=suffire
+3	.	.	_	_	_	_	_	_	Gloss=PUNCT
+4	Gete	Gete	_	_	_	_	_	_	Gloss=panier
+5	ura	ura	_	_	_	_	_	_	Gloss=plein
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+9	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+10	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+12	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro18
+# text_en =  Elles s’en retournent, s’en retournent
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+4	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+9	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+10	sumai,	sumai,	_	_	_	_	_	_	Gloss=venir
+
+# sent_id = Waroro19
+# text_en =  Mais quand elles arrivèrent au niveau de la pointent, elles aperçurent un homme
+1	ka	ka	_	_	_	_	_	_	Gloss=Coord
+2	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+3	ete	ete	_	_	_	_	_	_	Gloss=voir
+4	sae	sae	_	_	_	_	_	_	Gloss=monter
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	ŋorai,	ŋorai,	_	_	_	_	_	_	Gloss=pointe
+7	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+8	na=	na=	_	_	_	_	_	_	Gloss=Art
+9	tatua.	tatua.	_	_	_	_	_	_	Gloss=homme
+
+# sent_id = Waroro20
+# text_en =  Alors elle le rejoignirent
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
+4	sae	sae	_	_	_	_	_	_	Gloss=monter
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	sae	sae	_	_	_	_	_	_	Gloss=monter
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+9	tavalu	tavalu	_	_	_	_	_	_	Gloss=côté
+10	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro21
+# text_en =  et lui demandèrent: D'où viens-tu?
+1	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+2	usi	usi	_	_	_	_	_	_	Gloss=interroger
+3	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+4	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+5	:	:	_	_	_	_	_	_	Gloss=PUNCT
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+7	Niko=	Niko=	_	_	_	_	_	_	Gloss=S2sg
+8	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+9	bea?	bea?	_	_	_	_	_	_	Gloss=où
+10	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro22
+# text_en =  Il dit Hi, vous m'avez surpris! D'où venez-vous?
+1	Ia=	Ia=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	wa	wa	_	_	_	_	_	_	Gloss=Quot
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	I	I	_	_	_	_	_	_	Gloss=Interj
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+8	tagoso	tagoso	_	_	_	_	_	_	Gloss=sursauter
+9	gin-	gin-	_	_	_	_	_	_	Gloss=Instr-
+10	kamurua	kamurua	_	_	_	_	_	_	Gloss=Obl2du
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+12	Kamurua=	Kamurua=	_	_	_	_	_	_	Gloss=S2du
+13	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+14	bea?	bea?	_	_	_	_	_	_	Gloss=où
+15	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro23
+# text_en =  Elles répondirent: Non, on suit la plage pour trouver des coquillages.
+1	Irarua=	Irarua=	_	_	_	_	_	_	Gloss=S3du
+2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+3	"	"	_	_	_	_	_	_	Gloss=PUNCT
+4	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	kamirua=	kamirua=	_	_	_	_	_	_	Gloss=S1exdu
+7	sursur	sursur	_	_	_	_	_	_	Gloss=Red.suivre
+8	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+9	sarsar	sarsar	_	_	_	_	_	_	Gloss=Red.chercher
+10	qorogi	qorogi	_	_	_	_	_	_	Gloss=coquillage
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+12	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro25
+# text_en =  Il dit: Je vis juste ici.
+1	Ia=	Ia=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg
+6	toga	toga	_	_	_	_	_	_	Gloss=rester
+7	laka	laka	_	_	_	_	_	_	Gloss=Deix
+8	=ŋa."	=ŋa."	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = Waroro28
+# text_en =  Alors elles lui demandèrent à nouveau :
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+3	usi-	usi-	_	_	_	_	_	_	Gloss=interroger-
+4	a	a	_	_	_	_	_	_	Gloss=O3sg
+5	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+
+# sent_id = Waroro29
+# text_en =  Tu n’as pas trouvé notre turbo vert ? on l’avait posé là.
+1	"	"	_	_	_	_	_	_	Gloss=PUNCT
+2	Niko=	Niko=	_	_	_	_	_	_	Gloss=2sg
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+4	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+5	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+6	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+7	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+8	mi	mi	_	_	_	_	_	_	Gloss=P1ex
+9	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex
+12	tau	tau	_	_	_	_	_	_	Gloss=poser
+13	toga	toga	_	_	_	_	_	_	Gloss=rester
+14	laka?	laka?	_	_	_	_	_	_	Gloss=Deix
+15	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro30
+# text_en =  Ensuite il leur dit Votre turbo vert, c'est moi, votre turbo.vert
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
+2	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+4	veti	veti	_	_	_	_	_	_	Gloss=dire
+5	war	war	_	_	_	_	_	_	Gloss=Compl
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+7	Ga-	Ga-	_	_	_	_	_	_	Gloss=CP-
+8	mu	mu	_	_	_	_	_	_	Gloss=P2pl
+9	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+10	kea-	kea-	_	_	_	_	_	_	Gloss=Dem-
+11	la	la	_	_	_	_	_	_	Gloss=Anaph
+12	,	,	_	_	_	_	_	_	Gloss=PUNCT
+13	nau	nau	_	_	_	_	_	_	Gloss=I1sg
+14	kea	kea	_	_	_	_	_	_	Gloss=Dem
+15	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+16	mu	mu	_	_	_	_	_	_	Gloss=P2pl
+17	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+18	.	.	_	_	_	_	_	_	Gloss=PUNCT
+19	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro31
+# text_en =  Ensuite, il leur demanda Etes-vous mariées?
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+3	tutura,	tutura,	_	_	_	_	_	_	Gloss=se.lever
+4	tatua	tatua	_	_	_	_	_	_	Gloss=homme
+5	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+6	usi-	usi-	_	_	_	_	_	_	Gloss=interroger-
+7	ra	ra	_	_	_	_	_	_	Gloss=O3pl
+8	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+9	:	:	_	_	_	_	_	_	Gloss=PUNCT
+10	"	"	_	_	_	_	_	_	Gloss=PUNCT
+11	Kamurua=	Kamurua=	_	_	_	_	_	_	Gloss=S2du
+12	bakbaka?	bakbaka?	_	_	_	_	_	_	Gloss=être.marié
+13	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro32
+# text_en =  Alors elles dirent que non, qu'elles n'étaient pas mariées.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
+2	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+4	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+5	tigai	tigai	_	_	_	_	_	_	Gloss=non
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+8	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+9	gai	gai	_	_	_	_	_	_	Gloss=PEN
+10	bakbaka	bakbaka	_	_	_	_	_	_	Gloss=être.marier
+11	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro33
+# text_en =  Alors elles lui demandèrent Es-tu marié?
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
+2	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+4	usi-	usi-	_	_	_	_	_	_	Gloss=interroger-
+5	a	a	_	_	_	_	_	_	Gloss=O3sg
+6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+7	"	"	_	_	_	_	_	_	Gloss=PUNCT
+8	niko=	niko=	_	_	_	_	_	_	Gloss=S2sg
+9	bakbaka?	bakbaka?	_	_	_	_	_	_	Gloss=être.marié
+
+# sent_id = Waroro34
+# text_en =  Il répondit Non, je ne suis pas marié du tout.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+7	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg
+8	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+9	ŋa	ŋa	_	_	_	_	_	_	Gloss=PEN
+10	bakbaka	bakbaka	_	_	_	_	_	_	Gloss=être.marié
+11	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+13	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro35
+# text_en =  Alors elles lui dirent, puisque c'est comme ça, montons au village.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=Coord
+2	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+3	veti	veti	_	_	_	_	_	_	Gloss=dire
+4	war	war	_	_	_	_	_	_	Gloss=Compl
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	Doqala	Doqala	_	_	_	_	_	_	Gloss=ainsi
+7	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+8	sage	sage	_	_	_	_	_	_	Gloss=monter
+9	varea	varea	_	_	_	_	_	_	Gloss=village
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+11	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro37
+# text_en =  Elles dirent Non, ils ne seront pas fâchés.
+1	Irarua	Irarua	_	_	_	_	_	_	Gloss=S2du
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+7	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+9	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+10	gai	gai	_	_	_	_	_	_	Gloss=PEN
+11	mero	mero	_	_	_	_	_	_	Gloss=se.fâcher
+12	me	me	_	_	_	_	_	_	Gloss=avec
+13	-ko	-ko	_	_	_	_	_	_	Gloss=-O2sg
+14	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+15	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro38
+# text_en =  Viens, allons-y.
+1	Sumai	Sumai	_	_	_	_	_	_	Gloss=venir
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor1plincl
+5	sae."	sae."	_	_	_	_	_	_	Gloss=monter
+
+# sent_id = Waroro39
+# text_en =  Il dit: D'accord.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	Wia	Wia	_	_	_	_	_	_	Gloss=bien
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+7	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro40
+# text_en =  Ils montèrent, montèrent, jusqu'aux abords du village.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	sae,	sae,	_	_	_	_	_	_	Gloss=monter
+4	sasae	sasae	_	_	_	_	_	_	Gloss=RedDur.monter
+5	le=	le=	_	_	_	_	_	_	Gloss=Loc
+6	bebe	bebe	_	_	_	_	_	_	Gloss=alentours
+7	varea	varea	_	_	_	_	_	_	Gloss=village
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro41
+# text_en =  puis elles le cachèrent, et elles se rendirent au village.
+1	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+2	taunigi	taunigi	_	_	_	_	_	_	Gloss=cacher
+3	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
+6	sasae	sasae	_	_	_	_	_	_	Gloss=RedDur.monter
+7	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+8	le=	le=	_	_	_	_	_	_	Gloss=Loc
+9	varea,	varea,	_	_	_	_	_	_	Gloss=village
+
+# sent_id = Waroro42
+# text_en =  Elles posèrent le panier de coquillages.
+1	tau	tau	_	_	_	_	_	_	Gloss=poser
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	gete	gete	_	_	_	_	_	_	Gloss=panier
+4	qorogi	qorogi	_	_	_	_	_	_	Gloss=coquillages
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro43
+# text_en =  Puis elles attendirent.
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
+3	toga	toga	_	_	_	_	_	_	Gloss=rester
+4	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro45
+# text_en =  Maman, nous sommes descendues chercher des coquillages, et nous avons rencontré un homme.
+1	"	"	_	_	_	_	_	_	Gloss=PUNCT
+2	Veve	Veve	_	_	_	_	_	_	Gloss=maman
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	kami=	kami=	_	_	_	_	_	_	Gloss=S1plex
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	sarsar	sarsar	_	_	_	_	_	_	Gloss=Red.chercher
+7	qorogi	qorogi	_	_	_	_	_	_	Gloss=coquillage
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
+10	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+12	tatua.	tatua.	_	_	_	_	_	_	Gloss=homme
+
+# sent_id = Waroro46
+# text_en =  Alors leur maman dit: Et il est où?
+1	bastau	bastau	_	_	_	_	_	_	Gloss=Coord
+2	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+3	no-	no-	_	_	_	_	_	_	Gloss=CP-
+4	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+5	veve	veve	_	_	_	_	_	_	Gloss=maman
+6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+7	"	"	_	_	_	_	_	_	Gloss=PUNCT
+8	ka	ka	_	_	_	_	_	_	Gloss=Coord
+9	ti	ti	_	_	_	_	_	_	Gloss=Aor
+10	bea?	bea?	_	_	_	_	_	_	Gloss=où
+11	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro47
+# text_en =  Elles dirent Là-bas, nous l'avons caché
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	laksugo	laksugo	_	_	_	_	_	_	Gloss=Deix
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	Kami=	Kami=	_	_	_	_	_	_	Gloss=S1plex
+8	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+9	taunigi-	taunigi-	_	_	_	_	_	_	Gloss=cacher-
+10	a"	a"	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = Waroro48
+# text_en =  Alors leur maman leur dit ?? ne pas cacher l'homme.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+3	no-	no-	_	_	_	_	_	_	Gloss=CP-
+4	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+5	veve	veve	_	_	_	_	_	_	Gloss=maman
+6	vet	vet	_	_	_	_	_	_	Gloss=dire
+7	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+8	ira	ira	_	_	_	_	_	_	Gloss=Obl3pl
+9	wari	wari	_	_	_	_	_	_	Gloss=Comp
+10	"	"	_	_	_	_	_	_	Gloss=PUNCT
+11	Kare	Kare	_	_	_	_	_	_	Gloss=Prohib
+12	taunigi	taunigi	_	_	_	_	_	_	Gloss=cacher
+13	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+14	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+15	tatua.	tatua.	_	_	_	_	_	_	Gloss=homme
+
+# sent_id = Waroro49
+# text_en =  Allez le chercher.
+1	Kamurua=	Kamurua=	_	_	_	_	_	_	Gloss=S2du
+2	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+3	ge=	ge=	_	_	_	_	_	_	Gloss=Aor
+4	lai	lai	_	_	_	_	_	_	Gloss=procurer
+5	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+7	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro50
+# text_en =  Elles y allèrent en courant.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	rowo	rowo	_	_	_	_	_	_	Gloss=courir
+4	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro51
+# text_en =  Ils descendirent, l'une tenait une main, l'autre tenait l'autre main.
+1	Sugo	Sugo	_	_	_	_	_	_	Gloss=descendre
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	tor	tor	_	_	_	_	_	_	Gloss=tenir
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	taval	taval	_	_	_	_	_	_	Gloss=autre.côté
+6	lima	lima	_	_	_	_	_	_	Gloss=main
+7	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	tewa	tewa	_	_	_	_	_	_	Gloss=un
+10	tor	tor	_	_	_	_	_	_	Gloss=tenir
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+12	taval	taval	_	_	_	_	_	_	Gloss=autre.côté
+13	lima	lima	_	_	_	_	_	_	Gloss=main
+14	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+15	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro52
+# text_en =  et ils s'en revinrent en courant et riant.
+1	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aorpl
+2	rowo	rowo	_	_	_	_	_	_	Gloss=courir
+3	manmana	manmana	_	_	_	_	_	_	Gloss=Red.Ger.rire
+4	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro53
+# text_en =  Ils rentrent et atteignent le village
+1	Sae	Sae	_	_	_	_	_	_	Gloss=monter
+2	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+3	diŋa	diŋa	_	_	_	_	_	_	Gloss=atteindre
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	varea;	varea;	_	_	_	_	_	_	Gloss=village
+
+# sent_id = Waroro54
+# text_en =  Leur maman leur dit:
+1	no-	no-	_	_	_	_	_	_	Gloss=CP-
+2	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+3	veve	veve	_	_	_	_	_	_	Gloss=maman
+4	vet	vet	_	_	_	_	_	_	Gloss=dire
+5	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+6	ira	ira	_	_	_	_	_	_	Gloss=Obl3pl
+7	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+
+# sent_id = Waroro55
+# text_en =  Votre maison est là-bas, vous habiterez là avec lui.
+1	"	"	_	_	_	_	_	_	Gloss=PUNCT
+2	Vale	Vale	_	_	_	_	_	_	Gloss=maison
+3	-mu	-mu	_	_	_	_	_	_	Gloss=-P2pl
+4	kivano	kivano	_	_	_	_	_	_	Gloss=Deix
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	kamurua=	kamurua=	_	_	_	_	_	_	Gloss=S2du
+7	vano	vano	_	_	_	_	_	_	Gloss=aller
+8	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+9	toga	toga	_	_	_	_	_	_	Gloss=rester
+10	ala	ala	_	_	_	_	_	_	Gloss=Anaph
+11	me	me	_	_	_	_	_	_	Gloss=avec
+12	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+13	.	.	_	_	_	_	_	_	Gloss=PUNCT
+14	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro56
+# text_en =  Ils vont dans la maison.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+4	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+5	vano	vano	_	_	_	_	_	_	Gloss=aller
+6	dina	dina	_	_	_	_	_	_	Gloss=atteindre
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	vale,	vale,	_	_	_	_	_	_	Gloss=maison
+
+# sent_id = Waroro57
+# text_en =  Il leur dit: Si nous restons ensemble, si (un jour) vous vous mettez en colère,
+1	ia	ia	_	_	_	_	_	_	Gloss=I3sg
+2	vet	vet	_	_	_	_	_	_	Gloss=dire
+3	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+4	ira	ira	_	_	_	_	_	_	Gloss=Obl3pl
+5	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+7	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+8	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+9	toga,	toga,	_	_	_	_	_	_	Gloss=rester
+10	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+11	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+12	mero,	mero,	_	_	_	_	_	_	Gloss=se.fâcher
+
+# sent_id = Waroro58
+# text_en =  Vous ne devrez pas parler du turbo vert.
+1	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl
+2	kare	kare	_	_	_	_	_	_	Gloss=Prohib
+3	veti	veti	_	_	_	_	_	_	Gloss=dire
+4	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	waroro.	waroro.	_	_	_	_	_	_	Gloss=turbo.vert
+
+# sent_id = Waroro59
+# text_en =  Si vous parlez du turbo vert, je retourne dans la mer.
+1	Kamurua=	Kamurua=	_	_	_	_	_	_	Gloss=S2du
+2	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+3	veti	veti	_	_	_	_	_	_	Gloss=dire
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	waroro,	waroro,	_	_	_	_	_	_	Gloss=turbo.vert
+6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+7	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+8	talwura	talwura	_	_	_	_	_	_	Gloss=recommencer
+9	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+10	le=	le=	_	_	_	_	_	_	Gloss=Loc
+11	tasi.	tasi.	_	_	_	_	_	_	Gloss=mer
+
+# sent_id = Waroro60
+# text_en =  Elles dirent d'accord. Et ils s'en tinrent là.
+1	Irarua=	Irarua=	_	_	_	_	_	_	Gloss=S2du
+2	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+3	"	"	_	_	_	_	_	_	Gloss=PUNCT
+4	Wia	Wia	_	_	_	_	_	_	Gloss=bon
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+7	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+8	toga.	toga.	_	_	_	_	_	_	Gloss=rester
+
+# sent_id = Waroro61
+# text_en =  Un jour, elles étaient en colère, il frappa l’une,
+1	Totoga	Totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	qoŋ	qoŋ	_	_	_	_	_	_	Gloss=jour
+4	tewa	tewa	_	_	_	_	_	_	Gloss=un
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+7	mero,	mero,	_	_	_	_	_	_	Gloss=se.fâcher
+8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+9	vagis	vagis	_	_	_	_	_	_	Gloss=frapper
+10	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+11	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro62
+# text_en =  il frappa l’autre, les deux pleurèrent, et cela en resta là.
+1	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+2	vagis	vagis	_	_	_	_	_	_	Gloss=frapper
+3	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	irarua=	irarua=	_	_	_	_	_	_	Gloss=S2du
+6	ŋara,	ŋara,	_	_	_	_	_	_	Gloss=pleurer
+7	kae	kae	_	_	_	_	_	_	Gloss=Coord.Aor
+8	toga	toga	_	_	_	_	_	_	Gloss=rester
+9	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro63
+# text_en =  Un jour, elles se fachèrent à nouveau, il frappa l’une
+1	Totoga	Totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	qoŋ	qoŋ	_	_	_	_	_	_	Gloss=jour
+4	tewa	tewa	_	_	_	_	_	_	Gloss=un
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+7	ge=	ge=	_	_	_	_	_	_	Gloss=Aor
+8	mero	mero	_	_	_	_	_	_	Gloss=se.fâcher
+9	doqala	doqala	_	_	_	_	_	_	Gloss=ainsi
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+12	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+13	vagis	vagis	_	_	_	_	_	_	Gloss=frapper
+14	tuara	tuara	_	_	_	_	_	_	Gloss=autre
+15	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro67
+# text_en =  Toi, là, qui nous frappent et nous fait mal, tu n’es que notre turbo vert !
+1	"	"	_	_	_	_	_	_	Gloss=PUNCT
+2	Niko	Niko	_	_	_	_	_	_	Gloss=I2sg
+3	kea	kea	_	_	_	_	_	_	Gloss=Dem
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	vagvagis	vagvagis	_	_	_	_	_	_	Gloss=Red.frapper
+6	gadiri	gadiri	_	_	_	_	_	_	Gloss=souffrir
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	na=	na=	_	_	_	_	_	_	Gloss=Art
+9	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+10	mi	mi	_	_	_	_	_	_	Gloss=P1plex
+11	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro68
+# text_en =  “Il dit “AH! je vous avais bien dit que même si nous disputions, vous ne deviez pas dire que j’étais un turbo vert !
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	veti	veti	_	_	_	_	_	_	Gloss=dire
+4	wari	wari	_	_	_	_	_	_	Gloss=Compl
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	Ka!	Ka!	_	_	_	_	_	_	Gloss=Interj
+7	Mo=	Mo=	_	_	_	_	_	_	Gloss=Rel
+8	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+10	ta=	ta=	_	_	_	_	_	_	Gloss=Pft
+11	vet	vet	_	_	_	_	_	_	Gloss=dire
+12	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+13	ikamu	ikamu	_	_	_	_	_	_	Gloss=Obl2pl
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+15	veti	veti	_	_	_	_	_	_	Gloss=dire
+16	war	war	_	_	_	_	_	_	Gloss=Compl
+17	gida=	gida=	_	_	_	_	_	_	Gloss=S1plincl
+18	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+19	mero,	mero,	_	_	_	_	_	_	Gloss=se.fâcher
+20	kamurua=	kamurua=	_	_	_	_	_	_	Gloss=S2du
+21	kare	kare	_	_	_	_	_	_	Gloss=Prohib
+22	veti	veti	_	_	_	_	_	_	Gloss=dire
+23	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+24	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+25	waroro.	waroro.	_	_	_	_	_	_	Gloss=turbo.vert
+
+# sent_id = Waroro69
+# text_en =  Vous l’avez dit, alors je dois m’en retourner chez moi.
+1	Kamu=	Kamu=	_	_	_	_	_	_	Gloss=S2pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	veti	veti	_	_	_	_	_	_	Gloss=dire
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	waroro,	waroro,	_	_	_	_	_	_	Gloss=turbo.vert
+6	kakaka	kakaka	_	_	_	_	_	_	Gloss=maintenant
+7	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+8	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+9	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+10	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro70
+# text_en =  Elles dirent non.
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ge=	ge=	_	_	_	_	_	_	Gloss=Aorpl
+3	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+4	"	"	_	_	_	_	_	_	Gloss=PUNCT
+5	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+6	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro71
+# text_en =  Cela reste entre nous seuls
+1	Ia	Ia	_	_	_	_	_	_	Gloss=I3sg
+2	kea	kea	_	_	_	_	_	_	Gloss=Dem
+3	no-	no-	_	_	_	_	_	_	Gloss=CP-
+4	da	da	_	_	_	_	_	_	Gloss=P1plincl
+5	wuri	wuri	_	_	_	_	_	_	Gloss=compléter
+6	-a	-a	_	_	_	_	_	_	Gloss=-O3sg
+7	gase	gase	_	_	_	_	_	_	Gloss=seul
+8	-da	-da	_	_	_	_	_	_	Gloss=-P1plincl
+9	=ŋa,	=ŋa,	_	_	_	_	_	_	Gloss=PEN
+
+# sent_id = Waroro72
+# text_en =  Papa et Maman, ils n’ont rien entendu !
+1	veve	veve	_	_	_	_	_	_	Gloss=maman
+2	mata	mata	_	_	_	_	_	_	Gloss=avec
+3	-n	-n	_	_	_	_	_	_	Gloss=-P3psg
+4	tata	tata	_	_	_	_	_	_	Gloss=papa
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+7	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+8	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+9	roŋo	roŋo	_	_	_	_	_	_	Gloss=entendre
+10	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro73
+# text_en =  “Il dit “Non, car je vous avais prévenues”
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vet	vet	_	_	_	_	_	_	Gloss=dire
+4	war	war	_	_	_	_	_	_	Gloss=Compl
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+10	ta=	ta=	_	_	_	_	_	_	Gloss=Pft
+11	veti,	veti,	_	_	_	_	_	_	Gloss=dire
+
+# sent_id = Waroro74
+# text_en =  Vous n’avez pas écouté. Maintenant je m’en vais.
+1	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+3	roŋo	roŋo	_	_	_	_	_	_	Gloss=entendre
+4	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+6	Kakaka	Kakaka	_	_	_	_	_	_	Gloss=maintenant
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+9	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+10	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+11	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+12	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro75
+# text_en =  Et elles ne purent rien y faire.
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	,	,	_	_	_	_	_	_	Gloss=PUNCT
+3	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+4	ti-	ti-	_	_	_	_	_	_	Gloss=Neg1-
+5	ŋa	ŋa	_	_	_	_	_	_	Gloss=PEN
+6	da	da	_	_	_	_	_	_	Gloss=faire
+7	lai-	lai-	_	_	_	_	_	_	Gloss=ModCap-
+8	a	a	_	_	_	_	_	_	Gloss=O3sg
+9	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro76
+# text_en =  Il dit : je vais changer ma complainte en descendant.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	veti	veti	_	_	_	_	_	_	Gloss=dire
+4	war	war	_	_	_	_	_	_	Gloss=Compl
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+7	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+8	taŋtaŋi	taŋtaŋi	_	_	_	_	_	_	Gloss=chanter.complainte
+9	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+10	laka	laka	_	_	_	_	_	_	Gloss=Deix
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+12	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro77
+# text_en =  Et sa complainte faisait ainsi…
+1	Ka	Ka	_	_	_	_	_	_	Gloss=Coord
+2	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+3	n	n	_	_	_	_	_	_	Gloss=P3sg
+4	taŋtaŋi	taŋtaŋi	_	_	_	_	_	_	Gloss=complainte
+5	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
+6	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro78
+# text_en =  Alors elles le suivirent, le prirent par le bras, lui dirent ne t’en vas pas !
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+3	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+4	ge=	ge=	_	_	_	_	_	_	Gloss=AorPl
+5	tori-	tori-	_	_	_	_	_	_	Gloss=tenir-
+6	a,	a,	_	_	_	_	_	_	Gloss=O3sg
+7	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3pl
+8	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+9	"	"	_	_	_	_	_	_	Gloss=PUNCT
+10	Kare	Kare	_	_	_	_	_	_	Gloss=Prohib
+11	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+12	tea!	tea!	_	_	_	_	_	_	Gloss=Neg2
+13	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro79
+# text_en =  “Il dit “moi je vous avais prévenues”
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vet	vet	_	_	_	_	_	_	Gloss=dire
+4	war	war	_	_	_	_	_	_	Gloss=Compl
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+7	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+8	ta=	ta=	_	_	_	_	_	_	Gloss=Pft
+9	veti	veti	_	_	_	_	_	_	Gloss=dire
+10	min-	min-	_	_	_	_	_	_	Gloss=Dest-
+11	kamurua	kamurua	_	_	_	_	_	_	Gloss=Obl2du
+12	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro80
+# text_en =  Vous n’avez pas écouté.  Je m’en vais, là.
+1	kamurua=	kamurua=	_	_	_	_	_	_	Gloss=S2pl
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+3	roŋo	roŋo	_	_	_	_	_	_	Gloss=entendre
+4	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	nau=	nau=	_	_	_	_	_	_	Gloss=S1sg
+7	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+8	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+9	=ŋa	=ŋa	_	_	_	_	_	_	Gloss=PEN
+10	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+12	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro83
+# text_en =  Il descendit vers la mer, regarda dans l’eau
+1	Sugo	Sugo	_	_	_	_	_	_	Gloss=descendre
+2	dina	dina	_	_	_	_	_	_	Gloss=atteindre
+3	le=	le=	_	_	_	_	_	_	Gloss=Loc
+4	tasi,	tasi,	_	_	_	_	_	_	Gloss=mer
+5	ete	ete	_	_	_	_	_	_	Gloss=voir
+6	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+7	le=	le=	_	_	_	_	_	_	Gloss=Loc
+8	lol	lol	_	_	_	_	_	_	Gloss=intérieur
+9	tasi	tasi	_	_	_	_	_	_	Gloss=mer
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro84
+# text_en =  Mais il ne trouva pas le rocher du turbo vert.
+1	ti=	ti=	_	_	_	_	_	_	Gloss=Neg1
+2	saqe	saqe	_	_	_	_	_	_	Gloss=trouver
+3	tea	tea	_	_	_	_	_	_	Gloss=Neg2
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	vatu	vatu	_	_	_	_	_	_	Gloss=pierre
+6	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro85
+# text_en =   Lorsque je descendrai (dans la mer), vous deux vous restez, vous vous souviendrez de Turbo vert, vous verrez mon visage dans mon pagne
+1	"	"	_	_	_	_	_	_	Gloss=PUNCT
+2	Nau=	Nau=	_	_	_	_	_	_	Gloss=S1sg
+3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+4	sugo,	sugo,	_	_	_	_	_	_	Gloss=descendre
+5	kamurua=	kamurua=	_	_	_	_	_	_	Gloss=S2du
+6	toga,	toga,	_	_	_	_	_	_	Gloss=rester
+7	kamurua=	kamurua=	_	_	_	_	_	_	Gloss=S2du
+8	dodomsaqe	dodomsaqe	_	_	_	_	_	_	Gloss=se.souvenir
+9	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+10	,	,	_	_	_	_	_	_	Gloss=PUNCT
+11	kamu=	kamu=	_	_	_	_	_	_	Gloss=S2pl
+12	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+13	ete	ete	_	_	_	_	_	_	Gloss=voir
+14	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+15	nago-	nago-	_	_	_	_	_	_	Gloss=visage-
+16	ku	ku	_	_	_	_	_	_	Gloss=P1sg
+17	le=	le=	_	_	_	_	_	_	Gloss=Loc
+18	mal	mal	_	_	_	_	_	_	Gloss=pagne
+19	roi	roi	_	_	_	_	_	_	Gloss=??
+20	-ku	-ku	_	_	_	_	_	_	Gloss=-P1sg
+21	kea	kea	_	_	_	_	_	_	Gloss=Dem
+22	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Waroro87
+# text_en =  “Il y resta et Red.vint entièrement turbo vert. Et ce fut/c’est fini.”
+1	Totoga	Totoga	_	_	_	_	_	_	Gloss=RedDur.rester
+2	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+3	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+5	waroro	waroro	_	_	_	_	_	_	Gloss=turbo.vert
+6	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+8	kati	kati	_	_	_	_	_	_	Gloss=Coord
+9	baso	baso	_	_	_	_	_	_	Gloss=finir
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+

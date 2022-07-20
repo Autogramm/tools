@@ -1,0 +1,518 @@
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma2
+# text_en = Aujourd'hui, nous faisons nos jardin comme ça, mais pas comme ce qu'ils faisaient avant.
+1	Qariki	qariki	AUX	_	_	-1	_	_	Gloss=aujourd'hui
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	kami=	kami=	AUX	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plex=|TokenType=Clit|deprel=subj
+4	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+7	ti=	ti=	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1=|TokenType=Clit
+8	doqala,	doqala,	AUX	_	_	-1	_	_	Gloss=ainsi
+9	kati	kati	AUX	_	_	-1	_	_	Gloss=Coord
+10	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+11	gai	gai	AUX	_	_	-1	_	_	Gloss=PEN
+12	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+13	-a	-a	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=-O3pl|TokenType=Aff|deprel=comp:obj
+14	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+15	tueta	tueta	AUX	_	_	-1	_	_	Gloss=avant
+16	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+17	te=	te=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+18	tai-	tai-	AUX	_	_	-1	_	_	Gloss=couper-|TokenType=Aff
+19	a.	a.	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma3
+# text_en = Autrefois, ils se promenaient, et repéraient un emplacement.
+1	Tueta	tueta	AUX	_	_	-1	_	_	Gloss=avant
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+4	rasu,	rasu,	AUX	_	_	-1	_	_	Gloss=marcher
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+6	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	uma.	uma.	AUX	_	_	-1	_	_	Gloss=jardin
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma4
+# text_en = Ensuite avant de le couper,
+1	Turmua	turmua	AUX	_	_	-1	_	_	Gloss=être.premier
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite,
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=AorPl=|TokenType=Clit
+6	vei=	vei=	AUX	_	_	-1	_	_	Gloss=Evit=|TokenType=Clit
+7	tai-	tai-	AUX	_	_	-1	_	_	Gloss=couper-|TokenType=Aff
+8	a.	a.	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma6
+# text_en = Ensuite, ils venaient juste et commençaient à le couper.
+1	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+4	vei=	vei=	AUX	_	_	-1	_	_	Gloss=Evit=|TokenType=Clit
+5	sumai,	sumai,	AUX	_	_	-1	_	_	Gloss=venir
+6	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+7	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+8	toqatug	toqatug	AUX	_	_	-1	_	_	Gloss=commencer
+9	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+10	tai	tai	AUX	_	_	-1	_	_	Gloss=commencer
+11	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+12	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma7
+# text_en = Ils s'occupaient d'abord de la bordure, coupaient tout autour.
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRest=|TokenType=Clit
+3	tai-	tai-	AUX	_	_	-1	_	_	Gloss=couper-|TokenType=Aff
+4	a	a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	beara	beara	AUX	_	_	-1	_	_	Gloss=bordure
+7	turmua	turmua	AUX	_	_	-1	_	_	Gloss=être.premier
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	vavano	vavano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano|Reduplicated=Yes
+10	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+11	dalvita.	dalvita.	AUX	_	_	-1	_	_	Gloss=faire.le.tour
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma8
+# text_en = Ensuite, ils rentraient au village; le lendemain, ils montaient et commençaient à le couper.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+4	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	varea;	varea;	AUX	_	_	-1	_	_	Gloss=village
+7	taval	taval	AUX	_	_	-1	_	_	Gloss=autre
+8	marani	marani	AUX	_	_	-1	_	_	Gloss=matin
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	toqatug	toqatug	AUX	_	_	-1	_	_	Gloss=commencer
+13	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+14	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+15	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma9
+# text_en = Ils défrichaient ce jardin. Ils le défrichaient, ils finissaient l'intérieur.
+1	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+4	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+5	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+8	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	lolo-	lolo-	AUX	_	_	-1	_	_	Gloss=intérieur-|TokenType=Aff
+12	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+13	vavano	vavano	AUX	_	_	-1	_	_	Gloss=aller|MGloss=Dur~aller|MSeg=va~vano|Reduplicated=Yes
+14	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+15	baso.	baso.	AUX	_	_	-1	_	_	Gloss=finir
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma10
+# text_en = Après, ils rentraient au village se reposer.
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+4	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+5	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	varea,	varea,	AUX	_	_	-1	_	_	Gloss=village
+9	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma11
+# text_en = Le lendemain matin, ils remontaient, et coupaient les arbres.
+1	Taval	taval	AUX	_	_	-1	_	_	Gloss=autre
+2	marani	marani	AUX	_	_	-1	_	_	Gloss=matin
+3	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+4	sage,	sage,	AUX	_	_	-1	_	_	Gloss=monter
+5	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+6	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	geiga.	geiga.	AUX	_	_	-1	_	_	Gloss=arbre
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma12
+# text_en = Ils abattaient les arbres, ils les débitaient complètement, puis rentraient se reposer.
+1	Tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	geiga	geiga	AUX	_	_	-1	_	_	Gloss=arbre
+4	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+7	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+8	lidu	lidu	AUX	_	_	-1	_	_	Gloss=débiter
+9	wurwuria	wurwuria	AUX	_	_	-1	_	_	Gloss=compléter
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	geiga	geiga	AUX	_	_	-1	_	_	Gloss=arbre
+12	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+13	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+14	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+15	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+16	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+17	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+18	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+19	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma13
+# text_en = Ils attendaient que ce soit sec, avant de monter brûler tout ça.
+1	Toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+2	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+3	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+4	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+5	koru,	koru,	AUX	_	_	-1	_	_	Gloss=sec
+6	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+7	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	nevi=	nevi=	AUX	_	_	-1	_	_	Gloss=Evit=|TokenType=Clit
+9	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+10	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+11	sulua.	sulua.	AUX	_	_	-1	_	_	Gloss=brûler
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma14
+# text_en = Ils attendaient quelques jours, ils attendaient deux semaines
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+3	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+4	lebata	lebata	AUX	_	_	-1	_	_	Gloss=quelque
+5	qoŋi	qoŋi	AUX	_	_	-1	_	_	Gloss=jour
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+9	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+10	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+11	wik	wik	AUX	_	_	-1	_	_	Gloss=semaine
+12	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+13	rua	rua	AUX	_	_	-1	_	_	Gloss=deux
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma15
+# text_en = ??, pour qu'ils montent brûler leur jardin.
+1	rua	rua	AUX	_	_	-1	_	_	Gloss=deux
+2	lai	lai	AUX	_	_	-1	_	_	Gloss=??
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+5	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+6	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+7	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+8	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+9	sulu	sulu	AUX	_	_	-1	_	_	Gloss=bruler
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+12	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+13	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+14	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+15	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+16	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma18
+# text_en = Ensuite ils montaient à nouveau
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+4	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+5	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+6	talwura	talwura	AUX	_	_	-1	_	_	Gloss=à.nouveau
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma21
+# text_en = Ils ramassaient bien tous les débris, ?? le balayaient àl'intérieur.
+1	Daŋdaŋwaua	Daŋdaŋwaua	AUX	_	_	-1	_	_	Gloss=faire.correctement|MGloss=Dur~faire.correctement|Reduplicated=Yes
+2	vile	vile	AUX	_	_	-1	_	_	Gloss=ramasser
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	oro,	oro,	AUX	_	_	-1	_	_	Gloss=débris
+5	gana	gana	AUX	_	_	-1	_	_	Gloss=???
+6	siri	siri	AUX	_	_	-1	_	_	Gloss=balayer
+7	-a	-a	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-O3sg|TokenType=Aff|deprel=comp:obj
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+10	lolo-	lolo-	AUX	_	_	-1	_	_	Gloss=intérieur-|TokenType=Aff
+11	na,	na,	AUX	_	Case=Acc|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=O3sg|TokenType=Clit|deprel=comp:obj
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma24
+# text_en = Voilà que je vais chanter la sa chanson. La chanson du jardin est comme ça:
+1	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+2	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+3	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+4	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+5	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+6	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+7	asi-	asi-	AUX	_	_	-1	_	_	Gloss=chanson-|TokenType=Aff
+8	na.	na.	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+9	Asi	asi	AUX	_	_	-1	_	_	Gloss=chanson
+10	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+11	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+12	la	la	AUX	_	_	-1	_	_	Gloss=Prox
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma25
+# text_en = Les hommes vont monter couper des bouts de bois pour labourer.
+1	irana=	irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	tatua,	tatua,	AUX	_	_	-1	_	_	Gloss=homme
+3	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+4	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	aso,	aso,	AUX	_	_	-1	_	_	Gloss=bois
+9	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+10	lawo	lawo	AUX	_	_	-1	_	_	Gloss=labourer
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma26
+# text_en = Les femmes suivent pour couper les ignames,
+1	irana=	irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	taiŋwa	taiŋwa	AUX	_	_	-1	_	_	Gloss=femme
+3	sura	sura	AUX	_	_	-1	_	_	Gloss=suivre
+4	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+5	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+6	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+7	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+8	teve-	teve-	AUX	_	_	-1	_	_	Gloss=couper-|TokenType=Aff
+9	ra	ra	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma27
+# text_en = pour planter leur jardin.
+1	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+4	da	da	AUX	_	_	-1	_	_	Gloss=faire
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	vaso	vaso	AUX	_	_	-1	_	_	Gloss=planter
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+9	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+10	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma28
+# text_en = Les hommes coupent des morceaux de boix, et commencent à casser la terre du jardin.
+1	Irana=	Irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+3	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	geiga,	geiga,	AUX	_	_	-1	_	_	Gloss=arbre
+6	[wutu	[wutu	AUX	_	_	-1	_	_	Gloss=casser.la.terre
+7	na]	na]	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc
+8	toqatug	toqatug	AUX	_	_	-1	_	_	Gloss=commencer
+9	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+10	wutu	wutu	AUX	_	_	-1	_	_	Gloss=casser.la.terre
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+12	uma.	uma.	AUX	_	_	-1	_	_	Gloss=jardin
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma29
+# text_en = Ils commencent par le bout/la fin du jardin, et cassent la terre en remontant vers le début du jardin.
+1	Toqatug	toqatug	AUX	_	_	-1	_	_	Gloss=commencer
+2	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+3	kere	kere	AUX	_	_	-1	_	_	Gloss=fin
+4	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	wutwutu	wutwutu	AUX	_	_	-1	_	_	Gloss=casser.la.terre|MGloss=RED~casser.la.terre|MSeg=wut~wutu|Reduplicated=Yes
+7	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+8	sage,	sage,	AUX	_	_	-1	_	_	Gloss=monter
+9	sage	sage	AUX	_	_	-1	_	_	Gloss=monter
+10	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+11	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+12	qati	qati	AUX	_	_	-1	_	_	Gloss=tête?
+13	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma32
+# text_en = Ensuite elles posent les feuilles par terre, coupent au couteau leurs ignames, et en posent les têtes tout autour.
+1	Kae	kae	AUX	_	Aspect=Aor	-1	_	_	Gloss=Coord.Aor
+2	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	dau	dau	AUX	_	_	-1	_	_	Gloss=feuille
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	teve	teve	AUX	_	_	-1	_	_	Gloss=couper
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+11	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+14	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+15	qatu-	qatu-	AUX	_	_	-1	_	_	Gloss=tête-|TokenType=Aff
+16	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+17	dalvita	dalvita	AUX	_	_	-1	_	_	Gloss=faire.le.tour
+18	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma33
+# text_en = Ensuite, elles fendent leur ignames.
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+3	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+4	teve	teve	AUX	_	_	-1	_	_	Gloss=couper
+5	wokala	wokala	AUX	_	_	-1	_	_	Gloss=fendre
+6	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+7	damu.	damu.	AUX	_	_	-1	_	_	Gloss=igname
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma34
+# text_en = Ensuite, elles pèlent les ignames.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	ka	ka	CCONJ	_	Aspect=Aor|Number=Plur	-1	_	_	Amal=kae
+3	ge	ge	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Coord.Aorpl
+4	siri	siri	AUX	_	_	-1	_	_	Gloss=peler
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	siri	siri	AUX	_	_	-1	_	_	Gloss=peler
+7	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+8	damu.	damu.	AUX	_	_	-1	_	_	Gloss=igname
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma35
+# text_en = Elles étalent leur feuilles, pour peler leur laplap d'ignames.
+1	Teteragi	teteragi	AUX	_	_	-1	_	_	Gloss=étaler
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+4	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+5	dau	dau	AUX	_	_	-1	_	_	Gloss=feuille
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+8	siri	siri	AUX	_	_	-1	_	_	Gloss=peler
+9	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+10	loko,	loko,	AUX	_	_	-1	_	_	Gloss=laplap
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+12	loko	loko	AUX	_	_	-1	_	_	Gloss=laplap
+13	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma36
+# text_en = Elles le déposent sur les feuilles.
+1	Tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	dau	dau	AUX	_	_	-1	_	_	Gloss=feuille
+5	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+6	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma37
+# text_en = Elles le déposent sur les feuilles, elles râpent, râpent, râpent complètement leurs ignames.
+1	Tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+2	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+3	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+4	dau,	dau,	AUX	_	_	-1	_	_	Gloss=feuille
+5	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+8	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+9	sisiri,	sisiri,	AUX	_	_	-1	_	_	Gloss=peler|MGloss=Dur~peler|MSeg=si~siri,|Reduplicated=Yes
+10	siri	siri	AUX	_	_	-1	_	_	Gloss=peler
+11	wurwur	wurwur	AUX	_	_	-1	_	_	Gloss=compléter
+12	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+13	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+14	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma40
+# text_en = Ensuite, elles coupent leur…??, puis enfoncent ces ignames dans la terre en un mouvement tournant.
+1	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+3	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+4	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+5	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+6	wariri	wariri	AUX	_	_	-1	_	_	Gloss=??
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	wariri	wariri	AUX	_	_	-1	_	_	Gloss=enfoncer.en.tournant
+9	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+10	damu	damu	AUX	_	_	-1	_	_	Gloss=ignames
+11	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+12	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+13	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma41
+# text_en = Elles les enfoncent en tournant, posent le laplap sur les feuilles, et ensuite…
+1	Wariri	wariri	AUX	_	_	-1	_	_	Gloss=enfoncer.en.tournant
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	loko	loko	AUX	_	_	-1	_	_	Gloss=laplap
+6	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+7	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+8	dau,	dau,	AUX	_	_	-1	_	_	Gloss=feuille
+9	van	van	AUX	_	_	-1	_	_	Gloss=aller
+10	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma42
+# text_en = Elles apportent les ignames qu’elles ont rapées.
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=Aorpl=|TokenType=Clit
+3	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+6	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+7	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+8	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+9	te=	te=	AUX	_	_	-1	_	_	Gloss=Pft=|TokenType=Clit
+10	siri-	siri-	AUX	_	_	-1	_	_	Gloss=peler-|TokenType=Aff
+11	ra,	ra,	AUX	_	Case=Acc|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=O3pl|TokenType=Clit|deprel=comp:obj
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma43
+# text_en = Ensuite elles coupent en tous petits morceaux l'intérieur des ignames dont elles avaient disposés la tête tout autour, elles les coupent en tous petits morceaux.
+1	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+3	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	qatu-	qatu-	AUX	_	_	-1	_	_	Gloss=tête-|TokenType=Aff
+6	na	na	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+7	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+8	dalvita,	dalvita,	AUX	_	_	-1	_	_	Gloss=faire.le.tour
+9	taitai	taitai	AUX	_	_	-1	_	_	Gloss=couper|MGloss=Multipl~couper|MSeg=tai~tai|Reduplicated=Yes
+10	ririki	ririki	AUX	_	_	-1	_	_	Gloss=petit|MGloss=Multipl~petit|MSeg=ri~riki|Reduplicated=Yes
+11	gini-	gini-	AUX	_	_	-1	_	_	Gloss=Instr-|TokenType=Aff
+12	a	a	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3sg|TokenType=Clit|deprel=comp:obl
+13	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+14	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma44
+# text_en = Les hommes labourent complètement le jardin, jusqu'à la fin.
+1	irana=	irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+3	ge=	ge=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+4	lawo	lawo	AUX	_	_	-1	_	_	Gloss=labourer
+5	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=compléter
+6	na=	na=	AUX	_	_	-1	_	_	Gloss=Art.Ac=|TokenType=Clit
+7	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+8	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+9	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+10	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+11	=va,	=va,	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma47
+# text_en = Les femmes se coupent un morceau de bois, pour descendre et planter les ignames avec.
+1	irana=	irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+2	taiŋwa	taiŋwa	AUX	_	_	-1	_	_	Gloss=femme
+3	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+7	geiga	geiga	AUX	_	_	-1	_	_	Gloss=arbre
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+10	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+11	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+12	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+13	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+14	vaso	vaso	AUX	_	_	-1	_	_	Gloss=enterrer
+15	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+16	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+17	gini-	gini-	AUX	_	_	-1	_	_	Gloss=Instr-|TokenType=Aff
+18	a	a	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=Obl3pl|TokenType=Clit|deprel=comp:obl
+19	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma48
+# text_en = Elles enterrent les ignames dans le sol.
+1	Tavigi	tavigi	AUX	_	_	-1	_	_	Gloss=enterrer
+2	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+3	damu	damu	AUX	_	_	-1	_	_	Gloss=igname
+4	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	lolo	lolo	AUX	_	_	-1	_	_	Gloss=intérieur
+7	tano	tano	AUX	_	_	-1	_	_	Gloss=sol
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Dagasnia_ira_tueta_mo_toga_ge_tai_na_bula-ra_uma50
+# text_en = C’est fini !
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	=va!.	=va!.	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit

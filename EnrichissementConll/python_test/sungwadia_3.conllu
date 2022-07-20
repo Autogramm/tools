@@ -1,0 +1,117 @@
+# sent_id = Vevsale_irua1
+# text_en =  Un des jeux se passe comme suit. Son nom est Arrache le nafiso.
+1	Vevsale	Vevsale	_	_	_	_	_	_	Gloss=jeu
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
+4	.	.	_	_	_	_	_	_	Gloss=PUNCT
+5	Sasa	Sasa	_	_	_	_	_	_	Gloss=nom
+6	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+7	«	«	_	_	_	_	_	_	Gloss=PUNCT
+8	Waswasu	Waswasu	_	_	_	_	_	_	Gloss=Red.tirer
+9	viso	viso	_	_	_	_	_	_	Gloss=Nesp
+10	»	»	_	_	_	_	_	_	Gloss=PUNCT
+11	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua3
+# text_en =   Il n'y a pas de fin (à ce jeu).
+1	A=	A=	_	_	_	_	_	_	Gloss=Art
+2	ulosi-	ulosi-	_	_	_	_	_	_	Gloss=fin-
+3	na	na	_	_	_	_	_	_	Gloss=P3sg
+4	tigala	tigala	_	_	_	_	_	_	Gloss=ExistNeg
+5	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua4
+# text_en =  Sa chanson fait comme ça:
+1	A=	A=	_	_	_	_	_	_	Gloss=Art
+2	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+3	na	na	_	_	_	_	_	_	Gloss=P3sg
+4	asi	asi	_	_	_	_	_	_	Gloss=chanson
+5	van	van	_	_	_	_	_	_	Gloss=aller
+6	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua6
+# text_en =  Le jeu suivant est salsali malobe.
+1	Tuara	Tuara	_	_	_	_	_	_	Gloss=autre
+2	vevsale	vevsale	_	_	_	_	_	_	Gloss=jeu
+3	talwura	talwura	_	_	_	_	_	_	Gloss=à.nouveau
+4	«	«	_	_	_	_	_	_	Gloss=PUNCT
+5	salsali	salsali	_	_	_	_	_	_	Gloss=Red.secouer
+6	malobe	malobe	_	_	_	_	_	_	Gloss=??
+7	»	»	_	_	_	_	_	_	Gloss=PUNCT
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua7
+# text_en =  Salsali malobe, c'est juste comme Waswasu viso
+1	«	«	_	_	_	_	_	_	Gloss=PUNCT
+2	Salsali	Salsali	_	_	_	_	_	_	Gloss=Red.secouer
+3	malobe	malobe	_	_	_	_	_	_	Gloss=??
+4	»	»	_	_	_	_	_	_	Gloss=PUNCT
+5	,	,	_	_	_	_	_	_	Gloss=PUNCT
+6	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+7	u=	u=	_	_	_	_	_	_	Gloss=Pft
+8	ŋwere	ŋwere	_	_	_	_	_	_	Gloss=être.comme
+9	«	«	_	_	_	_	_	_	Gloss=PUNCT
+10	waswasu	waswasu	_	_	_	_	_	_	Gloss=Red.arracher
+11	viso	viso	_	_	_	_	_	_	Gloss=Nesp
+12	»	»	_	_	_	_	_	_	Gloss=PUNCT
+13	=va	=va	_	_	_	_	_	_	Gloss=PEN
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua9
+# text_en =  Tu alignes tes index. Ensuite l'un va les agiter.
+1	tau	tau	_	_	_	_	_	_	Gloss=poser
+2	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+3	bisu-	bisu-	_	_	_	_	_	_	Gloss=doigt-
+4	ŋa	ŋa	_	_	_	_	_	_	Gloss=P2sg
+5	tau	tau	_	_	_	_	_	_	Gloss=poser
+6	varvar	varvar	_	_	_	_	_	_	Gloss=aligner
+7	.	.	_	_	_	_	_	_	Gloss=PUNCT
+8	salai	salai	_	_	_	_	_	_	Gloss=aligner
+9	,	,	_	_	_	_	_	_	Gloss=PUNCT
+10	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+11	tewa	tewa	_	_	_	_	_	_	Gloss=un
+12	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+13	sali-	sali-	_	_	_	_	_	_	Gloss=secouer-
+14	a.,	a.,	_	_	_	_	_	_	Gloss=O3sg
+
+# sent_id = Vevsale_irua11
+# text_en =  Ensuite, quand on a terminé de secouer
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	baso	baso	_	_	_	_	_	_	Gloss=finir
+3	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+4	sali	sali	_	_	_	_	_	_	Gloss=secouer
+5	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
+6	baso	baso	_	_	_	_	_	_	Gloss=finir
+7	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua14
+# text_en =  Ensuite, quand c’est fini, quand on est tous passés
+1	Bastau	Bastau	_	_	_	_	_	_	Gloss=ensuite
+2	wa=	wa=	_	_	_	_	_	_	Gloss=quand
+3	baso,	baso,	_	_	_	_	_	_	Gloss=finir
+4	vavano	vavano	_	_	_	_	_	_	Gloss=Red.aller
+5	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	wa=	wa=	_	_	_	_	_	_	Gloss=quand
+8	te=	te=	_	_	_	_	_	_	Gloss=Pft
+9	baso,	baso,	_	_	_	_	_	_	Gloss=fini
+
+# sent_id = Vevsale_irua16
+# text_en =  On se frappe tous les oreilles. Sa chanson (=celle du jeu) est ainsi:
+1	Gida	Gida	_	_	_	_	_	_	Gloss=I1plincl
+2	wurwuri	wurwuri	_	_	_	_	_	_	Gloss=complètement
+3	robata	robata	_	_	_	_	_	_	Gloss=frapper.du.plat.de.la.main
+4	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+5	qoro-	qoro-	_	_	_	_	_	_	Gloss=oreille-
+6	da.	da.	_	_	_	_	_	_	Gloss=P1plexcl
+7	Asi	Asi	_	_	_	_	_	_	Gloss=chanson
+8	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+9	doklaka	doklaka	_	_	_	_	_	_	Gloss=ainsi
+10	:	:	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_irua17
+# text_en =  “C’est fini”
+1	Baso	Baso	_	_	_	_	_	_	Gloss=finir
+2	=va!	=va!	_	_	_	_	_	_	Gloss=PEN
+

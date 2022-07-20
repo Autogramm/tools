@@ -1,0 +1,188 @@
+# sent_id = Sursurigi_suri_busi_matan_wiriu.1
+# text_en = Il était une fois un chat et un chien.
+1	Qoŋ	Qoŋ	AUX	_	_	-1	_	_	Gloss=jour
+2	tewa	tewa	AUX	_	_	-1	_	_	Gloss=un
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+5	mata	mata	AUX	_	_	-1	_	_	Gloss=avec
+6	-n	-n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+7	wiriu	wiriu	AUX	_	_	-1	_	_	Gloss=chien
+8	toga	toga	AUX	_	_	-1	_	_	Gloss=rester.
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.3
+# text_en = Tous les deux montent, et Chat dit qu'il a mal au ventre.
+1	Irarua=	Irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+4	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+5	busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+6	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+7	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+8	ia=	ia=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+9	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+10	taqaŋi-	taqaŋi-	AUX	_	_	-1	_	_	Gloss=ventre-|TokenType=Aff
+11	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+12	gandiri	gandiri	AUX	_	_	-1	_	_	Gloss=souffrir
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.4
+# text_en = Chien dit au chat de Red.scendre et de rentrer à la maison.
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	wiriu	wiriu	AUX	_	_	-1	_	_	Gloss=chien
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+5	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+6	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+7	busi,	busi,	AUX	_	_	-1	_	_	Gloss=chat
+8	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+9	ia	ia	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg|TokenType=Clit|deprel=subj
+10	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+11	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+12	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+13	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+14	vale.	vale.	AUX	_	_	-1	_	_	Gloss=maison
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.6
+# text_en = Chat arrive à la maison, et mange leur poule, il mange juste une aile, puis il remonte,
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+3	sumai	sumai	AUX	_	_	-1	_	_	Gloss=venir
+4	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+5	vale	vale	AUX	_	_	-1	_	_	Gloss=maison
+6	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+7	gan	gan	AUX	_	_	-1	_	_	Gloss=manger
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	kuru,	kuru,	AUX	_	_	-1	_	_	Gloss=poule
+10	gan	gan	AUX	_	_	-1	_	_	Gloss=manger
+11	gas	gas	AUX	_	_	-1	_	_	Gloss=juste
+12	bani	bani	AUX	_	_	-1	_	_	Gloss=aile
+13	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+14	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+15	kati	kati	AUX	_	_	-1	_	_	Gloss=Coord
+16	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+17	ge=	ge=	AUX	_	Aspect=Aor|Number=Plur	-1	_	_	Gloss=AorPl=|TokenType=Clit
+18	sae,	sae,	AUX	_	_	-1	_	_	Gloss=monter
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.8
+# text_en = Il dit oui.
+1	I=	I=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+3	vet	vet	AUX	_	_	-1	_	_	Gloss=dire
+4	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	o'o	o'o	AUX	_	_	-1	_	_	Gloss=oui
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.10
+# text_en = Le chat dit Non!
+1	I=	I=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Tigai	tigai	AUX	_	_	-1	_	_	Gloss=non
+7	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.12
+# text_en = Ils dorment, le jour se lève, et tous deux montent, s'occuper de leur jardin
+1	Ira=	Ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	maturu,	maturu,	AUX	_	_	-1	_	_	Gloss=dormir
+4	maran	maran	AUX	_	_	-1	_	_	Gloss=jour
+5	sae	sae	AUX	_	_	-1	_	_	Gloss=monter
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	irarua=	irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+8	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+9	sae,	sae,	AUX	_	_	-1	_	_	Gloss=monter
+10	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+11	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.13
+# text_en = Le chat dit qu'il a mal au ventre.
+1	bula-	bula-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+2	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+3	uma	uma	AUX	_	_	-1	_	_	Gloss=jardin
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	Busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+6	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+7	taqaŋi	taqaŋi	AUX	_	_	-1	_	_	Gloss=ventre
+8	-n	-n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+9	gandiri	gandiri	AUX	_	_	-1	_	_	Gloss=souffrir
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.14
+# text_en = Tous deux redescendent.
+1	Irarua=	Irarua=	AUX	_	Case=Nom|Number=Dual|Person=3|PronType=Pers	-1	_	_	Gloss=S3du=|TokenType=Clit|deprel=subj
+2	ti=	ti=	AUX	_	Aspect=Aor	-1	_	_	Gloss=Aor=|TokenType=Clit
+3	sugo.	sugo.	AUX	_	_	-1	_	_	Gloss=descendre
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.15
+# text_en = Car le chien avait pris de la sève d'arbre à pain, et l’avait posée sur le couvercle de la casserole;
+1	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+2	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+3	wiriu	wiriu	AUX	_	_	-1	_	_	Gloss=chien
+4	tai	tai	AUX	_	_	-1	_	_	Gloss=couper
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	bulut	bulut	AUX	_	_	-1	_	_	Gloss=sève
+7	batau	batau	AUX	_	_	-1	_	_	Gloss=fruit.à.pain
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+9	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	let	let	AUX	_	_	-1	_	_	Gloss=couvercle
+12	sospen	sospen	AUX	_	_	-1	_	_	Gloss=casserole
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.16
+# text_en = Chat arrive, et veut ouvrir le couvercle de la casserole
+1	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+2	busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	mule	mule	AUX	_	_	-1	_	_	Gloss=rentrer
+5	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+8	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+9	saŋava	saŋava	AUX	_	_	-1	_	_	Gloss=ouvrir
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	let	let	AUX	_	_	-1	_	_	Gloss=couvercle
+12	cocot	cocot	AUX	_	_	-1	_	_	Gloss=casserole
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.17
+# text_en = alors le chien entend se heurter le couvercle et la casserole, il entre en courant,
+1	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+3	wiriu	wiriu	AUX	_	_	-1	_	_	Gloss=chien
+4	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+5	roŋ	roŋ	AUX	_	_	-1	_	_	Gloss=entendre
+6	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+7	adiŋara	adiŋara	AUX	_	_	-1	_	_	Gloss=cogner
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	let	let	AUX	_	_	-1	_	_	Gloss=couvercle
+10	cocot	cocot	AUX	_	_	-1	_	_	Gloss=casserole
+11	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+12	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+13	sospen,	sospen,	AUX	_	_	-1	_	_	Gloss=casserole
+14	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+15	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+16	rowo	rowo	AUX	_	_	-1	_	_	Gloss=courir
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.18
+# text_en = il dit C'est toi qui a mangé cette nourriture, tu as mangé notre poule à tous les deux!
+1	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+2	sugo,	sugo,	AUX	_	_	-1	_	_	Gloss=descendre
+3	ti=	ti=	AUX	_	Aspect=Aor|Number=Sing|Person=3	-1	_	_	Gloss=Aor3sg=|TokenType=Clit
+4	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+5	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	Niko	niko	AUX	_	Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=I2sg|TokenType=Clit|deprel=dislocated
+7	sinaga	sinaga	AUX	_	_	-1	_	_	Gloss=nourriture
+8	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+9	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+10	gani,	gani,	AUX	_	_	-1	_	_	Gloss=manger
+11	gan	gan	AUX	_	_	-1	_	_	Gloss=manger
+12	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+13	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+14	darua	darua	AUX	_	Case=Poss|Clusivity=In|Number=Dual|Person=1|PronType=Pers	-1	_	_	Gloss=P1duincl|TokenType=Clit|deprel=mod:poss
+15	kuru!	kuru!	AUX	_	_	-1	_	_	Gloss=poule
+16	"	"	AUX	_	_	-1	_	_	Gloss=PUNCT

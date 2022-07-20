@@ -1,0 +1,412 @@
+# sent_id = Vevsale_min_na=_kad2
+# text_en = Pas encore	!
+1	Ti-	Ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg-|TokenType=Aff
+2	qa!	qa!	AUX	_	_	-1	_	_	Gloss=PEN
+
+# sent_id = Vevsale_min_na=_kad3
+# text_en = Pas encore ? Ces cartes… il y a 7 familles
+1	Ti	ti	AUX	_	_	-1	_	_	Gloss=neg
+2	-qa?	-qa?	AUX	_	_	-1	_	_	Gloss=-PEN|TokenType=Aff
+3	Irana=	Irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+4	kad	kad	AUX	_	_	-1	_	_	Gloss=carte
+5	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+6	la…	la…	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+7	irana=	irana=	AUX	_	Number=Plur	-1	_	_	Gloss=ArtPl=|TokenType=Clit
+8	famili	famili	AUX	_	_	-1	_	_	Gloss=famille
+9	lavarua	lavarua	AUX	_	_	-1	_	_	Gloss=sept
+
+# sent_id = Vevsale_min_na=_kad4
+# text_en = Les rats, il y a le grand-père, la grand-mère, le papa, la maman, le petit garçon, la petite fille.
+1	A=	A=	AUX	_	_	-1	_	_	Gloss=Art=|TokenType=Clit
+2	garivi,	garivi,	AUX	_	_	-1	_	_	Gloss=rat
+3	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+4	Bua	bua	AUX	_	_	-1	_	_	Gloss=gran.parent
+5	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	bua	bua	AUX	_	_	-1	_	_	Gloss=grand.parent
+8	taiŋwa	taiŋwa	AUX	_	_	-1	_	_	Gloss=femme
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	tata	tata	AUX	_	_	-1	_	_	Gloss=papa
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+12	veve	veve	AUX	_	_	-1	_	_	Gloss=maman
+13	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	ŋwer	ŋwer	AUX	_	_	-1	_	_	Gloss=enfant
+15	tatua	tatua	AUX	_	_	-1	_	_	Gloss=garçon
+16	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+17	ŋwera	ŋwera	AUX	_	_	-1	_	_	Gloss=enfant
+18	taiŋwa	taiŋwa	AUX	_	_	-1	_	_	Gloss=fille
+19	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad6
+# text_en = Les chats, c'est pareil, les poissons c'est pareil, les chiens c'est pareil, les perroquets c'est pareil, les ŋwadu c'est pareil.
+1	Busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+2	doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	masi	masi	AUX	_	_	-1	_	_	Gloss=poisson
+5	doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	wiriu	wiriu	AUX	_	_	-1	_	_	Gloss=chien
+8	doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+9	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+10	siviru	siviru	AUX	_	_	-1	_	_	Gloss=perroquet
+11	doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	ŋwadu	ŋwadu	AUX	_	_	-1	_	_	Gloss=??
+14	doqala	doqala	AUX	_	_	-1	_	_	Gloss=ainsi
+15	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad9
+# text_en = Ensuite, le poisson tu le reconnais, le chat tu le reconnais.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	masi	masi	AUX	_	_	-1	_	_	Gloss=poisson
+3	nik=	nik=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+4	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+5	gilagi	gilagi	AUX	_	_	-1	_	_	Gloss=connaître
+6	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	busi	busi	AUX	_	_	-1	_	_	Gloss=chat
+8	nik=	nik=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+9	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+10	gilagi	gilagi	AUX	_	_	-1	_	_	Gloss=connaître
+11	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad10
+# text_en = Le lapin, tu vois que ses oreilles sont grandes, longues.
+1	rabit	rabit	AUX	_	_	-1	_	_	Gloss=lapin
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	nik=	nik=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+4	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+5	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+6	qoro-	qoro-	AUX	_	_	-1	_	_	Gloss=oreille-|TokenType=Aff
+7	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+8	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+9	menmenas,	menmenas,	AUX	_	_	-1	_	_	Gloss=gros|MGloss=RED~gros|MSeg=men~menas,|Reduplicated=Yes
+10	babarau	babarau	AUX	_	_	-1	_	_	Gloss=long|MGloss=RED~long|MSeg=ba~barau|Reduplicated=Yes
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad11
+# text_en = Ensuite, le rat, tu le reconnais, car il a une queue.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	garivi	garivi	AUX	_	_	-1	_	_	Gloss=rat
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	nik=	nik=	AUX	_	Case=Nom|Number=Sing|Person=2|PronType=Pers	-1	_	_	Gloss=S2sg=|TokenType=Clit|deprel=subj
+6	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+7	gilagi	gilagi	AUX	_	_	-1	_	_	Gloss=connaître
+8	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+9	golo-	golo-	AUX	_	_	-1	_	_	Gloss=queue-|TokenType=Aff
+10	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+11	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+12	ala.	ala.	AUX	_	Polarity=Neg	-1	_	_	Gloss=ExistNeg
+
+# sent_id = Vevsale_min_na=_kad12
+# text_en = “Ensuite, quand nous jouons, nous nous asseyons en rond.”
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+3	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+4	vevsale,	vevsale,	AUX	_	_	-1	_	_	Gloss=jouer
+5	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+6	to	to	AUX	_	_	-1	_	_	Gloss=rester
+7	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+8	dalvita	dalvita	AUX	_	_	-1	_	_	Gloss=autour.
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad14
+# text_en = “C’est comme… c’est moi qui commence ce jeu.”
+1	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+2	nau	nau	AUX	_	Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=I1sg|TokenType=Clit|deprel=dislocated
+3	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+4	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+5	totqatug	totqatug	AUX	_	_	-1	_	_	Gloss=commencer
+6	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+7	vevsale	vevsale	AUX	_	_	-1	_	_	Gloss=jeu
+8	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+9	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad16
+# text_en = C’est comme… je veux donner à Albertine, je lui en donne six
+1	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+2	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+3	war	war	AUX	_	_	-1	_	_	Gloss=vouloir
+4	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+5	min	min	AUX	_	_	-1	_	_	Gloss=Dest
+6	Albertin	Albertin	AUX	_	_	-1	_	_	Gloss=NP
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+9	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+10	i-	i-	AUX	_	_	-1	_	_	Gloss=Num-|TokenType=Aff
+11	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=six
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad17
+# text_en = Il y en a six pour Agnès, six pour Belle-Soeur Lala, et six pour moi.
+1	Agnes	Agnes	AUX	_	_	-1	_	_	Gloss=NP
+2	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+3	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+4	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=six
+5	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+6	i=	i=	AUX	_	_	-1	_	_	Gloss=ArtP=|TokenType=Clit
+7	raiva	raiva	AUX	_	_	-1	_	_	Gloss=belle.sœur
+8	Lala	Lala	AUX	_	_	-1	_	_	Gloss=NP
+9	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+11	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=six
+12	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+13	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+14	k	k	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+15	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=six
+16	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad18
+# text_en = Ensuite, le reste (du paquet), je le pose au milieu, et quand j’ai fini…
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	udu	udu	AUX	_	_	-1	_	_	Gloss=fin
+3	-na	-na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=-P3sg|TokenType=Aff|deprel=mod:poss
+4	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	tau	tau	AUX	_	_	-1	_	_	Gloss=poster
+7	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+8	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+9	tina-	tina-	AUX	_	_	-1	_	_	Gloss=milieu-|TokenType=Aff
+10	na,	na,	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+11	bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+12	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+13	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+14	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+
+# sent_id = Vevsale_min_na=_kad19
+# text_en = Moi qui ai pris, je vais commencer
+1	nau	nau	AUX	_	Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=I1sg|TokenType=Clit|deprel=dislocated
+2	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+3	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+4	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	totqatug,	totqatug,	AUX	_	_	-1	_	_	Gloss=commencer
+
+# sent_id = Vevsale_min_na=_kad20
+# text_en = Je vais regarder mes cartes.
+1	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+3	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+4	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+5	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	ku	ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+7	kad	kad	AUX	_	_	-1	_	_	Gloss=carte
+8	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad22
+# text_en = C’est comme… Je vais demander à Agnès Je voudrais le grand-père lapin
+1	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+2	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+3	ni	ni	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr
+4	usi	usi	AUX	_	_	-1	_	_	Gloss=interroger
+5	Agnes	Agnes	AUX	_	_	-1	_	_	Gloss=NP
+6	vetar	vetar	AUX	_	_	-1	_	_	Gloss=dire
+7	«	«	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	taran	taran	AUX	_	_	-1	_	_	Gloss=aimer
+10	bua	bua	AUX	_	_	-1	_	_	Gloss=grand.parent
+11	tatua	tatua	AUX	_	_	-1	_	_	Gloss=homme
+12	rabit	rabit	AUX	_	_	-1	_	_	Gloss=lapin
+13	»	»	AUX	_	_	-1	_	_	Gloss=PUNCT
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad23
+# text_en = Si elle n’en a pas, je vais prendre… je vais piocher.
+1	No-	No-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+2	n	n	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+3	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+4	tigala,	tigala,	AUX	_	Polarity=Neg	-1	_	_	Gloss=ExistNeg
+5	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+6	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+7	lai…	lai…	AUX	_	_	-1	_	_	Gloss=procurer
+8	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+10	vile.	vile.	AUX	_	_	-1	_	_	Gloss=ramasser
+
+# sent_id = Vevsale_min_na=_kad24
+# text_en = Ensuite, c’est le tour d’Albertine. Albertine va demander… Si on est assis tous en rond.
+1	Baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+4	ne	ne	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP
+5	Albertine	Albertine	AUX	_	_	-1	_	_	Gloss=NP
+6	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+7	Albertine	Albertine	AUX	_	_	-1	_	_	Gloss=NP
+8	ni	ni	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr
+9	usi	usi	AUX	_	_	-1	_	_	Gloss=demander
+10	vetar…	vetar…	AUX	_	_	-1	_	_	Gloss=dire
+11	wari	wari	AUX	_	_	-1	_	_	Gloss=Hyp
+12	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+13	to	to	AUX	_	_	-1	_	_	Gloss=rester
+14	dalvita	dalvita	AUX	_	_	-1	_	_	Gloss=autour
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad26
+# text_en = Elle va me demander, ou demander à Lala
+1	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+3	usi-	usi-	AUX	_	_	-1	_	_	Gloss=demander-|TokenType=Aff
+4	nau	nau	AUX	_	Case=Acc|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=O1sg|TokenType=Clit|deprel=comp:obj
+5	si	si	AUX	_	_	-1	_	_	Gloss=Disj
+6	usi	usi	AUX	_	_	-1	_	_	Gloss=demander
+7	raiva	raiva	AUX	_	_	-1	_	_	Gloss=belle.sœur
+8	Lala	Lala	AUX	_	_	-1	_	_	Gloss=NP
+9	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad27
+# text_en = On va demander, demander, jusqu’à obtenir (quelque chose)
+1	Usi	usi	AUX	_	_	-1	_	_	Gloss=demander
+2	war	war	AUX	_	_	-1	_	_	Gloss=vouloir
+3	usi	usi	AUX	_	_	-1	_	_	Gloss=demander
+4	diŋa	diŋa	AUX	_	_	-1	_	_	Gloss=atteindre
+5	=ŋa.	=ŋa.	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+
+# sent_id = Vevsale_min_na=_kad28
+# text_en = Ensuite, c’est comme… si on continue, quand ces cartes au milieu sont terminées
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+3	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+4	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+5	vavano,	vavano,	AUX	_	_	-1	_	_	Gloss=aller|MGloss=RED~aller|MSeg=va~vano,|Reduplicated=Yes
+6	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+7	kad	kad	AUX	_	_	-1	_	_	Gloss=carte
+8	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+9	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+10	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+11	tina-	tina-	AUX	_	_	-1	_	_	Gloss=milieu-|TokenType=Aff
+12	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+13	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+14	baso,	baso,	AUX	_	_	-1	_	_	Gloss=finir
+
+# sent_id = Vevsale_min_na=_kad29
+# text_en = Maintenant, on se limite à regarder parmi nos cartes.
+1	kakaka	kakaka	AUX	_	_	-1	_	_	Gloss=maintenant
+2	gida=	gida=	AUX	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=S1plincl=|TokenType=Clit|deprel=subj
+3	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+4	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+5	ete	ete	AUX	_	_	-1	_	_	Gloss=voir
+6	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+7	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+8	da	da	AUX	_	Case=Poss|Clusivity=In|Number=Plur|Person=1|PronType=Pers	-1	_	_	Gloss=P1plincl|TokenType=Clit|deprel=mod:poss
+9	=ŋa	=ŋa	AUX	_	_	-1	_	_	Gloss==PEN|TokenType=Clit
+10	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad31
+# text_en = Quand elle me le donne, quand ma famille de lapins va avoir six (lapins) au total.
+1	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+2	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+3	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+4	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+5	min-	min-	AUX	_	_	-1	_	_	Gloss=Dest-|TokenType=Aff
+6	iau	iau	AUX	_	Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=Obl1sg|TokenType=Clit|deprel=comp:obl
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+9	ku	ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+10	famili	famili	AUX	_	_	-1	_	_	Gloss=famille
+11	ga-	ga-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+12	na	na	AUX	_	Case=Poss|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=P3sg|TokenType=Clit|deprel=mod:poss
+13	rabit	rabit	AUX	_	_	-1	_	_	Gloss=lapin
+14	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+15	lavatea	lavatea	AUX	_	_	-1	_	_	Gloss=six
+16	wurwuri	wurwuri	AUX	_	_	-1	_	_	Gloss=completement
+17	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad32
+# text_en = Je la pose sur le sol.
+1	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+2	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+3	wosagi	wosagi	AUX	_	_	-1	_	_	Gloss=jeter
+4	su	su	AUX	_	_	-1	_	_	Gloss=descendre
+5	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+6	tano.	tano.	AUX	_	_	-1	_	_	Gloss=sol
+
+# sent_id = Vevsale_min_na=_kad33
+# text_en = Celle-là, je la gagne, c’est mes premières cartes, elles restent là.
+1	Kea-	Kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+2	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+3	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+4	win	win	AUX	_	_	-1	_	_	Gloss=gagner
+5	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+6	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+7	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+8	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+9	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	k	k	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+11	kad	kad	AUX	_	_	-1	_	_	Gloss=carte
+12	turmua…	turmua…	AUX	_	_	-1	_	_	Gloss=premier
+13	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+14	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad35
+# text_en = C’est elle qui gagne, elle la prend et la pose sur le sol.
+1	ia	ia	AUX	_	Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=I3sg|TokenType=Clit|deprel=dislocated
+2	win	win	AUX	_	_	-1	_	_	Gloss=gagner
+3	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+4	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+5	ni=	ni=	AUX	_	Mood=Irr	-1	_	_	Gloss=Irr=|TokenType=Clit
+6	lai	lai	AUX	_	_	-1	_	_	Gloss=procurer
+7	tau	tau	AUX	_	_	-1	_	_	Gloss=poser
+8	sugo	sugo	AUX	_	_	-1	_	_	Gloss=descendre
+9	le=	le=	AUX	_	_	-1	_	_	Gloss=Loc=|TokenType=Clit
+10	tano.	tano.	AUX	_	_	-1	_	_	Gloss=sol
+
+# sent_id = Vevsale_min_na=_kad36
+# text_en = Ensuite, quand je… quand mes… je gagne ces trois cartes là.
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=Coord
+2	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+3	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+4	wa…	wa…	AUX	_	_	-1	_	_	Gloss=Cadr
+5	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+6	ku	ku	AUX	_	Case=Poss|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=P1sg|TokenType=Clit|deprel=mod:poss
+7	wa=…	wa=…	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+8	nau=	nau=	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	-1	_	_	Gloss=S1sg=|TokenType=Clit|deprel=subj
+9	winim-	winim	AUX	_	_	-1	_	_	Gloss=gagner-Tr|TokenType=Aff
+10	na=	na=	AUX	_	Case=Acc	-1	_	_	Gloss=ArtAc=|TokenType=Clit
+11	kad	kad	AUX	_	_	-1	_	_	Gloss=carte
+12	tolu	tolu	AUX	_	_	-1	_	_	Gloss=trois
+13	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+14	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad38
+# text_en = “Ensuite, ceux qui se trouvent tout autour, genre si ils en ont une chacun.”
+1	Bastau	bastau	AUX	_	_	-1	_	_	Gloss=ensuite
+2	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+3	ira	ira	AUX	_	Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=I3pl|TokenType=Clit|deprel=dislocated
+4	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+5	mo=	mo=	AUX	_	PronType=Rel	-1	_	_	Gloss=Rel=|TokenType=Clit
+6	toga	toga	AUX	_	_	-1	_	_	Gloss=rester
+7	dalvita	dalvita	AUX	_	_	-1	_	_	Gloss=autour
+8	ŋwere	ŋwere	AUX	_	_	-1	_	_	Gloss=être.comme
+9	no-	no-	AUX	_	AdpType=PossClass	-1	_	_	Gloss=CP-|TokenType=Aff
+10	ra	ra	AUX	_	Case=Poss|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=P3pl|TokenType=Clit|deprel=mod:poss
+11	wa=	wa=	AUX	_	_	-1	_	_	Gloss=Cadr=|TokenType=Clit
+12	tewtewa	tewtewa	AUX	_	_	-1	_	_	Gloss=un|MGloss=Distrib~un|MSeg=tew~tewa|Reduplicated=Yes
+13	kea-	kea-	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem-|TokenType=Aff
+14	la	la	AUX	_	AdvType=Loc	-1	_	_	Gloss=Anaph
+15	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad39
+# text_en = “Alors ils ne gagnent pas.”
+1	ka	ka	AUX	_	_	-1	_	_	Gloss=Coord
+2	ira=	ira=	AUX	_	Case=Nom|Number=Plur|Person=3|PronType=Pers	-1	_	_	Gloss=S3pl=|TokenType=Clit|deprel=subj
+3	ti-	ti-	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg1-|TokenType=Aff
+4	ŋa	ŋa	AUX	_	_	-1	_	_	Gloss=PEN
+5	win	win	AUX	_	_	-1	_	_	Gloss=gagner
+6	tea	tea	AUX	_	Polarity=Neg	-1	_	_	Gloss=Neg2
+7	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT
+
+# sent_id = Vevsale_min_na=_kad40
+# text_en = “ Ce jeu de carte, il se termine comme ça.”
+1	vevsale	vevsale	AUX	_	_	-1	_	_	Gloss=jeu
+2	be	be	AUX	_	_	-1	_	_	Gloss=Purp
+3	kad	kad	AUX	_	_	-1	_	_	Gloss=carte
+4	,	,	AUX	_	_	-1	_	_	Gloss=PUNCT
+5	i=	i=	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Pers	-1	_	_	Gloss=S3sg=|TokenType=Clit|deprel=subj
+6	u=	u=	AUX	_	_	-1	_	_	Gloss=PftRes=|TokenType=Clit
+7	baso	baso	AUX	_	_	-1	_	_	Gloss=finir
+8	laka-	laka-	AUX	_	_	-1	_	_	Gloss=Deix-|TokenType=Aff
+9	ga	ga	AUX	_	_	-1	_	_	Gloss=Cataph|deprel=mod:aff
+10	kea	kea	AUX	_	PronType=Dem	-1	_	_	Gloss=Dem
+11	.	.	AUX	_	_	-1	_	_	Gloss=PUNCT

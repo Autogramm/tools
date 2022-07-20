@@ -1,0 +1,189 @@
+# sent_id = Sursurigi_suri_busi_matan_wiriu.1
+# text_en =  Il était une fois un chat et un chien.
+1	Qoŋ	Qoŋ	_	_	_	_	_	_	Gloss=jour
+2	tewa	tewa	_	_	_	_	_	_	Gloss=un
+3	,	,	_	_	_	_	_	_	Gloss=PUNCT
+4	busi	busi	_	_	_	_	_	_	Gloss=chat
+5	mata	mata	_	_	_	_	_	_	Gloss=avec
+6	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
+7	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
+8	toga	toga	_	_	_	_	_	_	Gloss=rester.
+9	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.3
+# text_en =  Tous les deux montent, et Chat dit qu'il a mal au ventre.
+1	Irarua=	Irarua=	_	_	_	_	_	_	Gloss=S3du
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	sae	sae	_	_	_	_	_	_	Gloss=monter
+4	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+5	busi	busi	_	_	_	_	_	_	Gloss=chat
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+7	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+8	ia=	ia=	_	_	_	_	_	_	Gloss=S3sg
+9	u=	u=	_	_	_	_	_	_	Gloss=PftRes
+10	taqaŋi-	taqaŋi-	_	_	_	_	_	_	Gloss=ventre-
+11	na	na	_	_	_	_	_	_	Gloss=P3sg
+12	gandiri	gandiri	_	_	_	_	_	_	Gloss=souffrir
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.4
+# text_en =  Chien dit au chat de Red.scendre et de rentrer à la maison.
+1	I=	I=	_	_	_	_	_	_	Gloss=ArtP
+2	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+4	vet	vet	_	_	_	_	_	_	Gloss=dire
+5	min	min	_	_	_	_	_	_	Gloss=Dest
+6	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+7	busi,	busi,	_	_	_	_	_	_	Gloss=chat
+8	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+9	ia	ia	_	_	_	_	_	_	Gloss=S3sg
+10	ni=	ni=	_	_	_	_	_	_	Gloss=Irr
+11	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+12	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+13	le=	le=	_	_	_	_	_	_	Gloss=Loc
+14	vale.	vale.	_	_	_	_	_	_	Gloss=maison
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.6
+# text_en =  Chat arrive à la maison, et mange leur poule, il mange juste une aile, puis il remonte,
+1	I=	I=	_	_	_	_	_	_	Gloss=ArtP
+2	busi	busi	_	_	_	_	_	_	Gloss=chat
+3	sumai	sumai	_	_	_	_	_	_	Gloss=venir
+4	le=	le=	_	_	_	_	_	_	Gloss=Loc
+5	vale	vale	_	_	_	_	_	_	Gloss=maison
+6	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+7	gan	gan	_	_	_	_	_	_	Gloss=manger
+8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+9	kuru,	kuru,	_	_	_	_	_	_	Gloss=poule
+10	gan	gan	_	_	_	_	_	_	Gloss=manger
+11	gas	gas	_	_	_	_	_	_	Gloss=juste
+12	bani	bani	_	_	_	_	_	_	Gloss=aile
+13	-na	-na	_	_	_	_	_	_	Gloss=-P3sg
+14	,	,	_	_	_	_	_	_	Gloss=PUNCT
+15	kati	kati	_	_	_	_	_	_	Gloss=Coord
+16	ira=	ira=	_	_	_	_	_	_	Gloss=S3pl
+17	ge=	ge=	_	_	_	_	_	_	Gloss=AorPl
+18	sae,	sae,	_	_	_	_	_	_	Gloss=monter
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.8
+# text_en =  Il dit oui.
+1	I=	I=	_	_	_	_	_	_	Gloss=S3sg
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+3	vet	vet	_	_	_	_	_	_	Gloss=dire
+4	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	o'o	o'o	_	_	_	_	_	_	Gloss=oui
+7	"	"	_	_	_	_	_	_	Gloss=PUNCT
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.10
+# text_en =  Le chat dit Non!
+1	I=	I=	_	_	_	_	_	_	Gloss=ArtP
+2	busi	busi	_	_	_	_	_	_	Gloss=chat
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+4	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	Tigai	Tigai	_	_	_	_	_	_	Gloss=non
+7	"	"	_	_	_	_	_	_	Gloss=PUNCT
+8	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.12
+# text_en =  Ils dorment, le jour se lève, et tous deux montent, s'occuper de leur jardin
+1	Ira=	Ira=	_	_	_	_	_	_	Gloss=S3pl
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	maturu,	maturu,	_	_	_	_	_	_	Gloss=dormir
+4	maran	maran	_	_	_	_	_	_	Gloss=jour
+5	sae	sae	_	_	_	_	_	_	Gloss=monter
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	irarua=	irarua=	_	_	_	_	_	_	Gloss=S3du
+8	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+9	sae,	sae,	_	_	_	_	_	_	Gloss=monter
+10	tai	tai	_	_	_	_	_	_	Gloss=couper
+11	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.13
+# text_en =  Le chat dit qu'il a mal au ventre.
+1	bula-	bula-	_	_	_	_	_	_	Gloss=CP-
+2	ra	ra	_	_	_	_	_	_	Gloss=P3pl
+3	uma	uma	_	_	_	_	_	_	Gloss=jardin
+4	,	,	_	_	_	_	_	_	Gloss=PUNCT
+5	Busi	Busi	_	_	_	_	_	_	Gloss=chat
+6	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+7	taqaŋi	taqaŋi	_	_	_	_	_	_	Gloss=ventre
+8	-n	-n	_	_	_	_	_	_	Gloss=-P3sg
+9	gandiri	gandiri	_	_	_	_	_	_	Gloss=souffrir
+10	.	.	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.14
+# text_en =  Tous deux redescendent.
+1	Irarua=	Irarua=	_	_	_	_	_	_	Gloss=S3du
+2	ti=	ti=	_	_	_	_	_	_	Gloss=Aor
+3	sugo.	sugo.	_	_	_	_	_	_	Gloss=descendre
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.15
+# text_en =  Car le chien avait pris de la sève d'arbre à pain, et l’avait posée sur le couvercle de la casserole;
+1	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+2	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+3	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
+4	tai	tai	_	_	_	_	_	_	Gloss=couper
+5	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+6	bulut	bulut	_	_	_	_	_	_	Gloss=sève
+7	batau	batau	_	_	_	_	_	_	Gloss=fruit.à.pain
+8	,	,	_	_	_	_	_	_	Gloss=PUNCT
+9	tau	tau	_	_	_	_	_	_	Gloss=poser
+10	le=	le=	_	_	_	_	_	_	Gloss=Loc
+11	let	let	_	_	_	_	_	_	Gloss=couvercle
+12	sospen	sospen	_	_	_	_	_	_	Gloss=casserole
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.16
+# text_en =  Chat arrive, et veut ouvrir le couvercle de la casserole
+1	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+2	busi	busi	_	_	_	_	_	_	Gloss=chat
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+4	mule	mule	_	_	_	_	_	_	Gloss=rentrer
+5	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+6	,	,	_	_	_	_	_	_	Gloss=PUNCT
+7	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+8	wa=	wa=	_	_	_	_	_	_	Gloss=Cadr
+9	saŋava	saŋava	_	_	_	_	_	_	Gloss=ouvrir
+10	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+11	let	let	_	_	_	_	_	_	Gloss=couvercle
+12	cocot	cocot	_	_	_	_	_	_	Gloss=casserole
+13	,	,	_	_	_	_	_	_	Gloss=PUNCT
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.17
+# text_en =  alors le chien entend se heurter le couvercle et la casserole, il entre en courant,
+1	bastau	bastau	_	_	_	_	_	_	Gloss=ensuite
+2	i=	i=	_	_	_	_	_	_	Gloss=ArtP
+3	wiriu	wiriu	_	_	_	_	_	_	Gloss=chien
+4	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+5	roŋ	roŋ	_	_	_	_	_	_	Gloss=entendre
+6	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+7	adiŋara	adiŋara	_	_	_	_	_	_	Gloss=cogner
+8	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+9	let	let	_	_	_	_	_	_	Gloss=couvercle
+10	cocot	cocot	_	_	_	_	_	_	Gloss=casserole
+11	sugo	sugo	_	_	_	_	_	_	Gloss=descendre
+12	le=	le=	_	_	_	_	_	_	Gloss=Loc
+13	sospen,	sospen,	_	_	_	_	_	_	Gloss=casserole
+14	i=	i=	_	_	_	_	_	_	Gloss=S3sg
+15	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+16	rowo	rowo	_	_	_	_	_	_	Gloss=courir
+
+# sent_id = Sursurigi_suri_busi_matan_wiriu.18
+# text_en =  il dit C'est toi qui a mangé cette nourriture, tu as mangé notre poule à tous les deux!
+1	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+2	sugo,	sugo,	_	_	_	_	_	_	Gloss=descendre
+3	ti=	ti=	_	_	_	_	_	_	Gloss=Aor3sg
+4	vetar	vetar	_	_	_	_	_	_	Gloss=dire
+5	"	"	_	_	_	_	_	_	Gloss=PUNCT
+6	Niko	Niko	_	_	_	_	_	_	Gloss=I2sg
+7	sinaga	sinaga	_	_	_	_	_	_	Gloss=nourriture
+8	kea	kea	_	_	_	_	_	_	Gloss=Dem
+9	mo=	mo=	_	_	_	_	_	_	Gloss=Rel
+10	gani,	gani,	_	_	_	_	_	_	Gloss=manger
+11	gan	gan	_	_	_	_	_	_	Gloss=manger
+12	na=	na=	_	_	_	_	_	_	Gloss=ArtAc
+13	ga-	ga-	_	_	_	_	_	_	Gloss=CP-
+14	darua	darua	_	_	_	_	_	_	Gloss=P1duincl
+15	kuru!	kuru!	_	_	_	_	_	_	Gloss=poule
+16	"	"	_	_	_	_	_	_	Gloss=PUNCT
+
