@@ -1,6 +1,8 @@
 import sys
 from praatio import textgrid
 
+## The two inputs files were not using the same columns, delta is used to align.
+
 # base_name = "nar_RouDes_2017_04_26_001_yrk-tun"
 # delta = 0
 base_name = "nar_RouDes_2017_04_26_002_yrk-tun"
@@ -30,7 +32,7 @@ def get_next_interval(word):
 
 id = 0
 sent_id = 0
-for (num,line) in enumerate(data[1:]): # data[2:] for file 001
+for (num,line) in enumerate(data[2-delta:]):
 	cols = line.split('\t')
 	cols[8+delta] = cols[8+delta].strip()
 	if all(x == '' for x in cols):
